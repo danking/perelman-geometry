@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="566.92932"
+   height="566.92932"
+   viewBox="0 0 566.92932 566.92932"
+   sodipodi:docname="perelman-geometry-fc.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient22"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2c89a0;stop-opacity:1"
+         offset="0"
+         id="stop22" />
+      <stop
+         style="stop-color:#c8b7b7;stop-opacity:0;"
+         offset="1"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22"
+       id="linearGradient23"
+       x1="6.4453127e-07"
+       y1="283.46466"
+       x2="283.46466"
+       y2="283.46466"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.6972697,1)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.82942616"
+     inkscape:cx="371.34107"
+     inkscape:cy="277.90298"
+     inkscape:window-width="1440"
+     inkscape:window-height="878"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="i"
+       id="page1"
+       width="566.92932"
+       height="566.92932"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="i">
+    <rect
+       style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:18.8434;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers fill stroke"
+       id="rect4"
+       width="566.92932"
+       height="566.92932"
+       x="6.4453127e-07"
+       y="0" />
+    <rect
+       style="fill:url(#linearGradient23);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:24.549;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers fill stroke"
+       id="rect22"
+       width="481.11597"
+       height="566.92932"
+       x="6.4453127e-07"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0.95;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:3px;word-spacing:0px;text-anchor:middle;fill:#000000"
+       x="283.81256"
+       y="541.51917"
+       id="text16"><tspan
+         sodipodi:role="line"
+         x="285.31256"
+         y="541.51917"
+         id="tspan16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:3px;fill:#000000">The Mirtitles Project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:'Beau Rivage';-inkscape-font-specification:'Beau Rivage, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:5px;word-spacing:0px;text-anchor:middle;fill:#000000"
+       x="281.02716"
+       y="100.38924"
+       id="text25"><tspan
+         sodipodi:role="line"
+         x="283.52716"
+         y="100.38924"
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'Beau Rivage';-inkscape-font-specification:'Beau Rivage, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:5px;fill:#000000">Yakov Perelman</tspan></text>
+    <g
+       id="g26">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3.27303;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 56.412743,137.54748 H 515.21872"
+         id="path23"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g23"
+         transform="translate(0,21.446533)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.0677px;line-height:1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:7.95082px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:1.59017"
+           x="282.28583"
+           y="180.1909"
+           id="text4"><tspan
+             sodipodi:role="line"
+             x="286.26123"
+             y="180.1909"
+             id="tspan15"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.0677px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.59017">GEOMETRY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;line-height:1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:5px;word-spacing:0px;text-anchor:middle"
+           x="286.87476"
+           y="265.97873"
+           id="text19"><tspan
+             sodipodi:role="line"
+             x="289.37476"
+             y="265.97873"
+             id="tspan19"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:'Beau Rivage';-inkscape-font-specification:'Beau Rivage, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">for</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.3209px;line-height:1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:5px;word-spacing:0px;text-anchor:middle"
+           x="283.46466"
+           y="338.89294"
+           id="text21"><tspan
+             sodipodi:role="line"
+             x="285.96466"
+             y="338.89294"
+             id="tspan21"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.3209px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ENTERTAINMENT</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:3.27303;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 56.412743,377.54748 H 515.21872"
+         id="path26"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

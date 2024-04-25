@@ -63,7 +63,11 @@
 
 \RedeclareSectionCommand[beforeskip=.5\textheight plus 1.25\baselineskip]{chapter}
 
+\newcommand{\ans}{\marginnote{\textcolor{SteelBlue}{{\large \emph{Answer}}}}}% prints in red
 
+\newcommand{\ques}{\marginnote{\textcolor{Salmon}{{\large \emph{Question}}}}}% prints in red
+
+\newcommand{\drkgry}[1]{\textcolor{darkgray}{{#1}}}
 
 % Redefine \partpagestyle to empty
 \renewcommand*{\partpagestyle}{empty}
@@ -111,16 +115,19 @@
 %\usepackage{tikz}
 
 \usepackage{physics}
+\usepackage{pdfpages}
 
 %%%%%%  END OF PACKAGES 
 
 \title{Geometry for Entertainment}
 \author{Yakov Perelman}
-
+\date{2024}
 %%%% META DATA
 
 \begin{document}
 \renewcommand{\baselinestretch}{1}\normalsize
+
+\includepdf{figures/perelman-geometry-fc.pdf}
 
 \frontmatter
 
