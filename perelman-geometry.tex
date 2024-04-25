@@ -1,0 +1,141 @@
+
+%!TEX TS-program = lualatex
+%!TEX encoding = UTF-8 Unicode
+
+
+%\documentclass[11pt,b5paper]{book}
+% \usepackage{fontspec}
+% \defaultfontfeatures{Mapping=tex-text}
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+%\usepackage{euler}
+%		\usepackage{geometry}
+% setting page parameters
+%		\geometry{textwidth=5in, textheight=7.5in,  marginparsep=7pt, marginparwidth=.6in}
+%\usepackage{longtable}
+\documentclass[10pt]{scrbook}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{paperheight=150mm,paperwidth=150mm, textwidth=75mm, textheight=100mm,                 top=20mm, bottom=20mm, marginparwidth=38mm, headsep=8mm, left=10mm, right=55mm, marginparsep=7mm, footskip=10mm}                   % ... or a4paper or a5paper 
+% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+%\usepackage[]{euler}
+\usepackage{graphicx}
+%\usepackage[]{gfsneohellenic}
+\usepackage{amsmath}
+
+\usepackage{amssymb}
+
+%\usepackage[sfdefault]{josefin}
+\usepackage[libertine]{newtxmath}
+\usepackage[nomath]{libertinus}
+
+\usepackage{marginnote}
+\usepackage{sidenotes}
+\renewcommand*{\marginfont}{\footnotesize}
+\renewcommand\raggedrightmarginnote{}
+\renewcommand\raggedleftmarginnote{}
+
+\makeatletter
+\ExplSyntaxOn
+\RenewDocumentCommand \@sidenotes@placemarginal { m m }
+{
+  \IfNoValueOrEmptyTF{#1}
+    % substitue \marginnote from marginnote pkg for \marginpar 
+    % from latex2e format
+    {\marginnote{#2}}
+    {\marginnote{#2}[#1]}
+}
+\ExplSyntaxOff
+\makeatother
+%https://tex.stackexchange.com/questions/532245/how-to-modify-fonts-in-sidenotes
+
+\usepackage{soul}
+\usepackage[tracking=smallcaps,letterspace=100]{microtype}
+
+
+\addtokomafont{chapter}{\color{darkgray}}
+\addtokomafont{section}{\color{gray}}
+\addtokomafont{subsection}{\color{LightSlateGray}}
+\setkomafont{caption}{\small\sffamily}
+
+\setlength{\textfloatsep}{0.9\baselineskip plus 0.2\baselineskip minus 0.5\baselineskip}
+
+\RedeclareSectionCommand[beforeskip=.5\textheight plus 1.25\baselineskip]{chapter}
+
+
+
+% Redefine \partpagestyle to empty
+\renewcommand*{\partpagestyle}{empty}
+
+\usepackage[per-mode=symbol]{siunitx}
+\sisetup{
+  group-separator={,},
+  group-minimum-digits=4,
+}
+
+%\usepackage{concmath}
+%\usepackage{kpfonts}
+\usepackage{enumitem}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+
+% \usepackage{colortbl}
+\usepackage{multicol}
+\usepackage{mathtools}
+
+\usepackage{graphicx}
+
+
+% for numbers/text with circles around them
+% hyper referencing objects urls etc
+\usepackage[colorlinks = true, urlcolor=DodgerBlue, linkcolor=darkgray, citecolor=DodgerBlue,linktoc=all]{hyperref}
+
+
+\RedeclareSectionCommand[
+  runin=false,
+  afterindent=false,
+  beforeskip=.5\baselineskip,
+  afterskip=5pt]{section}
+  
+%\usepackage{basicarith}
+%\usepackage{xlop}
+% Adjust the space after floats
+% Define a new command for easier spacing adjustment
+
+\newcommand*\figr[1]{\hyperref[#1]{Figure~\ref{#1}}}
+
+\usepackage{emptypage}
+
+\usepackage{epigraph}
+
+%\usepackage{tikz}
+
+\usepackage{physics}
+
+%%%%%%  END OF PACKAGES 
+
+\title{Geometry for Entertainment}
+\author{Yakov Perelman}
+
+%%%% META DATA
+
+\begin{document}
+\renewcommand{\baselinestretch}{1}\normalsize
+
+\frontmatter
+
+\input{00-front}
+
+
+\mainmatter
+
+\part{Geometry In The Open Air}
+
+\input{01-forest-geometry}
+
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
