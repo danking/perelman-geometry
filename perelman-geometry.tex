@@ -18,7 +18,7 @@
 \geometry{paperheight=150mm,paperwidth=150mm, textwidth=75mm, textheight=100mm,                 top=20mm, bottom=20mm, marginparwidth=38mm, headsep=8mm, left=10mm, right=55mm, marginparsep=7mm, footskip=10mm}                   % ... or a4paper or a5paper 
 % ... or a4paper or a5paper or ... 
 %\geometry{landscape}                % Activate for for rotated page geometry
-%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
 %\usepackage[]{euler}
 \usepackage{graphicx}
 %\usepackage[]{gfsneohellenic}
@@ -86,6 +86,7 @@
 % \usepackage{colortbl}
 \usepackage{multicol}
 \usepackage{mathtools}
+\usepackage{nicefrac}
 
 \usepackage{graphicx}
 
@@ -117,6 +118,10 @@
 \usepackage{physics}
 \usepackage{pdfpages}
 
+\usepackage{chngcntr}
+\counterwithout{figure}{chapter}
+
+
 %%%%%%  END OF PACKAGES 
 
 \title{Geometry for Entertainment}
@@ -139,7 +144,7 @@
 \part{Geometry In The Open Air}
 
 \input{01-forest-geometry}
-
+\input{02-river-geometry}
 
 \end{document}
 %%% Local Variables:

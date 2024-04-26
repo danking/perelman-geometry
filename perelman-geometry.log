@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.31)  25 APR 2024 20:25
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.31)  26 APR 2024 16:48
  restricted system commands enabled.
  file:line:error style messages enabled.
 **perelman-geometry.tex
@@ -201,7 +201,32 @@ Package geometry Warning: Over-specification in `h'-direction.
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (284.52756pt) is ignored.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+
+Class scrbook Warning: Usage of package `parskip' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use option
+(scrbook)              `parskip' with one of it's several values.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `parskip' on input line 23.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count199
+)
+Couldn't patch \@startsection
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
@@ -241,14 +266,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count199
+\inf@bad=\count266
 LaTeX Info: Redefining \frac on input line 236.
-\uproot@=\count266
-\leftroot@=\count267
+\uproot@=\count267
+\leftroot@=\count268
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count268
-\DOTSCASE@=\count269
+\classnum@=\count269
+\DOTSCASE@=\count270
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -261,20 +286,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count270
+\macc@depth=\count271
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count271
+\c@MaxMatrixCols=\count272
 \dotsspace@=\muskip16
-\c@parentequation=\count272
-\dspbrk@lvl=\count273
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
 \tag@help=\toks20
-\row@=\count274
-\column@=\count275
-\maxfields@=\count276
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
 \andhelp@=\toks21
 \eqnshift@=\dimen153
 \alignsep@=\dimen154
@@ -306,10 +331,6 @@ Package: newtxmath 2024/03/06 v1.742
 `newtxmath' v1.742, 2024/03/06 Math macros based originally on txfonts (msharpe
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count277
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
@@ -633,10 +654,6 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
@@ -810,12 +827,15 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \xmathstrut@box=\box116
 \xmathstrut@dim=\dimen264
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip80
+\L@UnitsRaiseTextstyle=\skip81
+\L@UnitsRaiseScriptstyle=\skip82
+)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
@@ -837,16 +857,13 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-))
+)
 \c@section@level=\count337
 )
 \@linkdim=\dimen265
 \Hy@linkcounter=\count338
 \Hy@pagecounter=\count339
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -926,7 +943,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip80
+\Hy@SectionHShift=\skip83
 )
 
 Class scrbook Warning: Usage of package `emptypage' together
@@ -935,7 +952,7 @@ Class scrbook Warning: Usage of package `emptypage' together
 (scrbook)              `cleardoublepage' with one of it's
 (scrbook)              several values.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `emptypage' on input line 112.
+(scrbook)              package `emptypage' on input line 113.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
@@ -947,10 +964,10 @@ Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
 (/usr/local/texlive/2024/texmf-dist/tex/latex/nextpage/nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
 )
-\beforeepigraphskip=\skip81
-\afterepigraphskip=\skip82
-\epigraphwidth=\skip83
-\epigraphrule=\skip84
+\beforeepigraphskip=\skip84
+\afterepigraphskip=\skip85
+\epigraphwidth=\skip86
+\epigraphrule=\skip87
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
@@ -979,8 +996,13 @@ File: ppluatex.def 2024/01/21 v0.5y Pdfpages driver for LuaTeX (AM)
 \c@AM@survey=\count350
 \AM@templatesizebox=\box118
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 127.
+h' as default language. on input line 132.
 
 (./perelman-geometry.aux
 
@@ -989,69 +1011,69 @@ LaTeX Warning: Label `sec-1.12' multiply defined.
 )
 \openout1 = perelman-geometry.aux
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 127.
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 132.
 LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line
- 127.
+ 132.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-27.
+32.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 132.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-127.
+132.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 132.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 127.
+ 132.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 132.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 127.
+e 132.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-Package scrbase Info: activating english \partname on input line 127.
-Package scrbase Info: activating english \chaptername on input line 127.
-Package scrbase Info: activating english \appendixname on input line 127.
-Package scrbase Info: activating english \figurename on input line 127.
-Package scrbase Info: activating english \tablename on input line 127.
-Package scrbase Info: activating english \contentsname on input line 127.
-Package scrbase Info: activating english \listfigurename on input line 127.
-Package scrbase Info: activating english \listtablename on input line 127.
-Package scrbase Info: activating english \bibname on input line 127.
-Package scrbase Info: activating english \indexname on input line 127.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+Package scrbase Info: activating english \partname on input line 132.
+Package scrbase Info: activating english \chaptername on input line 132.
+Package scrbase Info: activating english \appendixname on input line 132.
+Package scrbase Info: activating english \figurename on input line 132.
+Package scrbase Info: activating english \tablename on input line 132.
+Package scrbase Info: activating english \contentsname on input line 132.
+Package scrbase Info: activating english \listfigurename on input line 132.
+Package scrbase Info: activating english \listtablename on input line 132.
+Package scrbase Info: activating english \bibname on input line 132.
+Package scrbase Info: activating english \indexname on input line 132.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1109,28 +1131,28 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Command `\dddot' is already robust on input line 127.
-LaTeX Info: Command `\ddddot' is already robust on input line 127.
+LaTeX Info: Command `\dddot' is already robust on input line 132.
+LaTeX Info: Command `\ddddot' is already robust on input line 132.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
 \caption@adjustwidth@hsize=\dimen276
 \caption@adjustwidth@linewidth=\dimen277
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\@sidenotes@extrawidth=\skip85
-LaTeX Info: Redefining \microtypecontext on input line 127.
-Package microtype Info: Applying patch `item' on input line 127.
-Package microtype Info: Applying patch `toc' on input line 127.
-Package microtype Info: Applying patch `eqnum' on input line 127.
-Package microtype Info: Applying patch `footnote' on input line 127.
-Package microtype Info: Applying patch `verbatim' on input line 127.
+\@sidenotes@extrawidth=\skip88
+LaTeX Info: Redefining \microtypecontext on input line 132.
+Package microtype Info: Applying patch `item' on input line 132.
+Package microtype Info: Applying patch `toc' on input line 132.
+Package microtype Info: Applying patch `eqnum' on input line 132.
+Package microtype Info: Applying patch `footnote' on input line 132.
+Package microtype Info: Applying patch `verbatim' on input line 132.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 127.
+LaTeX Info: Redefining \showhyphens on input line 132.
 Package microtype Info: Tracking enabled.
 Package microtype Info: Using tracking set `smallcaps'.
 Package microtype Info: No adjustment of spacing.
@@ -1158,8 +1180,8 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 127.
-Package hyperref Info: Link coloring ON on input line 127.
+or `english'. on input line 132.
+Package hyperref Info: Link coloring ON on input line 132.
  (./perelman-geometry.out) (./perelman-geometry.out)
 \@outlinefile=\write3
 
@@ -1171,7 +1193,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 127.
+(scrbook)           before \begin{document} on input line 132.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -1197,38 +1219,38 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf  used on input line 1
-30.
+35.
 (luatex.def)             Requested size: 427.59645pt x 427.59645pt.
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf  used on input line 1
-30.
+35.
 (luatex.def)             Requested size: 427.59645pt x 427.59645pt.
 <figures/perelman-geometry-fc.pdf, id=7, page=1, 427.5975pt x 427.5975pt>
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf, page 1>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf , page1 used on input
- line 130.
+ line 135.
 (luatex.def)             Requested size: 427.59645pt x 427.59645pt.
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf, page 1>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf , page1 used on input
- line 130.
+ line 135.
 (luatex.def)             Requested size: 427.38113pt x 427.38113pt.
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf, page 1>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf , page1 used on input
- line 130.
+ line 135.
 (luatex.def)             Requested size: 427.38113pt x 427.38113pt.
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf, page 1>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf , page1 used on input
- line 130.
+ line 135.
 (luatex.def)             Requested size: 427.38113pt x 427.38113pt.
 File: figures/perelman-geometry-fc.pdf Graphic file (type pdf)
 <use figures/perelman-geometry-fc.pdf, page 1>
 Package luatex.def Info: figures/perelman-geometry-fc.pdf , page1 used on input
- line 130.
+ line 135.
 (luatex.def)             Requested size: 427.38113pt x 427.38113pt.
  [1
 
@@ -1335,19 +1357,30 @@ Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/minlibertine/m/n/5.5'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (9.49126pt too wide) in paragraph at lines 34--35
-\TU/LibertinusSerif(0)/m/n/10 In-ter-net Archive [][]$\TU/LibertinusMono(0)/m/n
-/10 https://archive.org/details/20220910_
+Overfull \hbox (1.26906pt too wide) in paragraph at lines 34--35
+\TU/LibertinusSerif(0)/m/n/10 ter-net Archive [][]$\TU/LibertinusMono(0)/m/n/10
+ https://archive.org/details/20220910_
  []
 
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 7.3pt on input line 36.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 10.0pt on input line 36.
+
+Overfull \hbox (19.58737pt too wide) in paragraph at lines 40--41
+\TU/LibertinusSerif(0)/m/n/10 by \TU/LibertinusSerif(0)/m/it/10 The Mir Ti-tles Project\TU/LibertinusSerif(0)/m/n/10 . [][]$\TU/LibertinusMono(0)/m/n/10 https://mirtitles.org$[][] \TU/LibertinusSerif(0)/m/n/10 in 2024. 
+ []
+
+
+Overfull \hbox (38.36777pt too wide) in paragraph at lines 44--45
+[][]$\TU/LibertinusMono(0)/m/n/10 https://archive.org/details/cosimobartolidel00
+bart$[][]\TU/LibertinusSerif(0)/m/n/10 . 
+ []
+
 [5] [6
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 47
+Package tocbasic Info: character protrusion at toc deactivated on input line 54
 .
  (./perelman-geometry.toc
 LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/b/n' will be
@@ -1361,7 +1394,7 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 
 \openout4 = perelman-geometry.toc
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 49.
+(Font)              scaled to size 10.0pt on input line 56.
  [8]
 chapter without number
 [9
@@ -1371,18 +1404,46 @@ chapter without number
 
 ]
 chapter without number
-[13]) [14]
+Package marginnote Info: Margin note 15.1 is on absolute page 15 on input line 
+91.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 91.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 91.
+[13]
+Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
+96.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 96.
+Package marginnote Info: Margin note 16.2 is on absolute page 16 on input line 
+100.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 100.
+Package marginnote Info: Margin note 16.3 is on absolute page 16 on input line 
+102.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 102.
+
+Overfull \hbox (0.63393pt too wide) in paragraph at lines 102--103
+[]\TU/LibertinusSerif(0)/m/n/10 Dur-ing the course of type-set-ting this book, 
+dis-cus-sions posted
+ []
+
+[14]
+<figures/pustaktarak.pdf, id=196, 60.62045pt x 60.62045pt>
+File: figures/pustaktarak.pdf Graphic file (type pdf)
+<use figures/pustaktarak.pdf>
+Package luatex.def Info: figures/pustaktarak.pdf  used on input line 108.
+(luatex.def)             Requested size: 48.36894pt x 48.3706pt.
+) [15<./figures/pustaktarak.pdf>] [16
+
+
+]
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 139.
+(scrkbase)              on input line 144.
 LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 139.
+(Font)              scaled to size 24.88pt on input line 144.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1
-
-
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
@@ -1405,7 +1466,7 @@ Overfull \hbox (73.97603pt too wide) in paragraph at lines 10--10
 
 ]
 chapter 1.
-<figures/ch-01/fig-ch-01-head.pdf, id=181, 1778.90141pt x 720.44136pt>
+<figures/ch-01/fig-ch-01-head.pdf, id=228, 1778.90141pt x 720.44136pt>
 File: figures/ch-01/fig-ch-01-head.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-ch-01-head.pdf>
 Package luatex.def Info: figures/ch-01/fig-ch-01-head.pdf  used on input line 2
@@ -1421,10 +1482,8 @@ LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/b/n' will be
 [5
 
 <./figures/ch-01/fig-ch-01-head.pdf>]
-Package marginnote Info: Margin note 22.1 is on absolute page 22 on input line 
+Package marginnote Info: Margin note 24.1 is on absolute page 24 on input line 
 47.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 47.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/minlibertine/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1433,459 +1492,739 @@ Package microtype Info: Character `AE ' is missing
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 6.2pt on input line 47.
-Package marginnote Info: xpos seems to be 178.74043pt on input line 47.
+Package marginnote Info: xpos seems to be 397.67198pt on input line 47.
  [6] [7]
-<figures/ch-01/fig-01-01.pdf, id=198, 1243.02422pt x 1097.63904pt>
+<figures/ch-01/fig-01-01.pdf, id=244, 1243.02422pt x 1097.63904pt>
 File: figures/ch-01/fig-01-01.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-01.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-01.pdf  used on input line 61.
 (luatex.def)             Requested size: 217.66212pt x 192.1902pt.
-Package marginnote Info: Margin note 24.1 is on absolute page 24 on input line 
+Package marginnote Info: Margin note 26.1 is on absolute page 26 on input line 
 63.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 63.
  [8<./figures/ch-01/fig-01-01.pdf>]
-<figures/ch-01/fig-01-02.pdf, id=208, 1209.39694pt x 957.0096pt>
+<figures/ch-01/fig-01-02.pdf, id=254, 1209.39694pt x 957.0096pt>
 File: figures/ch-01/fig-01-02.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-02.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-02.pdf  used on input line 74.
 (luatex.def)             Requested size: 217.66212pt x 172.22508pt.
-Package marginnote Info: Margin note 25.1 is on absolute page 26 on input line 
+Package marginnote Info: Margin note 27.1 is on absolute page 28 on input line 
 75.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 75.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package marginnote Info: Margin note 25.2 is on absolute page 25 on input line 
+Package marginnote Info: Margin note 27.2 is on absolute page 27 on input line 
 79.
 Package marginnote Info: xpos seems to be 28.45274pt on input line 79.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 79.
-Package marginnote Info: Margin note 25.3 is on absolute page 26 on input line 
+[9]
+Package marginnote Info: Margin note 28.1 is on absolute page 28 on input line 
 82.
 Package marginnote Info: xpos seems to be 156.49014pt on input line 82.
-[9]
-Package marginnote Info: Margin note 26.1 is on absolute page 27 on input line 
+Package marginnote Info: Margin note 28.2 is on absolute page 29 on input line 
 82.
 Package marginnote Info: xpos seems to be 179.5473pt on input line 82.
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
  [10<./figures/ch-01/fig-01-02.pdf>]
-<figures/ch-01/fig-01-03.pdf, id=225, 1479.60184pt x 1076.1128pt>
+<figures/ch-01/fig-01-03.pdf, id=271, 1479.60184pt x 1076.1128pt>
 File: figures/ch-01/fig-01-03.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-03.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-03.pdf  used on input line 88.
 (luatex.def)             Requested size: 217.66212pt x 158.29013pt.
-Package marginnote Info: Margin note 27.1 is on absolute page 28 on input line 
+Package marginnote Info: Margin note 29.1 is on absolute page 30 on input line 
 90.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 90.
 
+Underfull \hbox (badness 2865) in paragraph at lines 90--90
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 3.: |How penum-bra is
+ []
+
+Package marginnote Info: xpos seems to be 387.49544pt on input line 90.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11] [12<./figures/ch-01/fig-01-03.pdf>]
-<figures/ch-01/fig-01-04.pdf, id=239, 1279.39204pt x 595.21901pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12<./figures/ch-01/fig-01-03.pdf>]
+<figures/ch-01/fig-01-04.pdf, id=285, 1279.39204pt x 595.21901pt>
 File: figures/ch-01/fig-01-04.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-04.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-04.pdf  used on input line 104.
 (luatex.def)             Requested size: 145.11053pt x 67.50873pt.
-Package marginnote Info: Margin note 29.1 is on absolute page 29 on input line 
+Package marginnote Info: Margin note 31.1 is on absolute page 31 on input line 
 106.
 Package marginnote Info: xpos seems to be 223.18224pt on input line 106.
-
-Overfull \hbox (4.5623pt too wide) in paragraph at lines 109--110
-[]\TU/LibertinusSerif(0)/m/n/10 As you can see, the tool can be en-tirely crafte
-d in a makeshift
- []
-
-
-Overfull \hbox (4.5623pt too wide) in paragraph at lines 113--114
-[]\TU/LibertinusSerif(0)/m/n/10 As you can see, the tool can be en-tirely crafte
-d in a makeshift
- []
-
-<figures/ch-01/fig-01-05.pdf, id=240, 875.23926pt x 572.36356pt>
+ [13<./figures/ch-01/fig-01-04.pdf>]
+<figures/ch-01/fig-01-05.pdf, id=294, 875.23926pt x 572.36356pt>
 File: figures/ch-01/fig-01-05.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-05.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-05.pdf  used on input line 117.
 (luatex.def)             Requested size: 217.66212pt x 142.33945pt.
-Package marginnote Info: Margin note 29.2 is on absolute page 30 on input line 
+Package marginnote Info: Margin note 32.1 is on absolute page 32 on input line 
 119.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 119.
-[13<./figures/ch-01/fig-01-04.pdf>] [14<./figures/ch-01/fig-01-05.pdf>]
-<figures/ch-01/fig-01-06.pdf, id=255, 921.34248pt x 737.73747pt>
+ [14<./figures/ch-01/fig-01-05.pdf>]
+<figures/ch-01/fig-01-06.pdf, id=302, 921.34248pt x 737.73747pt>
 File: figures/ch-01/fig-01-06.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-06.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-06.pdf  used on input line 127.
 (luatex.def)             Requested size: 217.66212pt x 174.28014pt.
-Package marginnote Info: Margin note 31.1 is on absolute page 31 on input line 
+Package marginnote Info: Margin note 33.1 is on absolute page 34 on input line 
 129.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 129.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 129.
 
-[15<./figures/ch-01/fig-01-06.pdf>]
-<figures/ch-01/fig-01-07.pdf, id=265, 1615.96129pt x 1294.0504pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15] [16<./figures/ch-01/fig-01-06.pdf>]
+<figures/ch-01/fig-01-07.pdf, id=315, 1615.96129pt x 1294.0504pt>
 File: figures/ch-01/fig-01-07.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-07.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-07.pdf  used on input line 154.
 (luatex.def)             Requested size: 217.66212pt x 174.29434pt.
-Package marginnote Info: Margin note 32.1 is on absolute page 33 on input line 
+Package marginnote Info: Margin note 35.1 is on absolute page 36 on input line 
 156.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 156.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 156.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16] [17<./figures/ch-01/fig-01-07.pdf>] [18]
-<figures/ch-01/fig-01-08.pdf, id=285, 937.22551pt x 795.34518pt>
+
+Overfull \hbox (0.7766pt too wide) in paragraph at lines 164--165
+[]\TU/LibertinusSerif(0)/m/n/10 ``Do you re-mem-ber the prop-er-ties of sim-i-la
+r tri-an-gles?'' 
+ []
+
+[17] [18<./figures/ch-01/fig-01-07.pdf>] [19]
+<figures/ch-01/fig-01-08.pdf, id=334, 937.22551pt x 795.34518pt>
 File: figures/ch-01/fig-01-08.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-08.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-08.pdf  used on input line 196.
 (luatex.def)             Requested size: 145.11053pt x 123.14372pt.
-Package marginnote Info: Margin note 35.1 is on absolute page 35 on input line 
+Package marginnote Info: Margin note 38.1 is on absolute page 38 on input line 
 198.
-Package marginnote Info: xpos seems to be 223.18224pt on input line 198.
- [19<./figures/ch-01/fig-01-08.pdf>]
-Package marginnote Info: Margin note 36.1 is on absolute page 37 on input line 
+Package marginnote Info: xpos seems to be 351.21964pt on input line 198.
+ [20<./figures/ch-01/fig-01-08.pdf>]
+Package marginnote Info: Margin note 39.1 is on absolute page 39 on input line 
 212.
 Package marginnote Info: xpos seems to be 194.61722pt on input line 212.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 212.
- [20]
-<figures/ch-01/fig-01-09.pdf, id=301, 1012.15982pt x 864.91333pt>
+
+Underfull \vbox (badness 3039) has occurred while \output is active []
+
+ [21]
+<figures/ch-01/fig-01-09.pdf, id=350, 1012.15982pt x 864.91333pt>
 File: figures/ch-01/fig-01-09.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-09.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-09.pdf  used on input line 228.
 (luatex.def)             Requested size: 145.11053pt x 123.99048pt.
-Package marginnote Info: Margin note 37.1 is on absolute page 38 on input line 
+Package marginnote Info: Margin note 40.1 is on absolute page 41 on input line 
 230.
-Package marginnote Info: xpos seems to be 351.21964pt on input line 230.
+Package marginnote Info: xpos seems to be 223.18224pt on input line 230.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[21] [22<./figures/ch-01/fig-01-09.pdf>]
-Package marginnote Info: Margin note 39.1 is on absolute page 39 on input line 
+[22] [23<./figures/ch-01/fig-01-09.pdf>]
+Package marginnote Info: Margin note 42.1 is on absolute page 42 on input line 
 247.
-Package marginnote Info: xpos seems to be 222.36536pt on input line 247.
-<figures/ch-01/fig-01-10.pdf, id=319, 1581.49445pt x 1058.98305pt>
+Package marginnote Info: xpos seems to be 338.42998pt on input line 247.
+<figures/ch-01/fig-01-10.pdf, id=368, 1581.49445pt x 1058.98305pt>
 File: figures/ch-01/fig-01-10.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-10.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-10.pdf  used on input line 255.
 (luatex.def)             Requested size: 241.84845pt x 161.94308pt.
-Package marginnote Info: Margin note 39.2 is on absolute page 40 on input line 
+Package marginnote Info: Margin note 42.2 is on absolute page 43 on input line 
 257.
-Package marginnote Info: xpos seems to be 277.41437pt on input line 257.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 257.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23] [24<./figures/ch-01/fig-01-10.pdf>]
-<figures/ch-01/fig-01-11.pdf, id=330, 1626.80109pt x 1018.33514pt>
+[24] [25<./figures/ch-01/fig-01-10.pdf>]
+<figures/ch-01/fig-01-11.pdf, id=378, 1626.80109pt x 1018.33514pt>
 File: figures/ch-01/fig-01-11.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-11.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-11.pdf  used on input line 275.
 (luatex.def)             Requested size: 241.84845pt x 151.37628pt.
-Package marginnote Info: Margin note 41.1 is on absolute page 41 on input line 
+Package marginnote Info: Margin note 44.1 is on absolute page 44 on input line 
 277.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 277.
- [25
+Package marginnote Info: xpos seems to be 277.41437pt on input line 277.
+ [26
 
 <./figures/ch-01/fig-01-11.pdf>]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 5.5pt on input line 284.
-<figures/ch-01/fig-01-12.pdf, id=340, 1180.95705pt x 1106.45845pt>
+<figures/ch-01/fig-01-12.pdf, id=387, 1180.95705pt x 1106.45845pt>
 File: figures/ch-01/fig-01-12.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-12.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-12.pdf  used on input line 291.
 (luatex.def)             Requested size: 169.29317pt x 158.60054pt.
-Package marginnote Info: Margin note 42.1 is on absolute page 43 on input line 
+Package marginnote Info: Margin note 45.1 is on absolute page 46 on input line 
 293.
-Package marginnote Info: xpos seems to be 235.27356pt on input line 293.
+Package marginnote Info: xpos seems to be 363.31096pt on input line 293.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[26]
-Package marginnote Info: Margin note 43.1 is on absolute page 43 on input line 
+[27]
+Package marginnote Info: Margin note 46.1 is on absolute page 46 on input line 
 300.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 300.
-Package marginnote Info: Margin note 43.2 is on absolute page 44 on input line 
+Package marginnote Info: xpos seems to be 156.49014pt on input line 300.
+Package marginnote Info: Margin note 46.2 is on absolute page 47 on input line 
 303.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 303.
-
-Underfull \vbox (badness 2521) has occurred while \output is active []
-
- [27<./figures/ch-01/fig-01-12.pdf>]
-<figures/ch-01/fig-01-13.pdf, id=358, 1590.22685pt x 1095.68994pt>
+Package marginnote Info: xpos seems to be 28.45274pt on input line 303.
+ [28<./figures/ch-01/fig-01-12.pdf>]
+<figures/ch-01/fig-01-13.pdf, id=404, 1590.22685pt x 1095.68994pt>
 File: figures/ch-01/fig-01-13.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-13.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-13.pdf  used on input line 307.
 (luatex.def)             Requested size: 217.66212pt x 149.96817pt.
-Package marginnote Info: Margin note 44.1 is on absolute page 44 on input line 
+Package marginnote Info: Margin note 47.1 is on absolute page 47 on input line 
 309.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 309.
- [28<./figures/ch-01/fig-01-13.pdf>]
-Package marginnote Info: Margin note 45.1 is on absolute page 45 on input line 
+Package marginnote Info: xpos seems to be 259.45804pt on input line 309.
+ [29<./figures/ch-01/fig-01-13.pdf>]
+Package marginnote Info: Margin note 48.1 is on absolute page 48 on input line 
 331.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 331.
-<figures/ch-01/fig-01-14.pdf, id=367, 1546.02348pt x 1166.4956pt>
+Package marginnote Info: xpos seems to be 156.49014pt on input line 331.
+<figures/ch-01/fig-01-14.pdf, id=414, 1546.02348pt x 1166.4956pt>
 File: figures/ch-01/fig-01-14.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-14.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-14.pdf  used on input line 335.
 (luatex.def)             Requested size: 217.66212pt x 164.21603pt.
-Package marginnote Info: Margin note 45.2 is on absolute page 46 on input line 
+Package marginnote Info: Margin note 48.2 is on absolute page 49 on input line 
 336.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 336.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 336.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package marginnote Info: Margin note 45.3 is on absolute page 45 on input line 
+Package marginnote Info: Margin note 48.3 is on absolute page 48 on input line 
 340.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 340.
-
-Underfull \vbox (badness 1072) has occurred while \output is active []
-
- [29]
-<figures/ch-01/fig-01-15.pdf, id=379, 803.24931pt x 1177.36328pt>
+Package marginnote Info: xpos seems to be 156.49014pt on input line 340.
+[30]
+<figures/ch-01/fig-01-15.pdf, id=426, 803.24931pt x 1177.36328pt>
 File: figures/ch-01/fig-01-15.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-15.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-15.pdf  used on input line 347.
 (luatex.def)             Requested size: 97.30775pt x 142.62488pt.
-Package marginnote Info: Margin note 46.1 is on absolute page 46 on input line 
+Package marginnote Info: Margin note 49.1 is on absolute page 49 on input line 
 349.
-Package marginnote Info: xpos seems to be 132.41687pt on input line 349.
-Package marginnote Info: Margin note 46.2 is on absolute page 46 on input line 
+Package marginnote Info: xpos seems to be 394.18222pt on input line 349.
+Package marginnote Info: Margin note 49.2 is on absolute page 49 on input line 
 349.
-Package marginnote Info: xpos seems to be 249.79346pt on input line 349.
-
-[30<./figures/ch-01/fig-01-14.pdf><./figures/ch-01/fig-01-15.pdf>]
-Package marginnote Info: Margin note 47.1 is on absolute page 47 on input line 
+Package marginnote Info: xpos seems to be 121.75606pt on input line 349.
+ [31<./figures/ch-01/fig-01-14.pdf><./figures/ch-01/fig-01-15.pdf>]
+Package marginnote Info: Margin note 50.1 is on absolute page 50 on input line 
 353.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 353.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 353.
 
 Underfull \hbox (badness 10000) in paragraph at lines 353--354
 
  []
 
-Package marginnote Info: Margin note 47.2 is on absolute page 47 on input line 
+Package marginnote Info: Margin note 50.2 is on absolute page 50 on input line 
 355.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 355.
-
-Overfull \hbox (1.09366pt too wide) in paragraph at lines 358--359
-[]\TU/LibertinusSerif(0)/m/n/10 The prob-lem is solved by the dual ap-pli-ca-tio
-n of the method
- []
-
-Package marginnote Info: Margin note 47.3 is on absolute page 47 on input line 
+Package marginnote Info: xpos seems to be 156.49014pt on input line 355.
+Package marginnote Info: Margin note 50.3 is on absolute page 50 on input line 
 366.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 366.
-<figures/ch-01/fig-01-16.pdf, id=384, 1442.32939pt x 1138.38635pt>
+Package marginnote Info: xpos seems to be 156.49014pt on input line 366.
+<figures/ch-01/fig-01-16.pdf, id=431, 1442.32939pt x 1138.38635pt>
 File: figures/ch-01/fig-01-16.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-16.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-16.pdf  used on input line 370.
 (luatex.def)             Requested size: 217.66212pt x 171.7928pt.
-Package marginnote Info: Margin note 47.4 is on absolute page 48 on input line 
+Package marginnote Info: Margin note 50.4 is on absolute page 51 on input line 
 372.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 372.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 372.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package marginnote Info: Margin note 47.5 is on absolute page 47 on input line 
+Package marginnote Info: Margin note 50.5 is on absolute page 50 on input line 
 374.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 374.
-[31
+Package marginnote Info: xpos seems to be 156.49014pt on input line 374.
+[32
 
-] [32<./figures/ch-01/fig-01-16.pdf>]
-Package marginnote Info: Margin note 49.1 is on absolute page 49 on input line 
+] [33<./figures/ch-01/fig-01-16.pdf>]
+Package marginnote Info: Margin note 52.1 is on absolute page 52 on input line 
 386.
-Package marginnote Info: xpos seems to be 94.98726pt on input line 386.
 
 Underfull \hbox (badness 1755) in paragraph at lines 386--386
 \TU/LibertinusSerif(0)/m/n/8 this is called the ``semicu-bi-cal
  []
 
-[33]
-Package marginnote Info: Margin note 50.1 is on absolute page 50 on input line 
+Package marginnote Info: xpos seems to be 223.02466pt on input line 386.
+[34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Package marginnote Info: Margin note 54.1 is on absolute page 54 on input line 
 400.
 Package marginnote Info: xpos seems to be 328.10255pt on input line 400.
-Package marginnote Info: Margin note 50.2 is on absolute page 50 on input line 
+Package marginnote Info: Margin note 54.2 is on absolute page 54 on input line 
 402.
 Package marginnote Info: xpos seems to be 156.49014pt on input line 402.
- [34]
-Package marginnote Info: Margin note 51.1 is on absolute page 51 on input line 
+Package marginnote Info: Margin note 54.3 is on absolute page 54 on input line 
 404.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 404.
-<figures/ch-01/fig-01-17.pdf, id=417, 1664.81305pt x 1564.74284pt>
+Package marginnote Info: xpos seems to be 156.49014pt on input line 404.
+
+Underfull \vbox (badness 4378) has occurred while \output is active []
+
+ [36]
+<figures/ch-01/fig-01-17.pdf, id=470, 1664.81305pt x 1564.74284pt>
 File: figures/ch-01/fig-01-17.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-17.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-17.pdf  used on input line 425.
 (luatex.def)             Requested size: 217.66212pt x 204.56976pt.
-Package marginnote Info: Margin note 51.2 is on absolute page 52 on input line 
+Package marginnote Info: Margin note 55.1 is on absolute page 56 on input line 
 426.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 426.
 
+Underfull \hbox (badness 3179) in paragraph at lines 426--426
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 17.: |Ge-o-met-ric bod-ies
+ []
+
+Package marginnote Info: xpos seems to be 387.49544pt on input line 426.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package marginnote Info: Margin note 51.3 is on absolute page 52 on input line 
+Package marginnote Info: Margin note 55.2 is on absolute page 55 on input line 
 429.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 429.
-[35] [36<./figures/ch-01/fig-01-17.pdf>]
-Package marginnote Info: Margin note 53.1 is on absolute page 53 on input line 
+Package marginnote Info: xpos seems to be 28.45274pt on input line 429.
+Package marginnote Info: Margin note 55.3 is on absolute page 55 on input line 
 438.
 Package marginnote Info: xpos seems to be 28.45274pt on input line 438.
-
-Overfull \hbox (1.54819pt too wide) in paragraph at lines 438--439
-[]\TU/LibertinusSerif(0)/m/n/10 Ap-ply-ing the for-mula, we have: for a par-al-l
-el-o-gram (square,
- []
-
-<figures/ch-01/fig-01-18.pdf, id=439, 821.66762pt x 553.54604pt>
+[37] [38<./figures/ch-01/fig-01-17.pdf>]
+<figures/ch-01/fig-01-18.pdf, id=493, 821.66762pt x 553.54604pt>
 File: figures/ch-01/fig-01-18.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-18.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-18.pdf  used on input line 454.
 (luatex.def)             Requested size: 241.84845pt x 162.93146pt.
-Package marginnote Info: Margin note 53.2 is on absolute page 54 on input line 
+Package marginnote Info: Margin note 57.1 is on absolute page 57 on input line 
 456.
-Package marginnote Info: xpos seems to be 277.41437pt on input line 456.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Package marginnote Info: Margin note 53.3 is on absolute page 54 on input line 
+Package marginnote Info: xpos seems to be 149.37697pt on input line 456.
+Package marginnote Info: Margin note 57.2 is on absolute page 58 on input line 
 462.
-Package marginnote Info: xpos seems to be 191.70845pt on input line 462.
-[37]
-<figures/ch-01/fig-01-19.pdf, id=453, 1452.24054pt x 894.02113pt>
+Package marginnote Info: xpos seems to be 218.24469pt on input line 462.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39<./figures/ch-01/fig-01-18.pdf>]
+<figures/ch-01/fig-01-19.pdf, id=505, 1452.24054pt x 894.02113pt>
 File: figures/ch-01/fig-01-19.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-19.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-19.pdf  used on input line 466.
 (luatex.def)             Requested size: 241.84845pt x 148.88492pt.
-Package marginnote Info: Margin note 54.1 is on absolute page 55 on input line 
+Package marginnote Info: Margin note 58.1 is on absolute page 59 on input line 
 468.
 Package marginnote Info: xpos seems to be 149.37697pt on input line 468.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[38<./figures/ch-01/fig-01-18.pdf>]
-<figures/ch-01/fig-01-20.pdf, id=463, 1584.41196pt x 605.22098pt>
+<figures/ch-01/fig-01-20.pdf, id=506, 1584.41196pt x 605.22098pt>
 File: figures/ch-01/fig-01-20.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-20.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-20.pdf  used on input line 475.
 (luatex.def)             Requested size: 217.66212pt x 83.14195pt.
-Package marginnote Info: Margin note 55.1 is on absolute page 56 on input line 
+Package marginnote Info: Margin note 58.2 is on absolute page 59 on input line 
 477.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 477.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 477.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 1158) has occurred while \output is active []
-
- [39<./figures/ch-01/fig-01-19.pdf>]
-<figures/ch-01/fig-01-21.pdf, id=470, 1361.59392pt x 1827.62172pt>
+ [40]
+[41<./figures/ch-01/fig-01-19.pdf><./figures/ch-01/fig-01-20.pdf>]
+<figures/ch-01/fig-01-21.pdf, id=521, 1361.59392pt x 1827.62172pt>
 File: figures/ch-01/fig-01-21.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-21.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-21.pdf  used on input line 485.
 (luatex.def)             Requested size: 217.66212pt x 292.14658pt.
-Package marginnote Info: Margin note 56.1 is on absolute page 57 on input line 
+Package marginnote Info: Margin note 60.1 is on absolute page 61 on input line 
 487.
 Package marginnote Info: xpos seems to be 259.45804pt on input line 487.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40<./figures/ch-01/fig-01-20.pdf>]
-
-LaTeX Warning: Text page 41 contains only floats.
-
-[41<./figures/ch-01/fig-01-21.pdf>]
-Package marginnote Info: Margin note 58.1 is on absolute page 58 on input line 
+Package marginnote Info: Margin note 60.2 is on absolute page 62 on input line 
 491.
-Package marginnote Info: xpos seems to be 393.20467pt on input line 491.
-Package marginnote Info: Margin note 58.2 is on absolute page 58 on input line 
+Package marginnote Info: xpos seems to be 199.14465pt on input line 491.
+[42]
+
+LaTeX Warning: Text page 43 contains only floats.
+
+[43<./figures/ch-01/fig-01-21.pdf>]
+Package marginnote Info: Margin note 62.1 is on absolute page 62 on input line 
 499.
 Package marginnote Info: xpos seems to be 156.49014pt on input line 499.
-
-Underfull \vbox (badness 1552) has occurred while \output is active []
-
- [42]
-Package marginnote Info: Margin note 59.1 is on absolute page 59 on input line 
+Package marginnote Info: Margin note 62.2 is on absolute page 63 on input line 
 504.
 Package marginnote Info: xpos seems to be 28.45274pt on input line 504.
-Package marginnote Info: Margin note 59.2 is on absolute page 59 on input line 
+ [44]
+Package marginnote Info: Margin note 63.1 is on absolute page 63 on input line 
 504.
 Package marginnote Info: xpos seems to be 134.42722pt on input line 504.
-Package marginnote Info: Margin note 59.3 is on absolute page 59 on input line 
-510.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 510.
-
-[43]
-Package marginnote Info: Margin note 60.1 is on absolute page 60 on input line 
-514.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 514.
-<figures/ch-01/fig-01-22.pdf, id=491, 494.04579pt x 808.80371pt>
+ [45]
+Package marginnote Info: Margin note 64.1 is on absolute page 64 on input line 
+511.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 511.
+Package marginnote Info: Margin note 64.2 is on absolute page 64 on input line 
+515.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 515.
+<figures/ch-01/fig-01-22.pdf, id=544, 494.04579pt x 808.80371pt>
 File: figures/ch-01/fig-01-22.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-22.pdf>
-Package luatex.def Info: figures/ch-01/fig-01-22.pdf  used on input line 522.
+Package luatex.def Info: figures/ch-01/fig-01-22.pdf  used on input line 523.
 (luatex.def)             Requested size: 97.30775pt x 159.30194pt.
-Package marginnote Info: Margin note 60.2 is on absolute page 60 on input line 
-524.
-Package marginnote Info: xpos seems to be 132.41687pt on input line 524.
-Package marginnote Info: Margin note 60.3 is on absolute page 60 on input line 
-524.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 524.
-Package marginnote Info: Margin note 60.4 is on absolute page 61 on input line 
-537.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 537.
-<figures/ch-01/fig-01-23.pdf, id=496, 852.02129pt x 784.5599pt>
+Package marginnote Info: Margin note 64.3 is on absolute page 64 on input line 
+525.
+Package marginnote Info: xpos seems to be 132.41687pt on input line 525.
+Package marginnote Info: Margin note 64.4 is on absolute page 64 on input line 
+525.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 525.
+Package marginnote Info: Margin note 64.5 is on absolute page 65 on input line 
+538.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 538.
+ [46
+
+<./figures/ch-01/fig-01-22.pdf>]
+<figures/ch-01/fig-01-23.pdf, id=554, 852.02129pt x 784.5599pt>
 File: figures/ch-01/fig-01-23.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-23.pdf>
-Package luatex.def Info: figures/ch-01/fig-01-23.pdf  used on input line 541.
+Package luatex.def Info: figures/ch-01/fig-01-23.pdf  used on input line 542.
 (luatex.def)             Requested size: 97.30775pt x 89.59398pt.
-Package marginnote Info: Margin note 60.5 is on absolute page 61 on input line 
-543.
-Package marginnote Info: xpos seems to be 394.18222pt on input line 543.
-Package marginnote Info: Margin note 60.6 is on absolute page 61 on input line 
-543.
-Package marginnote Info: xpos seems to be 28.45274pt on input line 543.
- [44<./figures/ch-01/fig-01-22.pdf>] [45<./figures/ch-01/fig-01-23.pdf>]
-<figures/ch-01/fig-01-24.pdf, id=514, 949.96725pt x 1458.6742pt>
+Package marginnote Info: Margin note 65.1 is on absolute page 65 on input line 
+544.
+Package marginnote Info: xpos seems to be 394.18222pt on input line 544.
+Package marginnote Info: Margin note 65.2 is on absolute page 65 on input line 
+544.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 544.
+ [47<./figures/ch-01/fig-01-23.pdf>]
+<figures/ch-01/fig-01-24.pdf, id=566, 949.96725pt x 1458.6742pt>
 File: figures/ch-01/fig-01-24.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-24.pdf>
-Package luatex.def Info: figures/ch-01/fig-01-24.pdf  used on input line 561.
+Package luatex.def Info: figures/ch-01/fig-01-24.pdf  used on input line 562.
 (luatex.def)             Requested size: 108.12047pt x 166.01904pt.
-Package marginnote Info: Margin note 62.1 is on absolute page 62 on input line 
-563.
-Package marginnote Info: xpos seems to be 82.513pt on input line 563.
-Package marginnote Info: Margin note 62.2 is on absolute page 62 on input line 
-563.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 563.
+Package marginnote Info: Margin note 66.1 is on absolute page 66 on input line 
+564.
+Package marginnote Info: xpos seems to be 82.513pt on input line 564.
+Package marginnote Info: Margin note 66.2 is on absolute page 66 on input line 
+564.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 564.
+ [48<./figures/ch-01/fig-01-24.pdf>]
+Package marginnote Info: Margin note 67.1 is on absolute page 68 on input line 
+571.
 
-[46<./figures/ch-01/fig-01-24.pdf>]
-Package marginnote Info: Margin note 63.1 is on absolute page 63 on input line 
-570.
-Package marginnote Info: xpos seems to be 157.14172pt on input line 570.
-
-Underfull \hbox (badness 1552) in paragraph at lines 570--570
+Underfull \hbox (badness 1552) in paragraph at lines 571--571
 \TU/LibertinusSerif(0)/m/n/8 ter X \TU/LibertinusSerif(0)/m/it/8 Me-chan-ics in the Liv-ing
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
-<figures/ch-01/fig-ch-01-tail.pdf, id=525, 460.81026pt x 477.21275pt>
+Package marginnote Info: xpos seems to be 285.17912pt on input line 571.
+[49]
+<figures/ch-01/fig-ch-01-tail.pdf, id=575, 460.81026pt x 477.21275pt>
 File: figures/ch-01/fig-ch-01-tail.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-ch-01-tail.pdf>
 Package luatex.def Info: figures/ch-01/fig-ch-01-tail.pdf  used on input line 5
-82.
+83.
 (luatex.def)             Requested size: 72.55527pt x 75.13228pt.
-)
-[48<./figures/ch-01/fig-ch-01-tail.pdf>] (./perelman-geometry.aux)
+) (./02-river-geometry.tex [50<./figures/ch-01/fig-ch-01-tail.pdf>]
+chapter 2.
+<figures/ch-02/fig-ch-02-head.pdf, id=581, 1739.73042pt x 670.30597pt>
+File: figures/ch-02/fig-ch-02-head.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-ch-02-head.pdf>
+Package luatex.def Info: figures/ch-02/fig-ch-02-head.pdf  used on input line 7
+.
+(luatex.def)             Requested size: 290.21739pt x 111.81285pt.
+
+Overfull \hbox (48.36894pt too wide) in paragraph at lines 7--7
+[][] 
+ []
+
+[51
+
+<./figures/ch-02/fig-ch-02-head.pdf>]
+<figures/ch-02/fig-025.pdf, id=586, 1645.31482pt x 1116.3491pt>
+File: figures/ch-02/fig-025.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-025.pdf>
+Package luatex.def Info: figures/ch-02/fig-025.pdf  used on input line 18.
+(luatex.def)             Requested size: 217.66212pt x 147.66855pt.
+Package marginnote Info: Margin note 70.1 is on absolute page 70 on input line 
+20.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 20.
+ [52<./figures/ch-02/fig-025.pdf>]
+<figures/ch-02/fig-026.pdf, id=599, 680.48506pt x 855.65533pt>
+File: figures/ch-02/fig-026.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-026.pdf>
+Package luatex.def Info: figures/ch-02/fig-026.pdf  used on input line 28.
+(luatex.def)             Requested size: 108.12047pt x 135.94148pt.
+Package marginnote Info: Margin note 71.1 is on absolute page 71 on input line 
+30.
+Package marginnote Info: xpos seems to be 344.27835pt on input line 30.
+Package marginnote Info: Margin note 71.2 is on absolute page 71 on input line 
+30.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 30.
+<figures/ch-02/fig-027.pdf, id=600, 888.69519pt x 843.41052pt>
+File: figures/ch-02/fig-027.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-027.pdf>
+Package luatex.def Info: figures/ch-02/fig-027.pdf  used on input line 33.
+(luatex.def)             Requested size: 108.12047pt x 102.60765pt.
+Package marginnote Info: Margin note 71.3 is on absolute page 71 on input line 
+35.
+Package marginnote Info: xpos seems to be 344.27835pt on input line 35.
+Package marginnote Info: Margin note 71.4 is on absolute page 71 on input line 
+35.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 35.
+
+[53<./figures/ch-02/fig-026.pdf><./figures/ch-02/fig-027.pdf>]
+<figures/ch-02/fig-028.pdf, id=613, 1424.15169pt x 1153.79147pt>
+File: figures/ch-02/fig-028.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-028.pdf>
+Package luatex.def Info: figures/ch-02/fig-028.pdf  used on input line 46.
+(luatex.def)             Requested size: 217.66212pt x 176.33586pt.
+Package marginnote Info: Margin note 72.1 is on absolute page 72 on input line 
+48.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 48.
+ [54<./figures/ch-02/fig-028.pdf>]
+<figures/ch-02/fig-029.pdf, id=620, 1414.2969pt x 1166.76001pt>
+File: figures/ch-02/fig-029.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-029.pdf>
+Package luatex.def Info: figures/ch-02/fig-029.pdf  used on input line 55.
+(luatex.def)             Requested size: 217.66212pt x 179.56409pt.
+Package marginnote Info: Margin note 73.1 is on absolute page 73 on input line 
+57.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 57.
+ [55<./figures/ch-02/fig-029.pdf>]
+<figures/ch-02/fig-030.pdf, id=632, 454.56851pt x 277.73964pt>
+File: figures/ch-02/fig-030.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-030.pdf>
+Package luatex.def Info: figures/ch-02/fig-030.pdf  used on input line 75.
+(luatex.def)             Requested size: 108.12047pt x 66.06131pt.
+Package marginnote Info: Margin note 74.1 is on absolute page 75 on input line 
+77.
+Package marginnote Info: xpos seems to be 344.27835pt on input line 77.
+Package marginnote Info: Margin note 74.2 is on absolute page 75 on input line 
+77.
+Package marginnote Info: xpos seems to be 198.00046pt on input line 77.
+ [56]
+<figures/ch-02/fig-031.pdf, id=642, 438.79498pt x 354.9353pt>
+File: figures/ch-02/fig-031.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-031.pdf>
+Package luatex.def Info: figures/ch-02/fig-031.pdf  used on input line 84.
+(luatex.def)             Requested size: 108.12047pt x 87.45544pt.
+Package marginnote Info: Margin note 75.1 is on absolute page 75 on input line 
+86.
+Package marginnote Info: xpos seems to be 344.27835pt on input line 86.
+Package marginnote Info: Margin note 75.2 is on absolute page 75 on input line 
+86.
+Package marginnote Info: xpos seems to be 53.45274pt on input line 86.
+ [57<./figures/ch-02/fig-030.pdf><./figures/ch-02/fig-031.pdf>]
+Package marginnote Info: Margin note 76.1 is on absolute page 76 on input line 
+96.
+Package marginnote Info: xpos seems to be 298.23444pt on input line 96.
+
+Overfull \hbox (18.97064pt too wide) in paragraph at lines 102--103
+[]\TU/LibertinusSerif(0)/m/n/10 ``I think no more than 100-110 me-ters,'' Kar-po
+v replied. Kupriyanov
+ []
+
+<figures/ch-02/fig-032.pdf, id=651, 1774.22852pt x 1081.41225pt>
+File: figures/ch-02/fig-032.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-032.pdf>
+Package luatex.def Info: figures/ch-02/fig-032.pdf  used on input line 106.
+(luatex.def)             Requested size: 217.66212pt x 132.65154pt.
+Package marginnote Info: Margin note 76.2 is on absolute page 77 on input line 
+108.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 108.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[58] [59<./figures/ch-02/fig-032.pdf>]
+Overfull \hbox (17.99733pt too wide) in paragraph at lines 116--117
+[]\TU/LibertinusSerif(0)/m/n/10 Kupriyanov re-ported the data he ob-tained to th
+e com-mand. 
+ []
+
+Package marginnote Info: Margin note 78.1 is on absolute page 78 on input line 
+118.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 118.
+
+Overfull \hbox (4.69244pt too wide) in paragraph at lines 118--119
+[]\TU/LibertinusSerif(0)/m/n/10 Pro-vide a ge-o-met-ric ex-pla-na-tion for the 
+``vi-sor'' method. 
+ []
+
+<figures/ch-02/fig-033.pdf, id=668, 1781.82484pt x 1111.02159pt>
+File: figures/ch-02/fig-033.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-033.pdf>
+Package luatex.def Info: figures/ch-02/fig-033.pdf  used on input line 122.
+(luatex.def)             Requested size: 217.66212pt x 135.70718pt.
+Package marginnote Info: Margin note 78.2 is on absolute page 78 on input line 
+124.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 124.
+Package marginnote Info: Margin note 78.3 is on absolute page 78 on input line 
+126.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 126.
+
+Overfull \hbox (5.71124pt too wide) in paragraph at lines 126--127
+[]\TU/LibertinusSerif(0)/m/n/10 The line of sight, touch-ing the edge of the vi-
+sor (palm, notepad),
+ []
+
+Package marginnote Info: Margin note 78.4 is on absolute page 79 on input line 
+130.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 130.
+
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [60<./figures/ch-02/fig-033.pdf>]
+<figures/ch-02/fig-034.pdf, id=681, 1167.79747pt x 772.19267pt>
+File: figures/ch-02/fig-034.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-034.pdf>
+Package luatex.def Info: figures/ch-02/fig-034.pdf  used on input line 136.
+(luatex.def)             Requested size: 217.66212pt x 143.92563pt.
+Package marginnote Info: Margin note 79.1 is on absolute page 79 on input line 
+138.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 138.
+Package marginnote Info: Margin note 79.2 is on absolute page 79 on input line 
+141.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 141.
+ [61<./figures/ch-02/fig-034.pdf>]
+<figures/ch-02/fig-035.pdf, id=688, 402.19136pt x 415.45282pt>
+File: figures/ch-02/fig-035.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-035.pdf>
+Package luatex.def Info: figures/ch-02/fig-035.pdf  used on input line 145.
+(luatex.def)             Requested size: 108.12047pt x 111.68562pt.
+Package marginnote Info: Margin note 80.1 is on absolute page 80 on input line 
+147.
+Package marginnote Info: xpos seems to be 82.513pt on input line 147.
+Package marginnote Info: Margin note 80.2 is on absolute page 80 on input line 
+147.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 147.
+Package marginnote Info: Margin note 80.3 is on absolute page 80 on input line 
+154.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 154.
+<figures/ch-02/fig-036.pdf, id=689, 1631.25412pt x 1026.08481pt>
+File: figures/ch-02/fig-036.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-036.pdf>
+Package luatex.def Info: figures/ch-02/fig-036.pdf  used on input line 158.
+(luatex.def)             Requested size: 217.66212pt x 136.90282pt.
+Package marginnote Info: Margin note 80.4 is on absolute page 81 on input line 
+160.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 160.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package marginnote Info: Margin note 80.5 is on absolute page 80 on input line 
+163.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 163.
+[62<./figures/ch-02/fig-035.pdf>] [63<./figures/ch-02/fig-036.pdf>] [64]
+<figures/ch-02/fig-037.pdf, id=710, 62.65048pt x 872.84438pt>
+File: figures/ch-02/fig-037.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-037.pdf>
+Package luatex.def Info: figures/ch-02/fig-037.pdf  used on input line 178.
+(luatex.def)             Requested size: 10.8127pt x 150.6324pt.
+Package marginnote Info: Margin note 83.1 is on absolute page 83 on input line 
+180.
+Package marginnote Info: xpos seems to be 350.9347pt on input line 180.
+
+Underfull \hbox (badness 5105) in paragraph at lines 180--180
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 37.: |The match is a
+ []
+
+Package marginnote Info: Margin note 83.2 is on absolute page 83 on input line 
+180.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 180.
+[65<./figures/ch-02/fig-037.pdf>]
+<figures/ch-02/fig-038.pdf, id=722, 1611.40752pt x 1069.45833pt>
+File: figures/ch-02/fig-038.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-038.pdf>
+Package luatex.def Info: figures/ch-02/fig-038.pdf  used on input line 188.
+(luatex.def)             Requested size: 241.84845pt x 160.50974pt.
+Package marginnote Info: Margin note 84.1 is on absolute page 85 on input line 
+190.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 190.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 38.: |The use of a
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.12791pt too wide) in paragraph at lines 192--193
+[]\TU/LibertinusSerif(0)/m/n/10 You can eas-ily ver-ify the cor-rect-ness of the
+ pro-por-tion: 
+ []
+
+[66]
+<figures/ch-02/fig-039.pdf, id=727, 437.51027pt x 833.74442pt>
+File: figures/ch-02/fig-039.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-039.pdf>
+Package luatex.def Info: figures/ch-02/fig-039.pdf  used on input line 206.
+(luatex.def)             Requested size: 86.4967pt x 164.82492pt.
+Package marginnote Info: Margin note 85.1 is on absolute page 85 on input line 
+208.
+Package marginnote Info: xpos seems to be 388.7767pt on input line 208.
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 39.: |The re-tractable
+ []
+
+Package marginnote Info: Margin note 85.2 is on absolute page 85 on input line 
+208.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 208.
+[67<./figures/ch-02/fig-038.pdf><./figures/ch-02/fig-039.pdf>]
+<figures/ch-02/fig-040.pdf, id=733, 267.11829pt x 1166.80977pt>
+File: figures/ch-02/fig-040.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-040.pdf>
+Package luatex.def Info: figures/ch-02/fig-040.pdf  used on input line 214.
+(luatex.def)             Requested size: 64.87294pt x 283.36943pt.
+Package marginnote Info: Margin note 86.1 is on absolute page 86 on input line 
+216.
+Package marginnote Info: xpos seems to be 116.19946pt on input line 216.
+Package marginnote Info: Margin note 86.2 is on absolute page 86 on input line 
+216.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 216.
+ [68<./figures/ch-02/fig-040.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+[71]
+<figures/ch-02/fig-041.pdf, id=760, 1566.88496pt x 1229.25821pt>
+File: figures/ch-02/fig-041.pdf Graphic file (type pdf)
+<use figures/ch-02/fig-041.pdf>
+Package luatex.def Info: figures/ch-02/fig-041.pdf  used on input line 275.
+(luatex.def)             Requested size: 217.66212pt x 170.74448pt.
+Package marginnote Info: Margin note 90.1 is on absolute page 90 on input line 
+277.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 277.
+ [72<./figures/ch-02/fig-041.pdf>]
+Package marginnote Info: Margin note 91.1 is on absolute page 91 on input line 
+287.
+Package marginnote Info: xpos seems to be 269.1572pt on input line 287.
+ [73]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 311.
+ [74]) [75] (./perelman-geometry.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1903,34 +2242,36 @@ Package rerunfilecheck Info: File `perelman-geometry.out' has not changed.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 30649 strings out of 476435
+ 31077 strings out of 476435
  100000,1977958 words of node,token memory allocated
- 901 words of node memory still in use:
-   9 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 14 glyph, 3
-8 attribute, 77 glue_spec, 38 attribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 1:2,2:568,3:213,4:178,5:410,6:50,7:5078,8:55,9:450,10:17,11:336,
+ 1048 words of node memory still in use:
+   9 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 5 kern, 1 penalty, 2 margin_ke
+rn, 24 glyph, 52 attribute, 77 glue_spec, 52 attribute_list, 1 write, 4 pdf_acti
+on nodes
+   avail lists: 1:1,2:934,3:355,4:288,5:464,6:86,7:4641,8:55,9:449,10:17,11:297,
 12:1
- 51818 multiletter control sequences out of 65536+600000
- 256 fonts using 29428871 bytes
- 109i,17n,149p,11011b,1270s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/7t.enc}</usr/local/texl
-ive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSans-Regula
-r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts
-/LibertinusSerif-Italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/p
-ublic/libertinus-fonts/LibertinusMono-Regular.otf></usr/local/texlive/2024/texmf
--dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/l
-ocal/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSa
-ns-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/Liberti
-neMathMI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/Libert
-ineMathMI7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/MinL
-ibReg.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txexs.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsym.pfb></usr/local/texl
-ive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on perelman-geometry.pdf (64 pages, 8074631 bytes).
+ 52108 multiletter control sequences out of 65536+600000
+ 257 fonts using 29821199 bytes
+ 109i,17n,149p,11011b,1354s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/Liber
+tinusSerif-Bold.otf>{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/7t.
+enc}</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/L
+ibertinusSans-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/pub
+lic/libertinus-fonts/LibertinusSerif-Italic.otf></usr/local/texlive/2024/texmf-d
+ist/fonts/opentype/public/libertinus-fonts/LibertinusMono-Regular.otf></usr/loca
+l/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif
+-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinu
+s-fonts/LibertinusSans-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/
+public/newtx/LibertineMathMI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
+/public/newtx/LibertineMathMI7.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
+e1/public/newtx/MinLibReg.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
+blic/newtx/txexs.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newt
+x/txmiaX.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsym.
+pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on perelman-geometry.pdf (93 pages, 13970060 bytes).
 
-PDF statistics: 647 PDF objects out of 1000 (max. 8388607)
- 516 compressed objects within 6 object streams
- 122 named destinations out of 1000 (max. 131072)
- 145 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 935 PDF objects out of 1000 (max. 8388607)
+ 749 compressed objects within 8 object streams
+ 183 named destinations out of 1000 (max. 131072)
+ 217 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -3,17 +3,26 @@
 \contentsline {part}{\numberline {I}Geometry In The Open Air}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Geometry In The Forest}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.1}By the length of the shadow}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Two More Methods}{12}{section.1.2}%
-\contentsline {section}{\numberline {1.3}The Method of Jules Verne}{16}{section.1.3}%
+\contentsline {section}{\numberline {1.2}Two More Methods}{13}{section.1.2}%
+\contentsline {section}{\numberline {1.3}The Method of Jules Verne}{15}{section.1.3}%
 \contentsline {section}{\numberline {1.4}How Sergeant Popov Acted}{19}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Using a Notebook}{21}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Without Approaching The Tree}{22}{section.1.6}%
-\contentsline {section}{\numberline {1.7}Forest Rangers' Altimeter}{25}{section.1.7}%
-\contentsline {section}{\numberline {1.8}Using a Mirror}{29}{section.1.8}%
-\contentsline {section}{\numberline {1.9}Two Pines}{31}{section.1.9}%
-\contentsline {section}{\numberline {1.10}The shape of the tree trunk}{32}{section.1.10}%
-\contentsline {section}{\numberline {1.11}Universal Formula}{34}{section.1.11}%
-\contentsline {section}{\numberline {1.12}Volume and Weight of a Tree at the Root}{37}{section.1.12}%
-\contentsline {section}{\numberline {1.13}Leaf Geometry}{42}{section.1.13}%
-\contentsline {section}{\numberline {1.14}Six-legged heroes}{45}{section.1.14}%
+\contentsline {section}{\numberline {1.5}Using a Notebook}{22}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Without Approaching The Tree}{23}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Forest Rangers' Altimeter}{26}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Using a Mirror}{30}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Two Pines}{32}{section.1.9}%
+\contentsline {section}{\numberline {1.10}The shape of the tree trunk}{33}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Universal Formula}{35}{section.1.11}%
+\contentsline {section}{\numberline {1.12}Volume and Weight of a Tree at the Root}{40}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Leaf Geometry}{44}{section.1.13}%
+\contentsline {section}{\numberline {1.14}Six-legged heroes}{47}{section.1.14}%
+\contentsline {chapter}{\numberline {2}Geometry By The River}{51}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Measuring the width of the river}{51}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Using a visor}{58}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The Length Of An Island}{61}{section.2.3}%
+\contentsline {section}{\numberline {2.4}A pedestrian on the opposite bank}{62}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Simple Rangefinders}{65}{section.2.5}%
+\contentsline {section}{\numberline {2.6}The energy of the river}{69}{section.2.6}%
+\contentsline {section}{\numberline {2.7}The Flow Rate}{71}{section.2.7}%
+\contentsline {section}{\numberline {2.8}How Much Water Flows In The River?}{74}{section.2.8}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
