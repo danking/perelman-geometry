@@ -304,7 +304,7 @@ Solving for $x$, we get $2x = 110$, and $x = 55$. The speed of the water flow on
 
 
 \section{How Much Water Flows In The River?}
-
+\label{sec-2.08}
 
 To measure the amount of water flowing in a river, you can always determine the speed at which the water flows. The more challenging part of the preparatory work needed to calculate the quantity of flowing water is to determine the cross-sectional area of the water. To find the magnitude of this area, known as the ``live cross-section'' of the river, you need to make a drawing of this section. Such work is done as follows.
 
@@ -323,24 +323,321 @@ Between the stakes, you stretch a cord perpendicular to the current with marks o
 \end{figure}
 
 Now you have all the data needed to calculate the amount of flowing water. Obviously, through the live cross-section of the river, a volume of water equal to the volume of a prism is passing every second, where the cross-section serves as the base and the average second-by-second flow rate serves as the height. For example, if the average flow rate of water in the river is 0.4 meters per second, and the area of the live cross-section is, let's say, 3.5 square meters, then every second, through this section, there will be a transfer of
+\begin{equation*}%
+3.5 \times 0.4 = 1.4 \,\, \text{cubic meters of water},
+\end{equation*}
+or the same amount in tons\sidenote{1 cubic meter of fresh water weighs 1000 kg.} This amounts to 
+\begin{align*}%
+1.4 \times 3600 & = 5040 \,\, \text{cubic meters of water per hour, and}\\
+5040 \times 24 & = \num{120960} \,\, \text{cubic meters of water per day},
+\end{align*}
+which is over a hundred thousand cubic meters. And yet, a river with a live cross-section of 3.5 square meters is a small river; it could be, for example, 3.5 meters wide and 1 meter deep at a fordable point. But even it contains energy capable of transforming into mighty electricity. So how much water flows per day in a river like the Neva, through which 3300 cubic meters of water pass every second through its live cross-section! This is the ``average flow rate'' of water in the Neva at Leningrad. The ``average flow rate'' of water in the Dnieper at Kiev is 700 cubic meters.
 
-3.5 * 0.4 = 1.4 cubic meters of water,
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-043.pdf}
+\sidecaption{The hydroelectric power station with a capacity of 80 kilowatts belongs to the Burmakin Agricultural Collective Farm and provides energy to seven collective farms.\label{fig-043}}
+\end{figure}
 
-or the same amount in tons. This amounts to 1.4 x 3600 = 5040 cubic meters per hour, and 5040 x 24 = 120960 cubic meters per day, which is over a hundred thousand cubic meters. And yet, a river with a wetted cross-section of 3.5 square meters is a small river; it could be, for example, 3.5 meters wide and 1 meter deep at a fordable point. But even it contains energy capable of transforming into mighty electricity. So how much water flows per day in a river like the Neva, through which 3300 cubic meters of water pass every second through its wetted cross-section! This is the 'average flow rate' of water in the Neva at Leningrad. The 'average flow rate' of water in the Dnieper at Kiev is 700 cubic meters.
+Young explorers and future dam builders also need to determine the maximum head the banks can allow, i.e., the difference in water levels that the dam can create (\figr{fig-043}). To do this, stakes are driven into the banks 5-10 meters away from the water, as usual, along a line perpendicular to the river's current. Then, moving along this line, small stakes are placed at points of characteristic bends in the banks (\figr{fig-044}). Using rulers with markings, the elevation of one stake above the other and the distances between them are measured. Based on the measurement results, a profile of the banks is drawn similar to the profile of the riverbed. The bank profile can indicate the magnitude of the allowable head.
 
-Young explorers and future dam builders also need to determine the maximum head the banks can allow, i.e., the difference in water levels that the dam can create (Fig. 43). To do this, stakes are driven into the banks 5-10 meters away from the water, as usual, along a line perpendicular to the river's current. Then, moving along this line, small stakes are placed at points of characteristic bends in the banks (Fig. 44). Using rulers with markings, the elevation of one stake above the other and the distances between them are measured. Based on the measurement results, a profile of the banks is drawn similar to the profile of the riverbed. The bank profile can indicate the magnitude of the allowable head.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-044.pdf}
+\sidecaption{Coast profile measurement.\label{fig-044}}
+\end{figure}
 
 Suppose the water level can be raised by the dam by 2.5 meters. In this case, you can estimate the potential power of your future hydroelectric power plant.
 
 For this, energy experts recommend multiplying 1.4 (the second-by-second flow rate of the river) by 2.5 (the water level height) and by 6 (the coefficient, which varies depending on energy losses in machines). The result will be in kilowatts. Thus,
+\begin{equation*}%
+1.4 \times 2.5 \times 6 = 21\,\, \text{kilowatts}.
+\end{equation*}
+Since the river levels, and consequently the flow rates, vary throughout the year, it is necessary to calculate the value of the flow rate that is characteristic of the river for most of the year.
 
-1.4 x 2.5 x 6 = 21 kilowatts.
+\section{Water Wheel}
+\label{sec-2.09}
 
-Since the river levels, and consequently the flow rates, vary throughout the year, it is necessary to calculate the value of the flow rate that is characteristic of the river for most of the year."
+\ques A wheel with blades is installed near the bottom of the river so that it can rotate easily. In which direction will it rotate if the current is flowing from right to left (see \figr{fig-045})?
 
-%\begin{center}
-%\includegraphics[width=0.3\textwidth]{figures/ch-02/fig-ch-02-tail.pdf}
-%\end{center}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-045.pdf}
+\sidecaption{In which direction will the wheel rotate?\label{fig-045}}
+\end{figure}
+
+\ans The wheel will rotate counterclockwise. The velocity of the deeper layers of water is lower than the velocity of the upper layers, therefore, the pressure on the upper blades will be greater than on the lower ones.
+
+
+\section{Rainbow Film}
+\label{sec-2.10}
+On the river, into which water flows from the factory, you can often notice beautiful colourful iridescence near the outlet. Oil (for example, motor oil) flowing into the river along with the water from the plant remains on the surface as it is lighter and spreads out in an extremely thin layer. Can the thickness of such a film be measured or at least estimated?
+
+The task seems intricate, but solving it is not particularly difficult. You already guess that we will not bother with the hopeless task of directly measuring the thickness of the film. We will measure it indirectly, in other words, calculate it.
+
+Take a certain amount of motor oil, for example, 20 litres, and pour it onto the water, far from the shore (from a boat). When the oil spreads over the water in the form of a more or less clearly defined circular spot, measure the diameter of this circle at least approximately. Knowing the diameter, calculate the area. And since you also know the volume of the oil taken (it is easy to calculate by weight), then the thickness of the film will naturally be determined from here. Let's consider an example.
+
+
+\ques One gram of kerosene, spreading over water, covers a circle with a diameter of 30 cm.\sidenote[][2cm]{The standard oil consumption for covering water bodies to destroy malaria mosquito larvae is 400 kilograms per hectare.} What is the thickness of the kerosene film on the water? One cubic centimetre of kerosene weighs 0.8 grams.
+
+\ans Let's find the volume of the film, which is certainly equal to the volume of the kerosene taken. If one cubic centimetre of kerosene weighs 0.8 grams, then for 1 gram we have 
+\begin{equation*}%
+\frac{1}{0.8} = \SI{1.25}{\centi\meter\cubed} \qor \SI{1250}{\milli\meter\cubed}.
+\end{equation*}
+The area of the circle with a diameter of \SI{30}{\centi\meter}, or \SI{300}{\milli\meter}, is  \SI{70000}{\milli\meter\squared}. The desired thickness of the film is equal to the volume divided by the area of the base:
+\begin{equation*}%
+\frac{1250}{70000} = \SI{0.018}{\milli\meter}.
+\si{\milli\meter\cubed}
+\end{equation*}
+In other words, less than \SI{0.02}{\milli\meter}. Direct measurement of such thickness using conventional means is, of course, impossible. Oil and soap films spread even thinner, reaching \SI{0.0091}{\milli\meter} or less. ``Once,'' recounts the English physicist Boys in the book \emph{Soap Bubbles}, ``I conducted such an experiment on a pond. A spoonful of olive oil was poured onto the water surface. Immediately a large spot was formed, about 20-30 meters in diameter. Since the spot was a thousand times longer and a thousand times wider than the spoon, the thickness of the oil layer on the water surface should have been approximately one millionth of the thickness of the oil layer in the spoon, or about 0.000002 millimetres.''
+
+
+\section{Circles on the Water}
+\label{sec-2.11}
+\ques You've surely observed with curiosity the circles created by a stone thrown into calm water (see \figr{fig-046}). Explaining this instructive natural phenomenon has probably never been difficult for you: disturbance spreads from the point of origin in all directions at the same speed, so at any moment, all the points of disturbance must be equidistant from the source, forming circles.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-046.pdf}
+\sidecaption{Circles on the water.\label{fig-046}}
+\end{figure}
+
+
+But what about in flowing water? Should the waves from a stone thrown into a fast-flowing river also form circles, or will their shape be elongated?
+
+At first glance, it might seem that in flowing water, circular waves should elongate in the direction of the current: the disturbance is transmitted downstream faster than upstream and sideways. Therefore, the disturbed parts of the water surface should, it seems, arrange themselves along some elongated closed curve, at least not in a circle.
+
+However, in reality, this is not the case. By throwing stones into the swiftest river currents, you can see that the waves formed are strictly circular -- exactly the same as in still water. Why is this?
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-047.pdf}
+\sidecaption[][-1.5cm]{The flow of water does not change the shapes of the waves.\label{fig-047}}
+\end{figure}
+
+\ans Let's reason as follows. If the water were not flowing, the waves would be circular. What change does the flow introduce? It carries each point of this circular wave in the direction indicated by the arrows (see \figr{fig-047}, left), and all points are moved along parallel lines at the same speed, i.e., the same distance. And ``parallel displacement'' (translation) does not change the shape of the figure. Indeed, as a result of such displacement, point $\mathit{1}$ (\figr{fig-047}, right) will be at point $\mathit{1'}$, point $\mathit{2}$ will be at point $\mathit{2'}$, and so on; quadrilateral $\mathit{1234}$ will be replaced by quadrilateral $\mathit{1'2'3'4'}$, which is equal to it, as can be easily seen from the formed parallelograms $\mathit{122'1'}$, $\mathit{233'2'}$, $\mathit{344'3'}$, and so on. By taking not just four but more points on the circumference, we would also get equal polygons; finally, by taking an infinite number of points, i.e., a circle, we would get an equal circle after parallel displacement.
+
+That's why the downstream movement of water does not change the shapes of the waves -- they remain circular even in flowing water. The difference is only that on the surface of a lake, the circles do not move (if we don't consider that they diverge from their stationary centre), while on the surface of a river, the circles move together with their centre at the speed of the water flow.
+
+\section{Fantastic Shrapnel}
+\label{sec-2.12}
+\ques Let's tackle a problem that seems unrelated at first but, as we will see, is closely related to the topic at hand.
+
+Imagine a shrapnel projectile flying high in the air. It begins to descend and suddenly explodes; the fragments scatter in different directions. Let's assume that all of them are thrown by the explosion with the same force and travel without encountering any obstacles from the air. The question is: how will the fragments be arranged one second after the explosion if during this time they have not yet reached the ground?
+
+\ans The problem resembles the problem of circles on water. And here it seems that the fragments should be arranged in a shape elongated downwards, in the direction of descent; after all, the fragments thrown upwards fly slower than those thrown downwards. However, it is easy to prove that the fragments of our imaginary shrapnel should be arranged on the surface of a sphere. Let's momentarily imagine that there is no gravity; then, of course, all fragments will fly from the explosion site to the same distance within a second, i.e., they will be arranged on the surface of a sphere. Now let's introduce the force of gravity. Under its influence, the fragments should descend; but since all bodies, as we know, fall at the same speed, the fragments should descend to the same distance within a second, along parallel lines.\sidenote{The differences are due to the air resistance, which we have excluded in our task.} But such parallel displacement does not change the shape of the figure—the sphere remains a sphere.
+
+So, the fragments of the fantastic shrapnel should form a sphere, which, as if inflating, descends downward at the speed of a freely falling body.
+
+\section{The Keel Wave}
+\label{sec-2.13}
+
+Let's return to the river. (Standing on a bridge, pay attention to the wake left by a fast-moving boat. You will see how two water crests diverge at an angle from the bow (see \figr{fig-048}). Where do they come from? And why is the angle between them sharper the faster the boat moves?
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-048.pdf}
+\sidecaption{The keel wave.\label{fig-048}}
+\end{figure}
+To understand the reason for the emergence of these crests, let's once again turn to the diverging circles formed on the water surface by stones thrown into it. By throwing stones into the water at certain intervals, you can see circles of different sizes on the water surface; the later a stone is thrown, the smaller the circle it creates. 
+
+If you throw stones along a straight line, the circles formed collectively generate a wave similar to the one at the bow of a ship. The smaller and more frequent the stones are thrown, the more noticeable the similarity becomes. By immersing a stick in the water and moving it along the water surface, you effectively replace the intermittent falling of stones with continuous motion, and then you see exactly the wave that forms at the bow of a ship. To make this vivid picture even clearer, let's add a bit more. 
+
+Each moment, the bow of the ship, plunging into the water, generates the same circular wave as a thrown stone. The circle expands in all directions, but meanwhile, the ship moves forward and creates a second circular wave, followed immediately by a third, and so on. The intermittent formation of circles caused by stones is perceived as continuous due to their continuous occurrence, resulting in the pattern shown in \figr{fig-049}.
+
+Meeting each other, the crests of neighbouring waves break each other: only two small segments of the complete circle remain intact, which are located on their outer parts. These outer segments merge to form two continuous crests, positioned as external tangents to all circular waves (\figr{fig-049}, right).
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-049.pdf}
+\sidecaption{How the keel wave is formed.\label{fig-049}}
+\end{figure}
+
+This is how the origin of the water crests visible behind the boat, behind any body moving rapidly along the water surface, occurs.
+
+It follows directly from this that this phenomenon is possible only when the body moves faster than the water waves. If you slowly move a stick through the water, you will not see any crests: the circular waves will be arranged one inside the other, and it will be impossible to draw a common tangent to them.
+
+Diverging crests can also be observed when the body stands still and the water flows past it. If the current of the river is fast enough, such wakes are formed in the water flowing around bridge piers. The shape of the waves is even more distinct here than, for example, from a steamship, as their regularity is not disrupted by the action of a propeller.
+
+Having clarified the geometric aspect of the matter, let's try to solve such a problem.
+
+\ques What determines the magnitude of the angle between both branches of the keel wave of the steamer?
+
+\ans The angle between the branches of the keel wave of a steamship depends on several factors, primarily the speed of the ship relative to the speed of the wave propagation in the water.
+
+Let's draw radii from the centre of the circular waves (\figr{fig-49}, right) to the corresponding points of the straight wave crest, i.e., to the points of common tangency. It's easy to understand that $O_{1}B$ represents the distance travelled by the ship's bow in some time, and $O_{1}A_{1}$ -- represents the distance over which the wave propagates in the same time period. The ratio $O_{1}B/O_{1}A_{1}$ is the sine of angle $O_{1}BA_{1}$, which, in turn, is the ratio of the wave propagation velocity to the ship's velocity. Therefore, the angle $B$ between the crests of the keel wave is nothing else but twice the angle whose sine is the ratio of the wave propagation velocity to the ship's velocity.
+
+
+The speed of wave propagation in water is approximately the same for all vessels. Therefore, the angle between the branches of the keel wave primarily depends on the speed of the ship. In general, the sine of half the angle is proportional to this speed. Conversely, the angle's magnitude indicates how many times the ship's speed exceeds the speed of the waves. For instance, if the angle between the branches of the keel wave is \ang{30}, as is common for most cargo and passenger ships, then the sine of half this angle (approximately 0.26) suggests that the ship's speed exceeds the wave speed by roughly four times.
+
+\section{Speed of Projectiles}
+\label{sec-2.14}
+\begin{marginfigure}[-3cm]%[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{figures/ch-02/fig-050.pdf}
+\sidecaption{A head wave (shock wave) in the air formed by a flying projectile.\label{fig-050}}
+\end{marginfigure}
+
+\begin{marginfigure}[1cm]%[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{figures/ch-02/fig-051.pdf}
+\sidecaption{Another example of head wave (shock wave) in the air formed by a flying projectile.\label{fig-051}}
+\end{marginfigure}
+
+\ques Waves, similar to those considered now, are generated in the air by a flying bullet or artillery shell.
+
+There are methods to photograph a projectile in flight; \figr{fig-050} and \figr{fig-051} reproduce two such images of projectiles moving at different speeds. In both drawings, the ``head wave''\sidenote[][2cm]{The term shock wave is commonly used now. \textsc{dm}} that interests us is clearly visible (as it is called in this case). Its origin is the same as that of the bow wave of a ship. And here the same geometric relationships apply, namely: the sine of half the angle of divergence of the head waves is equal to the ratio of the speed of wave propagation in the air to the speed of the projectile itself. But wave propagation in the air occurs at a speed close to the speed of sound, i.e., \SI{330}{\meter\per\second}. Therefore, it is easy, having a photograph of a flying projectile, to approximately determine its speed. How to do this for the two images provided here?
+
+\ans Let's measure the angle of divergence of the head wave branches in \figr{fig-050} and \figr{fig-051}. In the first case, it is about \ang{80}, and in the second case -- approximately \ang{55}. Half of them are \ang{40} and \ang{27.5}. For \ang{40}, $\sin(\ang{40}) = 0.64$, and for \ang{27.5}, $\sin(\ang{27.5}) = 0.46$. Therefore, the speed of wave propagation in the air, i.e., \SI{330}{\meter\per\second}, is 0.64 of the projectile's flight speed in the first case and 0.46 in the second. Hence, $330 / 0.64 = \SI{520}{\meter\per\second}$ for the speed of the first projectile, and $330 / 0.46 = \SI{720}{\meter\per\second}$ for the speed of the second projectile.
+
+You see that quite simple geometric considerations, with some support from physics, helped us solve a problem that, at first glance, seemed very intricate; to determine the speed of a projectile at the moment of photography. (However, this calculation is only approximately correct, since some secondary circumstances are not taken into account here.)
+
+For those who want to independently perform such a speed calculation for projectiles, here are three reproductions of photographs of shells flying at different speeds (\figr{fig-052}).
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-052.pdf}
+\sidecaption{How to determine the speed of flying projectiles?\label{fig-052}}
+\end{figure}
+
+\section{Finding Pond Depth}
+\label{sec-2.15}
+
+The ripples on the water distracted us for a while in the field of artillery. Let's go back to the river again and consider the Hindu lotus problem,
+
+The ancient Hindus had a custom of offering tasks and rules in verse, Here is one of such tasks:
+
+\ques 
+\begin{quote}
+\emph{
+Above the tranquil lake, \\
+With a half-foot size, the lotus flower rose. \\
+It grew alone. And the wind, in a gust, \\
+Bent it sideways. \\
+No more flower above the wave, \\
+But the fisherman found it, in early spring, \\
+Two feet from where it grew.\\
+So, I propose a question: \\
+How deep is the water of the lake?}\\[-15pt]
+\flushright{Translated by  \emph{V. I. Lebedev}}
+\end{quote}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-02/fig-053.pdf}
+\sidecaption{The Hindu problem of the lotus flower.\label{fig-053}}
+\end{figure}
+
+
+
+\ans Let's denote the depth of the pond $CD$ as \( x \) \figr{fig-053}. Then, according to the Pythagorean theorem, we have:
+\begin{equation*}%
+BD^{2} - x^{2} = BC^{2}.
+\end{equation*}
+Thus, 
+\begin{equation*}%
+x^{2} = \left( x + \frac{1}{2} \right)^{2} - 2^{2}.
+\end{equation*}
+From this, we get:
+\begin{equation*}%
+x^{2} = x^{2}  + x + \frac{1}{4} - 4 , \quad x = 3\,\frac{3}{4}
+\end{equation*}
+
+The depth is approximately $3\,\frac{3}{4}$ feet.
+
+Near the riverbank or a shallow pond, you can find a water plant that will provide you with real material for a similar problem: without any tools, without even getting your hands wet, you can determine the depth of the water at that spot.
+
+
+
+\section{Starry Sky in the River}
+\label{sec-2.16}
+\begin{marginfigure}%[1cm]%[h!]
+\centering
+\includegraphics[width=1.\textwidth]{figures/ch-02/fig-054.pdf}
+\sidecaption{Which part of the starry sky can be seen in the water channel of the river.\label{fig-054}}
+\end{marginfigure}
+The river also offers the geometer problems at night. Remember Gogol's description of the Dnieper: ``The stars burn and shine over the world and all are reflected in the Dnieper at once. The Dnieper holds them all in its dark womb: not one can escape from it, unless it goes out in the sky.'' Indeed, when standing on the bank of a wide river, it seems that the entire starry dome is reflected in the water mirror. But is it really so? Do all the stars ``surrender'' to the river?
+
+
+Let's make a drawing (\figr{fig-054}): $A$ is the eye of the observer standing on the riverbank, at the edge of the cliff, $MN$ is the water surface. What stars can the observer see in the water from point $AD$? To answer this question, let's drop a perpendicular $AD$ from point $A$ to the line $MN$ and extend it to an equal distance to point $A'$. If the observer's eye were at $A'$, he could only see the part of the starry sky that fits inside angle $BA'C$. The actual observer's field of view from point $A$ is the same. Stars outside this angle are not visible to the observer; their reflected rays pass by his eyes.
+
+How to make sure of this? How to prove that, for example, star $S$ lying outside angle $BA'C$ is not visible to our observer in the water mirror of the river? Let's follow its ray, falling close to the shore, to point $M$; it will reflect according to the laws of physics at an angle to perpendicular $MP$, which is equal to the angle of incidence $SMP$ and therefore less than angle $PMA$ (this is easy to prove based on the equality of triangles $ADM$ and $A'DM$); thus, the reflected ray must pass by $A$. Therefore, the rays of star $S$ reflected in points beyond point $M$ will also pass by the observer's eye.
+
+\begin{marginfigure}[1cm]%[h!]
+\centering
+\includegraphics[width=1.\textwidth]{figures/ch-02/fig-055.pdf}
+\sidecaption{In a narrow river with low banks, you can see more stars.\label{fig-055}}
+\end{marginfigure}
+
+Thus, Gogol's description contains exaggeration: not all stars are reflected in the Dnieper, or, at least, less than half of the starry sky. Even more interesting is that the extent of the reflected part of the sky does not prove that you are facing a wide river. In a narrow river with low banks, you can see almost half of the sky (which seems like a wide river) if you lean close to the water. You can easily verify this by constructing a field of view for such a case (\figr{fig-055}).
+
+
+In a narrow river with low banks, you can see more stars.
+
+
+\section{Path Across the River}
+\label{sec-2.17}
+
+
+
+\ques Between points $A$ and $B$, a river (or canal) flows with approximately parallel banks (\figr{fig-056}). It is necessary to construct a bridge across the river at right angles to its banks. Where should the bridge be placed to make the path from $A$ to $B$ the shortest?
+
+\begin{marginfigure}%[1cm]%[h!]
+\centering
+\includegraphics[width=1.\textwidth]{figures/ch-02/fig-056.pdf}
+\sidecaption{Where can we build a bridge at right angles to the river banks so that the road from A to B is the shortest?\label{fig-056}}
+\end{marginfigure}
+
+
+\ans Drawing a straight line through point $A$ (\figr{fig-057}), perpendicular to the direction of the river, and marking off segment $AC$ equal to the width of the river from $A$, we connect $C$ to $B$. The bridge should be constructed at point $D$ to make the path from $A$ to $B$ the shortest.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{figures/ch-02/fig-057.pdf}
+\sidecaption{Choosing he location for building the bridge.\label{fig-057}}
+\end{figure}
+
+Indeed, by constructing bridge $DE$ (\figr{fig-058}) and connecting $E$ to $A$, we obtain the path $AEDB$, in which segment $AE$ is parallel to $CD$ ($AEDC$ is a parallelogram, as its opposite sides $AC$ and $ED$ are equal and parallel). Therefore, the length of path $AEDB$ equals the length of path $ACB$. It is easy to show that any other path is longer than this one. 
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{figures/ch-02/fig-058.pdf}
+\sidecaption{The bridge is built.\label{fig-058}}
+\end{figure}
+
+
+Suppose we suspect that some path $AMNB$ (\figr{fig-059}) is shorter than $AEDB$, i.e., shorter than $ACB$. Connecting $C$ to $N$, we see that $CN$ equals $AM$. Thus, path $AMNB = ACNB$. But $CNB$ is obviously greater than $CB$; therefore, $ACNB$ is greater than $ACB$, and consequently, greater than $AEDB$. Thus, the path $AMNB$ turns out to be not shorter but longer than the path $AEDB$. This reasoning applies to any position of the bridge that does not coincide with $ED$; in other words, the path $AEDB$ is indeed the shortest.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.65\textwidth]{figures/ch-02/fig-059.pdf}
+\sidecaption{The $AEDB$ path is indeed the shortest.\label{fig-059}}
+\end{figure}
+
+
+\section{To Construct Two Bridges}
+\label{sec-2.18}
+
+\ques A more complex case may arise when it is necessary to find the shortest path from $A$ to $B$ across the river, which needs to be crossed twice at right angles to the banks (see \figr{fig-060}). In what places should bridges be built across the rivers?
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.9\textwidth]{figures/ch-02/fig-060.pdf}
+\sidecaption{Two bridges are built.\label{fig-060}}
+\end{figure}
+
+\ans It is necessary to draw a line segment $AC$ from point $A$ (to the right in the \figr{fig-060}), equal to the width of the river at point $C$, and perpendicular to its banks. From point $B$, draw a line segment $BD$ equal to the width of the river at point $D$, also perpendicular to the banks. Connect points $C$ and $D$ with a straight line. Build bridge $EF$ at point $E$ and bridge $GH$ at point $G$. The path $AFEGHB$ is the sought shortest path from $A$ to $B$.
+
+
+The reader will, of course, understand this if reasoning in this case is conducted in the same way as we reasoned in the previous problem.
+
+
+
+
+\begin{center}
+\includegraphics[width=0.3\textwidth]{figures/ch-02/fig-ch-02-tail.pdf}
+\end{center}
 
 
 

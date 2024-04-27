@@ -1,5 +1,5 @@
-\contentsline {chapter}{\nonumberline Editor's Preface}{ix}{chapter*.2}%
-\contentsline {chapter}{\nonumberline Translator's Preface}{xiii}{chapter*.3}%
+\contentsline {chapter}{\nonumberline Editor's Preface}{xi}{chapter*.2}%
+\contentsline {chapter}{\nonumberline Translator's Preface}{xv}{chapter*.3}%
 \contentsline {part}{\numberline {I}Geometry In The Open Air}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Geometry In The Forest}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.1}By the length of the shadow}{5}{section.1.1}%
@@ -25,4 +25,14 @@
 \contentsline {section}{\numberline {2.6}The energy of the river}{69}{section.2.6}%
 \contentsline {section}{\numberline {2.7}The Flow Rate}{71}{section.2.7}%
 \contentsline {section}{\numberline {2.8}How Much Water Flows In The River?}{74}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Water Wheel}{80}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Rainbow Film}{80}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Circles on the Water}{83}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Fantastic Shrapnel}{86}{section.2.12}%
+\contentsline {section}{\numberline {2.13}The Keel Wave}{87}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Speed of Projectiles}{92}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Finding Pond Depth}{94}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Starry Sky in the River}{96}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Path Across the River}{97}{section.2.17}%
+\contentsline {section}{\numberline {2.18}To Construct Two Bridges}{100}{section.2.18}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

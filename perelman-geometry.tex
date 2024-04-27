@@ -15,7 +15,7 @@
 %\usepackage{longtable}
 \documentclass[10pt]{scrbook}
 \usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
-\geometry{paperheight=150mm,paperwidth=150mm, textwidth=75mm, textheight=100mm,                 top=20mm, bottom=20mm, marginparwidth=38mm, headsep=8mm, left=10mm, right=55mm, marginparsep=7mm, footskip=10mm}                   % ... or a4paper or a5paper 
+\geometry{paperheight=150mm,paperwidth=150mm, textwidth=75mm, textheight=100mm,                 top=20mm, bottom=20mm, marginparwidth=40mm, headsep=8mm, left=10mm, right=55mm, marginparsep=5mm, footskip=10mm}                   % ... or a4paper or a5paper 
 % ... or a4paper or a5paper or ... 
 %\geometry{landscape}                % Activate for for rotated page geometry
 \usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
@@ -63,9 +63,18 @@
 
 \RedeclareSectionCommand[beforeskip=.5\textheight plus 1.25\baselineskip]{chapter}
 
-\newcommand{\ans}{\marginnote{\textcolor{SteelBlue}{{\large \emph{Answer}}}}}% prints in red
+%\newcommand{\alignedmarginpar}[1]{%
+%    \marginpar[\raggedleft #1]{\raggedright #1}%
+%}
+%https://tex.stackexchange.com/questions/411939/marginpar-text-alignment
 
-\newcommand{\ques}{\marginnote{\textcolor{Salmon}{{\large \emph{Question}}}}}% prints in red
+%\newcommand{\ans}{\alignedmarginpar{\textcolor{SteelBlue}{{\strut\large \emph{Answer}}}}}% prints in red
+%
+%\newcommand{\ques}{\alignedmarginpar{\textcolor{Salmon}{{\strut\large \emph{Question}}}}}% prints in red
+
+\newcommand{\ques}{\textcolor{Salmon}{\large \emph{Question\quad}}}% prints in red
+\newcommand{\ans}{\textcolor{SteelBlue}{\large \emph{Answer\quad}}}
+
 
 \newcommand{\drkgry}[1]{\textcolor{darkgray}{{#1}}}
 
