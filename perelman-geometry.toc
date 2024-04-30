@@ -44,4 +44,15 @@
 \contentsline {section}{\numberline {3.6}Reservoir Set Decoration}{114}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Living Protractor}{116}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Jacob's Staff}{120}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Rake Angle Gauge}{122}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Artilleryman's Angle}{124}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Your visual acuity}{127}{section.3.11}%
+\contentsline {section}{\numberline {3.12}The Limiting Minute}{129}{section.3.12}%
+\contentsline {section}{\numberline {3.13}The Moon and Stars at the Horizon}{133}{section.3.13}%
+\contentsline {section}{\numberline {3.14}What is the length of the Moon's shadow and the shadow of the stratosat?}{137}{section.3.14}%
+\contentsline {section}{\numberline {3.15}How high is the cloud above the ground?}{139}{section.3.15}%
+\contentsline {section}{\numberline {3.16}Tower Height from Photograph}{146}{section.3.16}%
+\contentsline {section}{\numberline {3.17}Exercises}{148}{section.3.17}%
+\contentsline {chapter}{\numberline {4}Geometry on the Road}{151}{chapter.4}%
+\contentsline {section}{\numberline {4.1}The art of measuring by steps}{151}{section.4.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
