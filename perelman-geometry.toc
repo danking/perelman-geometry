@@ -55,4 +55,12 @@
 \contentsline {section}{\numberline {3.17}Exercises}{148}{section.3.17}%
 \contentsline {chapter}{\numberline {4}Geometry on the Road}{151}{chapter.4}%
 \contentsline {section}{\numberline {4.1}The art of measuring by steps}{151}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Eye-meter}{153}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Slopes}{159}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Heap of Gravel}{163}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The Proud Hill}{165}{section.4.5}%
+\contentsline {section}{\numberline {4.6}At a Road Curve}{167}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Radius of Curvature}{169}{section.4.7}%
+\contentsline {section}{\numberline {4.8}The bottom of the ocean}{172}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Do water mountains exist?}{175}{section.4.9}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
