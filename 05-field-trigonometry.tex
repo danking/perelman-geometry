@@ -1,0 +1,247 @@
+% !TEX root = perelman-geometry.tex
+%!TEX TS-program = pdflatex
+%!TEX encoding = UTF-8 Unicode
+
+\setchapterpreamble[o]{\includegraphics[width=1.2\textwidth]{figures/ch-05/fig-ch-05-head.pdf}\bigskip}
+
+\chapter{Field Trigonometry Without Formulas and Tables}
+\label{ch-05}
+	
+\section{Calculation of the sine}
+\label{sec-5.1}
+
+In this chapter, we will demonstrate how to calculate the sides of a triangle with an accuracy of 2\% and angles with an accuracy of \ang{1}, using only the concept of sine and without resorting to tables or formulas. Such simplified trigonometry can be useful during outdoor walks when tables are not at hand, and formulas are half-forgotten. Robinson Crusoe on his island could successfully employ such trigonometry.
+\begin{marginfigure}%t[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-05/fig-088.pdf}
+\sidecaption{What is the sine of an acute angle?\label{fig-088}}
+\end{marginfigure}
+
+So, imagine that you have not yet studied trigonometry or have forgotten it entirely -- a state that some readers may easily imagine. Let's begin to acquaint ourselves with it again. What is the sine of an acute angle? It is the ratio of the opposite side to the hypotenuse in the triangle formed by dropping a perpendicular from the angle to one of its sides. For example, the sine of angle $a$ (\figr{fig-088}) is $BC/AB$, or $ED/AD$, or $D'E'/AD'$, or $B'C'/AC'$. It is easy to see that due to the similarity of the triangles formed here, all these ratios are equal to each other.
+
+Let's find the sine values of various angles from \ang{1} to \ang{90}. How can we do this without having tables at hand? Quite simply: we need to create our own table of sines. That's exactly what we'll do now.
+
+Let's start with angles whose sine values we know from geometry. Firstly, the angle of \ang{90}, whose sine is obviously 1. Then the angle of \ang{45}, the sine of which can be easily calculated using the Pythagorean theorem; it equals $\sqrt{2}/2$, which is approximately 0.707. Next, we know the sine of \ang{30}; since the side opposite such an angle is half the hypotenuse, the sine of $\ang{30} = 1/2$.
+
+So, we know the sines (or, as commonly denoted, sin) of three angles: 
+\begin{align*}%
+\sin \ang{30} & = 0.5, \\
+\sin \ang{45} & = 0.707, \qand \\
+\sin \ang{90} & = 1.
+\end{align*}
+Of course, this is not enough; we need to know the sines of all intermediate angles at least through every degree. For very small angles, we can approximate the sine by taking the ratio of the arc to the radius without much error: from \figr{fig-088} (lower),
+shows that the ratio $\overline{BC}/AB$ differs little from the $\ \wideparen{BD}/AB$ ratio. For example, for an angle of \ang{1}, the arc $BD = 2\pi R/360$ and, therefore, $\sin \ang{1}$ can be taken equal to
+\begin{equation*}%
+\frac{2 \pi R}{360 , R} = \frac{\pi}{180} = 0.0175. 
+\end{equation*}
+Using the same method, we find: 
+\begin{align*}%
+\sin \ang{2} & = 0.0349, \\
+\sin \ang{3} & = 0.0524,\\
+\sin \ang{4} & = 0.0698, \\
+\sin \ang{5} & = 0.0873.
+\end{align*}
+However, we need to determine how far we can extend this table without introducing significant errors. If we were to compute sin \ang{30} using this method, we would obtain 0.524 instead of 0.500; the difference would already be in the second significant digit, and the margin of error would be 24/500, i.e. about 5\%.
+
+This is too crude even for basic field trigonometry. To find the limit to which we can calculate sine values using the approximate method described, let's try to find $\sin \ang{15}$ using a more precise method. To do this, we'll employ the following relatively straightforward construction (\figr{fig-89}).
+
+\begin{marginfigure}%t[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-05/fig-089.pdf}
+\sidecaption{How to calculate $\sin \ang{15}$?\label{fig-089}}
+\end{marginfigure}
+
+Let $\sin \ang{15} = BC/AB$. Let us extend $BC$ by an equal distance to the point $D$; connect $A$ with $D$, then we get two equal triangles: $ADC$ and $ABC$, with the angle $BAE$ equal to \ang{30} degrees. We'll drop a perpendicular $BE$ on $AD$ from point $B$, creating a right triangle $BAE$ with a \ang{30} angle $(< BAE)$, then $BE = AB/2$. Next, we'll calculate $AE$ using the Pythagorean theorem in triangle $ABE$:
+\begin{align*}%
+AE^{2} & = AB^{2} - \left(\frac{AB}{2} \right)^{2}= \frac{3}{4}\, AB^{2},\\
+AE & = \frac{AB}{2} \sqrt{3} = 0.866 \, AB.
+\end{align*}
+Thus, $ED = AD - AE = AB - 0.866 AB = 0.134 AB$. Now, from triangle $BED$, we'll calculate $BD$:
+\begin{align*}%
+BD^{2} & = BE^{2} + ED^{2} = \left(\frac{AB}{2} \right)^{2} + (0.134AB)^{2} = 0.268\, AB^{2}\\
+BD & = \sqrt{0.268AB^{2}} = 0.518 \, AB.
+\end{align*}
+Half of $BD$, i.e., $BC$, equals $0.259\, AB$, therefore the sine of angle $BAD$ is the same as the sine of \ang{15}.
+\begin{equation*}%
+\sin \ang{15} = \frac{BC}{AB} = \frac{0.259 \,AB}{AB} = 0.259.
+\end{equation*}
+This is the tabular value of $\sin \ang{15}$ if we limit ourselves to three significant figures. The approximate value we would have found using the previous method is 0.262. Comparing the values 0.259 and 0.262, we see that by rounding to two significant figures, we obtain 0.26 and 0.26, which are identical results. The error in replacing the more accurate value (0.259) with the approximate one (0.26) is 1/1000 times the difference, i.e., about 0.4\%. This margin of error is acceptable for field calculations, so we are justified in calculating the sines of angles from 1 to 15 degrees using our approximate method.
+
+For the range from \ang{15} to \ang{30} degrees, we can compute the sines using proportions. We reason as follows: the difference between $\sin \ang{30}$ and $\sin \ang{15}$ is $0.50 - 0.26 = 0.24$. Therefore, we can assume that for each degree increase, the sine increases by approximately 1/15 of this difference, i.e., $0.24/15 = 0.016$. Strictly speaking, this is not precisely accurate, but the deviation from the rule only becomes apparent in the third significant digit, which we discard anyway. Thus, by adding 0.016 successively to $\sin \ang{15}$, we get the sines of \ang{16}, \ang{17}, \ang{18}, etc.:
+%\begin{center}
+%\begin{tabular}{c}%
+%\toprule
+%$\sin \ang{16} = 0.26 + 0.016 = 0.28$,\\
+%$\sin \ang{17} = 0.26 + 0.032 = 0.29$,\\
+%$\sin \ang{18} = 0.26 + 0.048 = 0.31$,\\
+%$\sin \ang{25} = 0.26 + 0.16 = 0.42$,\\
+%and so on.\\
+%\bottomrule
+%\end{tabular}
+%\end{center}
+\begin{small}
+\begin{align*}%
+\sin \ang{16} &= 0.26 + 0.016 = 0.28,\\
+\sin \ang{17} &= 0.26 + 0.032 = 0.29,\\
+\sin \ang{18} &= 0.26 + 0.048 = 0.31,\\
+\sin \ang{25} &= 0.26 + 0.16 = 0.42,\,\,\text{and so on.}
+\end{align*}\label{page-130}
+\end{small}
+All these sines are accurate to the first two decimal places, which is sufficient for our purposes; they differ from the true sines by less than half the value of the last digit.
+
+Using the same method, we calculate angles within the range between \ang{30} and \ang{45} degrees. The difference between $\sin \ang{45} - \sin \ang{30} = 0.707 - 0.5 = 0.207$. Dividing this difference by 15, we get 0.014. We'll add this value successively to $\sin \ang{30}$, resulting in:
+%\begin{center}
+%\begin{tabular}{c}%
+%\toprule
+%$\sin \ang{31} = 0.5 + 0.014 = 0.51$,\\
+%$\sin \ang{32} = 0.5 + 0.028 = 0.52$,\\
+%\ldots \quad \ldots \\
+%$\sin \ang{40} = 0.5 + 0.014 = 0.64$,\\
+%and so on.\\
+%\bottomrule
+%\end{tabular}
+%\end{center}
+\begin{small}
+\begin{align*}%
+\sin \ang{31}  & = 0.5 + 0.014 = 0.51,\\
+\sin \ang{32}  & = 0.5 + 0.028 = 0.52,\\
+\ldots & \ldots \\
+\sin \ang{40}  & = 0.5 + 0.014 = 0.64,\,\,\text{and so on.}
+\end{align*}
+\end{small}
+\begin{marginfigure}[2cm]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-090.pdf}
+\sidecaption{To calculate the sine of an angle greater than \ang{45}.\label{fig-090}}
+\end{marginfigure}
+We also need to find the sines of acute angles larger than \ang{45}. The Pythagorean theorem can help us with this. Let's say we want to find $\sin \ang{53}$ (\figr{fig-90}), which corresponds to the ratio of side $BC/AB$. Since angle $B = \ang{37}$, we can compute its sine using the method described earlier: it equals $0.5 + 7 \times 0.014 = 0.6$. On the other hand, since we know that $\sin B = AC/ AB$, so $AC/AB = 0.6$ or $AC = 0.6 \, AB$. Knowing $AC$, we can easily calculate $AC$. This segment equals $\sqrt{(AB^{2} - BC^{2})} = \sqrt{(AB^{2} - (0.6AB)^{2})} = 0.8\, AB$. Overall, the calculation is straightforward; we just need to be able to compute square roots.
+
+
+\section{Extraction of the square root}
+\label{sec-5.2}
+
+The method for extracting square roots mentioned in algebra courses is easily forgotten. But one can do without it. In many geometry textbooks, an ancient simplified method for computing square roots using the division method is presented. Here, I will share another old method, which is also more straightforward than the one considered in algebra courses.
+
+Let's say we need to compute the square root of 13. It lies between the square roots of 9 and 16, therefore, it is equal to 3 plus a fraction denoted by $x$.
+
+So,
+\begin{align*}%
+\sqrt{13} & = 3 + x, \,\, \text{hence} \\
+13 & = 9 + 6x + x^{2}.
+\end{align*}
+Since the square of the fraction $x$ is a small fraction that can be neglected in the first approximation, we have:
+\begin{align*}%
+13 &= 9 - 6x, \,\, \text{this leads to} \\
+6x & = 4,\,\, \text{hence,}
+x & = 4/6 = 0.67.
+\end{align*}
+Therefore, approximately, $\sqrt{13} = 3.67$. If we want to determine the value of the root more precisely, we can write the equation $\sqrt{13} = 3 \, 2/3+ + y$, where $y$ is a small positive or negative fraction. From this equation, we have
+\begin{equation*}%
+13 = \frac{121}{9}  + \frac{22}{3} y  + y^{2}.
+\end{equation*}
+Neglecting $y^{2}$, we find that $y$ is approximately equal to $-0.06$. Thus, in the second approximation, $\sqrt{13} = 3.67 - 0.06 = 3.61.$
+
+The third approximation can be found using the same method, and so on. Using the conventional method taught in algebra courses, we would find the square root of 13 accurate to 0.01, also as 3.61.
+
+
+\section{To find an angle from its sine}
+\label{sec-5.3}
+
+So, we have the ability to compute the sine of any angle from \ang{0} to \ang{90} with two decimal places. The need for a ready-made table is eliminated; for approximate calculations, we can always create it ourselves if desired.
+
+But to solve trigonometric problems, one also needs to be able to compute angles from a given sine. This is also not difficult. Let's say we need to find the angle whose sine is 0.38. Since this sine is less than 0.5, the angle we seek is less than \ang{30}. But it is greater than \ang{15}, as the sine of \ang{15}, we know, is 0.26. To find this angle, which lies between \ang{15} and \ang{30}, we proceed as explained on page~\pageref{page-130}:
+\begin{align*}%
+0.38 - 0.26 & = 0.12,\\
+\frac{0.12}{0.016} & = \ang{7.5},\\
+\ang{15}  + \ang{7.5} & = \ang{22.5}.
+\end{align*}
+So, the angle we seek is approximately \ang{22.5}. Another example: find the angle whose sine is 0.62.
+\begin{align*}%
+0.62 - 0.50 & = 0.12,\\
+\frac{0.12}{0.014} & = \ang{8.6},\\
+\ang{30}  + \ang{8.6} & = \ang{38.6}.
+\end{align*}
+The angle we seek is approximately \ang{38.65}.
+
+Finally, the third example: find the angle whose sine is 0.91.
+
+Since this sine lies between 0.71 and 1, the angle we seek lies between \ang{45} and \ang{90}. In \figr{fig-091}, $BC$ is the sine of angle $A$, if $BA = 1$.
+
+\begin{marginfigure}%[2cm]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-091.pdf}
+\sidecaption{To calculate an acute angle by its sine.\label{fig-091}}
+\end{marginfigure}
+
+Knowing $BC$, it is easy to find the sine of angle $B$: BC
+\begin{align*}%
+AC^{2} & = 1 - BC^{2} = 1 - 0.91^{2}\\
+AC^{2} &  = 1 - 0.83 = 0.17,\\
+AC & = \sqrt{0.17} = 0.42.
+\end{align*}
+Now let's find the value of angle $B$, whose sine is 0.42; after that, it will be easy to find angle $A$, which is equal to $\ang{90}  - B$. Since 0.42 lies between 0.26 and 0.5, angle $B$ lies between \ang{15} and \ang{30}. It is determined as follows:
+\begin{align*}
+0.42 - 0.26 & = 0.16, \\
+\frac{0.16}{0.016} & = \ang{10},\\
+B & = \ang{15} + \ang{10} = \ang{25}.
+\end{align*}
+And that means the angle $A = \ang{90} - B = \ang{90} - \ang{25} = \ang{65}.$
+
+We are now well-equipped to approximately solve trigonometric problems, as we can find sines from angles and angles from sines with an accuracy sufficient for outdoor purposes.
+
+But is the sine alone sufficient for this? Will we not need the other trigonometric functions -- cosine, tangent, etc.? We will now demonstrate with several examples that for our simplified trigonometry, one can easily manage with just the sine.
+
+\section{Height of the Sun Problem}
+
+\begin{marginfigure}%[2cm]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-092.pdf}
+\sidecaption{To determine the height of the Sun above the horizon.\label{fig-092}}
+\end{marginfigure}
+
+\ques The shadow $BC$ (\figr{fig-092}) of the vertical pole $AB$, with a height of 4.2 m, measures 6.5 m. What is the height of the Sun above the horizon, i.e., what is the angle $C$?
+
+
+\ans It is easy to see that the sine of angle $C$ is equal to $AB/AC$. Since 
+\begin{align*}%
+AC & = \sqrt{AB^{2} + BC^{2}},\\
+& = \sqrt{4.2^{2} + 6.5^{2}},\\ 
+& = 7.74. 
+\end{align*}
+Therefore, the sine we are seeking is approximately $4.2/7.74 = 0.55$. Using the method described earlier, we find the corresponding angle: \ang{33}. The height of the Sun is approximately \ang{33} with an accuracy of \ang{0.5}.
+
+\section{Distance to the Island Problem}
+
+While wandering with a compass near the river, you noticed an island A on it (Fig. 98) and wish to determine its distance from point B on the shore. To do this, you determine the angle ABM°, formed with the north-south direction (№5), by the straight line BA using the compass. Then, you measure the straight line BC and determine the angle MBC between it and №5. Finally, you do the same at point C for the straight line AC. Let's assume that you obtained the following data:
+
+The direction AB deviates from №5 to the east by 52° > 726 > » №» > » 1109 » CA > › № » west ›» 2759
+
+The length of BC is 197 m. How can you calculate the distance BA using this data?
+
+Solution
+
+In triangle ABC, we know the side BC. Angle ABC = 110° − 52° = 58°; angle ACB = 180° − 110° − 27° = −43°. Let's consider the height BO in this triangle (Fig. 93, to the right): BO = 48. By calculating the sine of 43° using the method mentioned earlier, we obtain approximately 0.68. Hence, BO = 187 × 0.68 = 127.
+
+Now, in triangle ABO, we know the side BO; angle A = 180° − (58° − 43°) = 79°, and angle ABO = 90° − 79° = 11°. We can calculate the sine of 11°: it is 0.19. Therefore, AB = 0.19 × BO. Using the Pythagorean theorem, $AB^2 = BO^2 + AO^2$. Substituting 0.19 × AB for AO and 127 for BO, we have: $AB^2 = 127^2 − (0.19AB)^2$, from which AB = 128. Thus, the distance to the island is approximately 128 m. The reader, I believe, would not have difficulty in calculating the direction AC if needed.
+
+\begin{center}
+\includegraphics[width=0.3\textwidth]{figures/ch-05/fig-ch-05-tail.pdf}
+\end{center}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

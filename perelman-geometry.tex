@@ -137,6 +137,14 @@
 
 \usepackage{chngcntr}
 \counterwithout{figure}{chapter}
+\let\widering\relax
+%
+\usepackage{yhmath}
+\DeclareFontFamily{OMX}{yhex}{}
+\DeclareFontShape{OMX}{yhex}{m}{n}{<->yhcmex10}{}
+\DeclareSymbolFont{yhlargesymbols}{OMX}{yhex}{m}{n}
+\DeclareMathAccent{\wideparen}{\mathord}{yhlargesymbols}{"F3}
+% https://tex.stackexchange.com/questions/96680/a-better-notation-to-denote-arcs-for-an-american-high-school-textbook
 
 
 %%%%%%  END OF PACKAGES 
@@ -164,6 +172,7 @@
 \input{02-river-geometry}
 \input{03-open-field-geometry}
 \input{04-road-geometry}
+\input{05-field-trigonometry}
 
 \end{document}
 %%% Local Variables:
