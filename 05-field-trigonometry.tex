@@ -192,12 +192,13 @@ We are now well-equipped to approximately solve trigonometric problems, as we ca
 But is the sine alone sufficient for this? Will we not need the other trigonometric functions -- cosine, tangent, etc.? We will now demonstrate with several examples that for our simplified trigonometry, one can easily manage with just the sine.
 
 \section{Height of the Sun Problem}
+\label{sec-5.4}
 
-\begin{marginfigure}%[2cm]
+\begin{figure}%[2cm]
 \centering
-\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-092.pdf}
+\includegraphics[width=0.7\textwidth]{figures/ch-05/fig-092.pdf}
 \sidecaption{To determine the height of the Sun above the horizon.\label{fig-092}}
-\end{marginfigure}
+\end{figure}
 
 \ques The shadow $BC$ (\figr{fig-092}) of the vertical pole $AB$, with a height of 4.2 m, measures 6.5 m. What is the height of the Sun above the horizon, i.e., what is the angle $C$?
 
@@ -211,18 +212,147 @@ AC & = \sqrt{AB^{2} + BC^{2}},\\
 Therefore, the sine we are seeking is approximately $4.2/7.74 = 0.55$. Using the method described earlier, we find the corresponding angle: \ang{33}. The height of the Sun is approximately \ang{33} with an accuracy of \ang{0.5}.
 
 \section{Distance to the Island Problem}
+\label{sec-5.5}
 
-While wandering with a compass near the river, you noticed an island A on it (Fig. 98) and wish to determine its distance from point B on the shore. To do this, you determine the angle ABM°, formed with the north-south direction (№5), by the straight line BA using the compass. Then, you measure the straight line BC and determine the angle MBC between it and №5. Finally, you do the same at point C for the straight line AC. Let's assume that you obtained the following data:
+While wandering with a compass near the river, you noticed an island $A$ on it (\figr{fig-093}) and wish to determine its distance from point $B$ on the shore. To do this, you determine the angle $ABN$, formed with the north-south direction $(NS)$, by the straight line $BA$ using the compass. Then, you measure the straight line $BC$ and determine the angle $NBC$ between it and $NS$. Finally, you do the same at point $C$ for the straight line $AC$. Let's assume that you obtained the following data:
 
-The direction AB deviates from №5 to the east by 52° > 726 > » №» > » 1109 » CA > › № » west ›» 2759
+The direction $AB$ deviates from $NS$ to the east by \ang{52}.
+The direction $BC$ deviates from $NS$ to the east by \ang{110}.
+The direction $CA$ deviates from $NS$ to the east by \ang{27}.
 
-The length of BC is 197 m. How can you calculate the distance BA using this data?
 
-Solution
+The length of $BC$ is 137 m. How can you calculate the distance $BA$ using this data?
 
-In triangle ABC, we know the side BC. Angle ABC = 110° − 52° = 58°; angle ACB = 180° − 110° − 27° = −43°. Let's consider the height BO in this triangle (Fig. 93, to the right): BO = 48. By calculating the sine of 43° using the method mentioned earlier, we obtain approximately 0.68. Hence, BO = 187 × 0.68 = 127.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-05/fig-093.pdf}
+\sidecaption{How to calculate the distance to the island?\label{fig-093}}
+\end{figure}
 
-Now, in triangle ABO, we know the side BO; angle A = 180° − (58° − 43°) = 79°, and angle ABO = 90° − 79° = 11°. We can calculate the sine of 11°: it is 0.19. Therefore, AB = 0.19 × BO. Using the Pythagorean theorem, $AB^2 = BO^2 + AO^2$. Substituting 0.19 × AB for AO and 127 for BO, we have: $AB^2 = 127^2 − (0.19AB)^2$, from which AB = 128. Thus, the distance to the island is approximately 128 m. The reader, I believe, would not have difficulty in calculating the direction AC if needed.
+\ans In triangle $ABC$, we know the side $BC$. Angle $ABC = \ang{110} - \ang{52} = \ang{58}$; angle $ACB = \ang{180} − \ang{110} − \ang{27} = -\ang{43}$. Let's consider the height $BD$ in this triangle (\figr{fig-098}, to the right): $\sin C = \sin \ang{43} = BD/187$. By calculating the $\sin \ang{43}$ using the method mentioned earlier, we obtain approximately 0.68. Hence, 
+\begin{equation*}%
+BD = 187 \times 0.68 = 127.
+\end{equation*}
+Now, in triangle $ABD$, we know the side $BD$; angle $A = \ang{180} − (\ang{58} + \ang{43}) = \ang{79}$, and angle $ABD = \ang{90} − \ang{79} = \ang{11}$. We can calculate the $\sin \ang{11}$: it is 0.19. Therefore, $AD/AB = 0.19$. Using the Pythagorean theorem, 
+\begin{equation*}%
+AB^{2} = BD^{2} + AD^{2}.
+\end{equation*}
+Substituting $0.19 \, AB$ for $AD$ and 127 for $BD$, we have: 
+\begin{equation*}%
+AB^{2} = 127^{2} + (0.19AB)^{2}.
+\end{equation*}
+from which $AB \approx 128$. Thus, the distance to the island is approximately \SI{128}{\meter}. The reader, I believe, would not have difficulty in calculating the direction $AC$ if needed.
+
+\section{Lake Width Problem}
+\label{sec-5.6}
+
+To determine the width of lake AB (see \figr{fig-094}), you found from the compass that line $AC$ veers westward by \ang{21}, and $BC$ veers eastward by \ang{22}. With $BC = \SI{68}{\meter}$ and $AB = \SI{35}{\meter}$, calculate the width of the lake.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-094.pdf}
+\sidecaption{How to calculate the width of the lake?\label{fig-094}}
+\end{figure}
+
+\ans In triangle $ABC$, we know angle $ABC = \ang{43}$ and the lengths of its sides are \SI{68}{\meter} and \SI{35}{\meter}. Dropping a perpendicular from $A$ to $D$ (to the right), we get a right triangle $ADC$ where the angle $C$ is \ang{43}. Hence $\sin \ang{43} = AD/AC$. Calculating, $\sin \ang{43} = 0.68$, hence $AD = \sin \ang{43} \times AC  = 0.68 \times 35 = 24$. Next, we compute $CD$ and $BD$: 
+\begin{align*}%
+CD^{2} & = AC^{2} - AD^{2} = 35^{2} - 24^{2} = 649; \therefore CD = 25.5;\\
+BD & = BC - CD =  68 - 25.5 = 42.5. 
+\end{align*}
+Now, from triangle ABD, 
+\begin{align*}%
+AB^{2} & = AD^{2} + B{D}^2 \\
+& = 24^{2} + 42.5^{2} = 2380;\\
+AB & \approx 49.
+\end{align*}
+Thus, the sought width of the lake is about \SI{49}{\meter}.
+
+If we had to calculate the other two angles in triangle $ABC$, having found $AB = 49$, we would proceed as follows: 
+\begin{align*}%
+\sin B & = \frac{AD}{AB}  = \frac{24}{49} = 0.49,\,\, \text{hence}\\ 
+B & = \ang{29}. 
+\end{align*}
+The third angle $C$ is found by subtracting the sum of angles \ang{29} and \ang{43} from \ang{180}; it equals \ang{108}.
+
+
+\begin{marginfigure}%[2cm]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-095.pdf}
+\sidecaption{To the solution of the obtuse angle.\label{fig-095}}
+\end{marginfigure}
+
+It may happen that in the case of solving a triangle (on two sides and the angle between them), this angle is not sharp, but obtuse. If, for example, an obtuse angle $A$ and two sides, $AB$ and $AC$, are known in the ABC triangle (\figr{fig-095}), then the calculation of the remaining elements is as follows. Lowering the height $BD$, determine $BD$ and $AD$ from the triangle $BDA$; then, knowing $DA + AC$, find $BC$ and $\sin C$ by calculating the ratio $BD / BC$.
+
+
+\section{Triangle Area Problem}
+\label{sec-5.7}
+
+\ques During an excursion, we measured the sides of a triangular area in steps and found them to be 43, 60, and 54 steps, respectively. What are the angles of this triangle?
+
+
+
+\ans This is the most complex case of solving a triangle: by three sides. However, it can be managed without resorting to other functions besides sine. Dropping $BD$ (see \figr{fig-096}) the perpendicular from $B$ to the longest side $AC$, we have:
+\begin{marginfigure}%[2cm]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-05/fig-096.pdf}
+\sidecaption{Find the angles of this triangle 1) by calculation, 2) using a protractor.\label{fig-096}}
+\end{marginfigure}
+\begin{align*}%
+BD^{2} & = 43^{2} - AD^{2}, \quad BD^{2} = 54^{2} - DC^{2},\,\, \text{hence}\\
+43^{2} - AD^{2} & = 54^{2} - DC^{2},\\
+DC^{2} - AD^{2} & = 54^{2} - 43^{2} = 1070.\\
+\text{But} \,\,DC^{2} - AD^{2} & = (DC + AD)(DC - AD) = 60(DC - AD).  \\
+\therefore \,\, 60(DC - AD) & = 1070 \qand DC - AD = 17.8. 
+\end{align*}
+From the equations $DC - AD = 17.8$ and $DC + AD = 60$, we get: 
+$2DC = 77.8$, i.e. $DC = 38.9$. Now, it's easy to calculate the height:
+\begin{equation*}%
+BD = \sqrt{54^{2} - 38.9^{2}} = 37.4,
+\end{equation*}
+from which we find:
+\begin{align*}%
+\sin A & = \frac{BD}{AB} = \frac{37.4}{43} = 0.87; \quad A \approx \ang{60},\\
+\sin C & = \frac{BD}{BC} = \frac{37.4}{54	} = 0.69; \quad A \approx \ang{44}.
+\end{align*}
+Then we can find angle $B = \ang{180} - (A + C) = \ang{76}$.
+
+If we were to calculate this using tables, according to the rules of ``real'' trigonometry, we would get angles expressed in degrees and minutes. However, these minutes would be inherently erroneous, as the sides measured in steps involve an error of no less than 2–3\%. Hence, to avoid self-deception, the obtained ``accurate'' angle values should be rounded to at least whole degrees. And then we would arrive at the same result as we did by resorting to simplified methods. The benefit of our ``field'' trigonometry is quite evident here.
+
+
+\section{Determining the Magnitude of an Angle without any Instruments}
+
+To measure angles on the ground, we need at least a compass, and sometimes just our own fingers or a matchbox. But there may be a need to measure an angle drawn on paper, on a plan, or on a map.
+
+Of course, if a protractor is at hand, the problem is easily solved. But what if there is no protractor, for example, in field conditions? A geometer should not be at a loss in this case either. How would you solve the following problem: 
+
+\ques Angle $AOB$ (see \figr{fig-097}) is depicted, measuring \ang{180}. Determine its magnitude without measurements.
+\begin{marginfigure}%[2cm]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-05/fig-097.pdf}
+\sidecaption{97. How to determine the value of the depicted angle of the $AOB$ using only a compass?\label{fig-097}}
+\end{marginfigure}
+
+\ans One could drop a perpendicular from any point on side $BO$ to side $AO$, measure the catheti and the hypotenuse in the resulting right-angled triangle, find the sine of the angle, and then the magnitude of the angle itself (see page~\pageref{sec-5.3}). But such a solution would not meet the strict condition of not measuring anything!
+
+Let's use the solution proposed in 1946 by J. Rupeika from Kaunas.
+
+From vertex $O$, as from the centre, using the compass, let's draw a complete circle with any radius. Points $C$ and $D$, the intersections of the circle with the sides of the angle, are then connected by a straight line.
+
+Now, using only the compass, starting from the initial point $C$ on the circle, we will sequentially lay off the chord $CD$ in the same direction until the compass leg coincides again with the starting point $C$.
+
+While laying off the chords, we must count how many times the circle is circumvented during this time and how many times the chord is laid off.
+
+Let's assume that we circled the circle $n$ times and during this time laid off the chord $CD$ $S$ times. Then the desired angle will be equal to 
+\begin{equation*}%
+\angle AOB = \frac{\ang{360}\cdot n}{S}.
+\end{equation*}
+Indeed, let the given angle contain \ang{x}; by laying off the chord $CD$ on the circle $S$ times, we, so to speak, increased the angle \ang{x} by $S$ times, but since the circle was circled $n$ times in the process, this angle will be $\ang{360} \times n$, i.e., $\ang{x} \cdot S = \ang{360} \cdot n; hence, 
+\begin{equation*}%
+\ang{x} = \frac{360° \cdot n}{S}.
+\end{equation*}
+For the angle depicted in the drawing, $n = 3$, $S = 20$ (check!); therefore, $ \angle AOB = \ang{54}$. In the absence of a compass, a circle can be drawn using a pin and a strip of paper; the chord can also be laid off using the same paper strip.
+
+\ques Determine the angles of the triangle in \figr{fig-096} using this method.
 
 \begin{center}
 \includegraphics[width=0.3\textwidth]{figures/ch-05/fig-ch-05-tail.pdf}

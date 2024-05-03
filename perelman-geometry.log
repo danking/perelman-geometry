@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.31)  2 MAY 2024 16:31
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.31)  3 MAY 2024 13:22
  restricted system commands enabled.
  file:line:error style messages enabled.
 **perelman-geometry.tex
@@ -1056,20 +1056,12 @@ LaTeX Warning: Label `sec-1.12' multiply defined.
 LaTeX Warning: Label `sec-3.14' multiply defined.
 
 )
-Runaway argument?
-{5C3337365C3337375C303030485C3 
-./perelman-geometry.tex:157: File ended while scanning use of \BKM@entry.
-<inserted text> 
-\par 
-l.157 \begin{document}
-                    
-? 
-
 \openout1 = perelman-geometry.aux
+
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 157.
 LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line
  157.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 157.
@@ -1437,62 +1429,62 @@ art$[][]\TU/LibertinusSerif(0)/m/n/9 .
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 55
 .
- (./perelman-geometry.toc)
-\tf@toc=\write4
-
-\openout4 = perelman-geometry.toc
- [7
-
-] [8
-
-]
-chapter without number
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 64.
-[9
-
-]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 77.
- [10] [11] [12
-
-]
-chapter without number
-Package marginnote Info: Suggest that margin note 15.1 will be on
-(marginnote)             absolute page 15.
-(marginnote)             This may be wrong on input line 92.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 92.
+ (./perelman-geometry.toc
+LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 3.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 92.
-[13]
-Package marginnote Info: Suggest that margin note 16.1 will be on
-(marginnote)             absolute page 16.
-(marginnote)             This may be wrong on input line 97.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 97.
-Package marginnote Info: Suggest that margin note 16.2 will be on
-(marginnote)             absolute page 16.
-(marginnote)             This may be wrong on input line 101.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 101.
-Package marginnote Info: Suggest that margin note 16.3 will be on
-(marginnote)             absolute page 16.
-(marginnote)             This may be wrong on input line 103.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 103.
+(Font)              scaled to size 12.0pt on input line 3.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/minlibertine/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
+ [7
+
+]
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sl' will be
+(Font)              scaled to size 10.0pt on input line 32.
+ [8] [9])
+\tf@toc=\write4
+
+\openout4 = perelman-geometry.toc
+ [10]
+chapter without number
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 64.
+[11
+
+
+] [12] [13] [14
+
+]
+chapter without number
+Package marginnote Info: Margin note 17.1 is on absolute page 17 on input line 
+92.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 92.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 92.
+[15]
+Package marginnote Info: Margin note 18.1 is on absolute page 18 on input line 
+97.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 97.
+Package marginnote Info: Margin note 18.2 is on absolute page 18 on input line 
+101.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 101.
+Package marginnote Info: Margin note 18.3 is on absolute page 18 on input line 
+103.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 103.
 
 Overfull \hbox (0.63393pt too wide) in paragraph at lines 103--104
 []\TU/LibertinusSerif(0)/m/n/10 Dur-ing the course of type-set-ting this book, 
 dis-cus-sions posted
  []
 
-[14]
-<figures/pustaktarak.pdf, id=112, 60.62045pt x 60.62045pt>
+[16]
+<figures/pustaktarak.pdf, id=345, 60.62045pt x 60.62045pt>
 File: figures/pustaktarak.pdf Graphic file (type pdf)
 <use figures/pustaktarak.pdf>
 Package luatex.def Info: figures/pustaktarak.pdf  used on input line 109.
 (luatex.def)             Requested size: 48.36894pt x 48.3706pt.
-) [15<./figures/pustaktarak.pdf>] [16
+) [17<./figures/pustaktarak.pdf>] [18
 
 
 ]
@@ -1522,7 +1514,7 @@ Overfull \hbox (73.97603pt too wide) in paragraph at lines 10--10
 
 ]
 chapter 1.
-<figures/ch-01/fig-ch-01-head.pdf, id=145, 1778.90141pt x 720.44136pt>
+<figures/ch-01/fig-ch-01-head.pdf, id=377, 1778.90141pt x 720.44136pt>
 File: figures/ch-01/fig-ch-01-head.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-ch-01-head.pdf>
 Package luatex.def Info: figures/ch-01/fig-ch-01-head.pdf  used on input line 2
@@ -1538,9 +1530,8 @@ LaTeX Font Info:    Font shape `TU/LibertinusSans(0)/b/n' will be
 [5
 
 <./figures/ch-01/fig-ch-01-head.pdf>]
-Package marginnote Info: Suggest that margin note 24.1 will be on
-(marginnote)             absolute page 24.
-(marginnote)             This may be wrong on input line 47.
+Package marginnote Info: Margin note 26.1 is on absolute page 26 on input line 
+47.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `OT1/minlibertine/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1554,93 +1545,92 @@ Underfull \hbox (badness 2189) in paragraph at lines 47--47
 []|$[][]$ \TU/LibertinusSerif(0)/m/n/8 Of course, the length of the
  []
 
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 47.
+Package marginnote Info: xpos seems to be 397.67198pt on input line 47.
 [6] [7]
-<figures/ch-01/fig-01-01.pdf, id=164, 1243.02422pt x 1097.63904pt>
+<figures/ch-01/fig-01-01.pdf, id=393, 1243.02422pt x 1097.63904pt>
 File: figures/ch-01/fig-01-01.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-01.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-01.pdf  used on input line 61.
 (luatex.def)             Requested size: 217.66212pt x 192.1902pt.
-Package marginnote Info: Margin note 26.1 is on absolute page 26 on input line 
+Package marginnote Info: Margin note 28.1 is on absolute page 28 on input line 
 63.
-Package marginnote Info: xpos seems to be 397.67198pt on input line 63.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 63.
  [8<./figures/ch-01/fig-01-01.pdf>]
-<figures/ch-01/fig-01-02.pdf, id=174, 1209.39694pt x 957.0096pt>
+<figures/ch-01/fig-01-02.pdf, id=403, 1209.39694pt x 957.0096pt>
 File: figures/ch-01/fig-01-02.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-02.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-02.pdf  used on input line 74.
 (luatex.def)             Requested size: 217.66212pt x 172.22508pt.
-Package marginnote Info: Suggest that margin note 27.1 will be on
-(marginnote)             absolute page 27.
-(marginnote)             This may be wrong on input line 75.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 75.
+Package marginnote Info: Margin note 29.1 is on absolute page 30 on input line 
+75.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 75.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 79.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 79.
 [9]
-Package marginnote Info: Margin note 28.1 is on absolute page 28 on input line 
+Package marginnote Info: Margin note 30.1 is on absolute page 31 on input line 
 82.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 82.
+Package marginnote Info: xpos seems to be 223.77731pt on input line 82.
  [10<./figures/ch-01/fig-01-02.pdf>]
-<figures/ch-01/fig-01-03.pdf, id=190, 1479.60184pt x 1076.1128pt>
+<figures/ch-01/fig-01-03.pdf, id=419, 1479.60184pt x 1076.1128pt>
 File: figures/ch-01/fig-01-03.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-03.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-03.pdf  used on input line 88.
 (luatex.def)             Requested size: 217.66212pt x 158.29013pt.
-Package marginnote Info: Margin note 29.1 is on absolute page 30 on input line 
+Package marginnote Info: Margin note 31.1 is on absolute page 32 on input line 
 90.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 90.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12<./figures/ch-01/fig-01-03.pdf>]
-<figures/ch-01/fig-01-04.pdf, id=206, 1279.39204pt x 595.21901pt>
+<figures/ch-01/fig-01-04.pdf, id=436, 1279.39204pt x 595.21901pt>
 File: figures/ch-01/fig-01-04.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-04.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-04.pdf  used on input line 104.
 (luatex.def)             Requested size: 145.11053pt x 67.50873pt.
-Package marginnote Info: Margin note 31.1 is on absolute page 32 on input line 
+Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
 106.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 106.
+Package marginnote Info: xpos seems to be 223.18224pt on input line 106.
  [13<./figures/ch-01/fig-01-04.pdf>]
-<figures/ch-01/fig-01-05.pdf, id=215, 875.23926pt x 572.36356pt>
+<figures/ch-01/fig-01-05.pdf, id=444, 875.23926pt x 572.36356pt>
 File: figures/ch-01/fig-01-05.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-05.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-05.pdf  used on input line 117.
 (luatex.def)             Requested size: 217.66212pt x 142.33945pt.
-Package marginnote Info: Suggest that margin note 32.1 will be on
-(marginnote)             absolute page 32.
-(marginnote)             This may be wrong on input line 119.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 119.
+Package marginnote Info: Margin note 34.1 is on absolute page 34 on input line 
+119.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 119.
  [14<./figures/ch-01/fig-01-05.pdf>]
-<figures/ch-01/fig-01-06.pdf, id=223, 921.34248pt x 737.73747pt>
+<figures/ch-01/fig-01-06.pdf, id=452, 921.34248pt x 737.73747pt>
 File: figures/ch-01/fig-01-06.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-06.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-06.pdf  used on input line 127.
 (luatex.def)             Requested size: 217.66212pt x 174.28014pt.
-Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
+Package marginnote Info: Margin note 35.1 is on absolute page 36 on input line 
 129.
-Package marginnote Info: xpos seems to be 223.18224pt on input line 129.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 129.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [15] [16<./figures/ch-01/fig-01-06.pdf>]
-<figures/ch-01/fig-01-07.pdf, id=237, 1615.96129pt x 1294.0504pt>
+<figures/ch-01/fig-01-07.pdf, id=465, 1615.96129pt x 1294.0504pt>
 File: figures/ch-01/fig-01-07.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-07.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-07.pdf  used on input line 154.
 (luatex.def)             Requested size: 217.66212pt x 174.29434pt.
-Package marginnote Info: Margin note 35.1 is on absolute page 36 on input line 
+Package marginnote Info: Margin note 37.1 is on absolute page 38 on input line 
 156.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 156.
 
@@ -1654,129 +1644,123 @@ r tri-an-gles?''
  []
 
 [17] [18<./figures/ch-01/fig-01-07.pdf>] [19]
-<figures/ch-01/fig-01-08.pdf, id=257, 937.22551pt x 795.34518pt>
+<figures/ch-01/fig-01-08.pdf, id=484, 937.22551pt x 795.34518pt>
 File: figures/ch-01/fig-01-08.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-08.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-08.pdf  used on input line 196.
 (luatex.def)             Requested size: 145.11053pt x 123.14372pt.
-Package marginnote Info: Suggest that margin note 38.1 will be on
-(marginnote)             absolute page 38.
-(marginnote)             This may be wrong on input line 198.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 198.
+Package marginnote Info: Margin note 40.1 is on absolute page 40 on input line 
+198.
+Package marginnote Info: xpos seems to be 351.21964pt on input line 198.
  [20<./figures/ch-01/fig-01-08.pdf>]
-Package marginnote Info: Suggest that margin note 39.1 will be on
-(marginnote)             absolute page 39.
-(marginnote)             This may be wrong on input line 212.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 212.
+Package marginnote Info: Margin note 41.1 is on absolute page 41 on input line 
+212.
+Package marginnote Info: xpos seems to be 194.61722pt on input line 212.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 212.
 
 Underfull \vbox (badness 3039) has occurred while \output is active []
 
  [21]
-<figures/ch-01/fig-01-09.pdf, id=273, 1012.15982pt x 864.91333pt>
+<figures/ch-01/fig-01-09.pdf, id=501, 1012.15982pt x 864.91333pt>
 File: figures/ch-01/fig-01-09.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-09.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-09.pdf  used on input line 228.
 (luatex.def)             Requested size: 145.11053pt x 123.99048pt.
-Package marginnote Info: Margin note 40.1 is on absolute page 40 on input line 
+Package marginnote Info: Margin note 42.1 is on absolute page 43 on input line 
 230.
-Package marginnote Info: xpos seems to be 351.21964pt on input line 230.
+Package marginnote Info: xpos seems to be 223.18224pt on input line 230.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [22] [23<./figures/ch-01/fig-01-09.pdf>]
-Package marginnote Info: Margin note 42.1 is on absolute page 43 on input line 
+Package marginnote Info: Margin note 44.1 is on absolute page 44 on input line 
 247.
-Package marginnote Info: xpos seems to be 223.18224pt on input line 247.
-<figures/ch-01/fig-01-10.pdf, id=294, 1581.49445pt x 1058.98305pt>
+Package marginnote Info: xpos seems to be 338.42998pt on input line 247.
+<figures/ch-01/fig-01-10.pdf, id=518, 1581.49445pt x 1058.98305pt>
 File: figures/ch-01/fig-01-10.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-10.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-10.pdf  used on input line 255.
 (luatex.def)             Requested size: 241.84845pt x 161.94308pt.
-Package marginnote Info: Suggest that margin note 42.2 will be on
-(marginnote)             absolute page 42.
-(marginnote)             This may be wrong on input line 257.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 257.
+Package marginnote Info: Margin note 44.2 is on absolute page 45 on input line 
+257.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 257.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [24] [25<./figures/ch-01/fig-01-10.pdf>]
-<figures/ch-01/fig-01-11.pdf, id=304, 1626.80109pt x 1018.33514pt>
+<figures/ch-01/fig-01-11.pdf, id=528, 1626.80109pt x 1018.33514pt>
 File: figures/ch-01/fig-01-11.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-11.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-11.pdf  used on input line 275.
 (luatex.def)             Requested size: 241.84845pt x 151.37628pt.
-Package marginnote Info: Margin note 44.1 is on absolute page 44 on input line 
+Package marginnote Info: Margin note 46.1 is on absolute page 46 on input line 
 277.
-Package marginnote Info: xpos seems to be 338.42998pt on input line 277.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 277.
  [26
 
 <./figures/ch-01/fig-01-11.pdf>]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 5.5pt on input line 284.
-<figures/ch-01/fig-01-12.pdf, id=314, 1180.95705pt x 1106.45845pt>
+<figures/ch-01/fig-01-12.pdf, id=537, 1180.95705pt x 1106.45845pt>
 File: figures/ch-01/fig-01-12.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-12.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-12.pdf  used on input line 291.
 (luatex.def)             Requested size: 169.29317pt x 158.60054pt.
-Package marginnote Info: Suggest that margin note 45.1 will be on
-(marginnote)             absolute page 45.
-(marginnote)             This may be wrong on input line 293.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 293.
+Package marginnote Info: Margin note 47.1 is on absolute page 48 on input line 
+293.
+Package marginnote Info: xpos seems to be 363.31096pt on input line 293.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [27] [28<./figures/ch-01/fig-01-12.pdf>]
-<figures/ch-01/fig-01-13.pdf, id=331, 1590.22685pt x 1095.68994pt>
+<figures/ch-01/fig-01-13.pdf, id=554, 1590.22685pt x 1095.68994pt>
 File: figures/ch-01/fig-01-13.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-13.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-13.pdf  used on input line 307.
 (luatex.def)             Requested size: 217.66212pt x 149.96817pt.
-Package marginnote Info: Margin note 47.1 is on absolute page 48 on input line 
+Package marginnote Info: Margin note 49.1 is on absolute page 49 on input line 
 309.
-Package marginnote Info: xpos seems to be 363.31096pt on input line 309.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 309.
  [29<./figures/ch-01/fig-01-13.pdf>]
-<figures/ch-01/fig-01-14.pdf, id=340, 1546.02348pt x 1166.4956pt>
+<figures/ch-01/fig-01-14.pdf, id=564, 1546.02348pt x 1166.4956pt>
 File: figures/ch-01/fig-01-14.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-14.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-14.pdf  used on input line 335.
 (luatex.def)             Requested size: 217.66212pt x 164.21603pt.
-Package marginnote Info: Suggest that margin note 48.1 will be on
-(marginnote)             absolute page 48.
-(marginnote)             This may be wrong on input line 336.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 336.
+Package marginnote Info: Margin note 50.1 is on absolute page 51 on input line 
+336.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 336.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [30]
-<figures/ch-01/fig-01-15.pdf, id=352, 803.24931pt x 1177.36328pt>
+<figures/ch-01/fig-01-15.pdf, id=575, 803.24931pt x 1177.36328pt>
 File: figures/ch-01/fig-01-15.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-15.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-15.pdf  used on input line 347.
 (luatex.def)             Requested size: 102.42921pt x 150.13428pt.
-Package marginnote Info: Margin note 49.1 is on absolute page 49 on input line 
+Package marginnote Info: Margin note 51.1 is on absolute page 51 on input line 
 349.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 349.
-Package marginnote Info: Suggest that margin note 49.2 will be on
-(marginnote)             absolute page 49.
-(marginnote)             This may be wrong on input line 349.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 349.
+Package marginnote Info: xpos seems to be 393.89767pt on input line 349.
+Package marginnote Info: Margin note 51.2 is on absolute page 51 on input line 
+349.
+Package marginnote Info: xpos seems to be 121.75606pt on input line 349.
  [31<./figures/ch-01/fig-01-14.pdf><./figures/ch-01/fig-01-15.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 353--354
 
  []
 
-<figures/ch-01/fig-01-16.pdf, id=357, 1442.32939pt x 1138.38635pt>
+<figures/ch-01/fig-01-16.pdf, id=581, 1442.32939pt x 1138.38635pt>
 File: figures/ch-01/fig-01-16.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-16.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-16.pdf  used on input line 370.
 (luatex.def)             Requested size: 217.66212pt x 171.7928pt.
-Package marginnote Info: Margin note 50.1 is on absolute page 51 on input line 
+Package marginnote Info: Margin note 52.1 is on absolute page 53 on input line 
 372.
 Package marginnote Info: xpos seems to be 259.45804pt on input line 372.
 
@@ -1785,92 +1769,87 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [32
 
 ] [33<./figures/ch-01/fig-01-16.pdf>]
-Package marginnote Info: Margin note 52.1 is on absolute page 53 on input line 
+Package marginnote Info: Margin note 54.1 is on absolute page 54 on input line 
 386.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 386.
+Package marginnote Info: xpos seems to be 223.02466pt on input line 386.
  [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-Package marginnote Info: Margin note 54.1 is on absolute page 54 on input line 
+Package marginnote Info: Margin note 56.1 is on absolute page 56 on input line 
 400.
-Package marginnote Info: xpos seems to be 223.02466pt on input line 400.
+Package marginnote Info: xpos seems to be 328.10255pt on input line 400.
 
 Underfull \vbox (badness 4378) has occurred while \output is active []
 
  [36]
-<figures/ch-01/fig-01-17.pdf, id=399, 1664.81305pt x 1564.74284pt>
+<figures/ch-01/fig-01-17.pdf, id=619, 1664.81305pt x 1564.74284pt>
 File: figures/ch-01/fig-01-17.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-17.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-17.pdf  used on input line 425.
 (luatex.def)             Requested size: 217.66212pt x 204.56976pt.
-Package marginnote Info: Suggest that margin note 55.1 will be on
-(marginnote)             absolute page 55.
-(marginnote)             This may be wrong on input line 426.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 426.
+Package marginnote Info: Margin note 57.1 is on absolute page 58 on input line 
+426.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 426.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [37] [38<./figures/ch-01/fig-01-17.pdf>]
-<figures/ch-01/fig-01-18.pdf, id=424, 821.66762pt x 553.54604pt>
+<figures/ch-01/fig-01-18.pdf, id=643, 821.66762pt x 553.54604pt>
 File: figures/ch-01/fig-01-18.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-18.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-18.pdf  used on input line 454.
 (luatex.def)             Requested size: 241.84845pt x 162.93146pt.
-Package marginnote Info: Margin note 57.1 is on absolute page 58 on input line 
+Package marginnote Info: Margin note 59.1 is on absolute page 59 on input line 
 456.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 456.
-Package marginnote Info: Suggest that margin note 57.2 will be on
-(marginnote)             absolute page 57.
-(marginnote)             This may be wrong on input line 462.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 462.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 456.
+Package marginnote Info: Margin note 59.2 is on absolute page 60 on input line 
+462.
+Package marginnote Info: xpos seems to be 218.24469pt on input line 462.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39<./figures/ch-01/fig-01-18.pdf>]
-<figures/ch-01/fig-01-19.pdf, id=436, 1452.24054pt x 894.02113pt>
+<figures/ch-01/fig-01-19.pdf, id=655, 1452.24054pt x 894.02113pt>
 File: figures/ch-01/fig-01-19.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-19.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-19.pdf  used on input line 466.
 (luatex.def)             Requested size: 241.84845pt x 148.88492pt.
-Package marginnote Info: Suggest that margin note 58.1 will be on
-(marginnote)             absolute page 58.
-(marginnote)             This may be wrong on input line 468.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 468.
+Package marginnote Info: Margin note 60.1 is on absolute page 61 on input line 
+468.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 468.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ch-01/fig-01-20.pdf, id=437, 1584.41196pt x 605.22098pt>
+<figures/ch-01/fig-01-20.pdf, id=656, 1584.41196pt x 605.22098pt>
 File: figures/ch-01/fig-01-20.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-20.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-20.pdf  used on input line 475.
 (luatex.def)             Requested size: 217.66212pt x 83.14195pt.
-Package marginnote Info: Suggest that margin note 58.2 will be on
-(marginnote)             absolute page 58.
-(marginnote)             This may be wrong on input line 477.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 477.
+Package marginnote Info: Margin note 60.2 is on absolute page 61 on input line 
+477.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 477.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [40]
 [41<./figures/ch-01/fig-01-19.pdf><./figures/ch-01/fig-01-20.pdf>]
-<figures/ch-01/fig-01-21.pdf, id=453, 1361.59392pt x 1827.62172pt>
+<figures/ch-01/fig-01-21.pdf, id=672, 1361.59392pt x 1827.62172pt>
 File: figures/ch-01/fig-01-21.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-21.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-21.pdf  used on input line 485.
 (luatex.def)             Requested size: 217.66212pt x 292.14658pt.
-Package marginnote Info: Margin note 60.1 is on absolute page 61 on input line 
+Package marginnote Info: Margin note 62.1 is on absolute page 63 on input line 
 487.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 487.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 487.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package marginnote Info: Margin note 60.2 is on absolute page 61 on input line 
+Package marginnote Info: Margin note 62.2 is on absolute page 64 on input line 
 491.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 491.
 
 Underfull \hbox (badness 3354) in paragraph at lines 491--491
 []|$[][]$ \TU/LibertinusSerif(0)/m/n/8 It must be re-mem-bered that
@@ -1881,62 +1860,60 @@ Underfull \hbox (badness 1701) in paragraph at lines 491--491
 \TU/LibertinusSerif(0)/m/n/8 ``species num-bers'' re-fer only to
  []
 
+Package marginnote Info: xpos seems to be 199.14465pt on input line 491.
 [42]
 
 LaTeX Warning: Text page 43 contains only floats.
 
 [43<./figures/ch-01/fig-01-21.pdf>]
-Package marginnote Info: Margin note 62.1 is on absolute page 63 on input line 
+Package marginnote Info: Margin note 64.1 is on absolute page 65 on input line 
 504.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 504.
+Package marginnote Info: xpos seems to be 150.32721pt on input line 504.
  [44] [45]
-<figures/ch-01/fig-01-22.pdf, id=476, 494.04579pt x 808.80371pt>
+<figures/ch-01/fig-01-22.pdf, id=694, 494.04579pt x 808.80371pt>
 File: figures/ch-01/fig-01-22.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-22.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-22.pdf  used on input line 523.
 (luatex.def)             Requested size: 102.42921pt x 167.68172pt.
-Package marginnote Info: Margin note 64.1 is on absolute page 65 on input line 
+Package marginnote Info: Margin note 66.1 is on absolute page 66 on input line 
 525.
-Package marginnote Info: xpos seems to be 150.32721pt on input line 525.
-Package marginnote Info: Suggest that margin note 64.2 will be on
-(marginnote)             absolute page 64.
-(marginnote)             This may be wrong on input line 525.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 525.
+Package marginnote Info: xpos seems to be 137.82288pt on input line 525.
+Package marginnote Info: Margin note 66.2 is on absolute page 66 on input line 
+525.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 525.
  [46
 
 <./figures/ch-01/fig-01-22.pdf>]
-<figures/ch-01/fig-01-23.pdf, id=486, 852.02129pt x 784.5599pt>
+<figures/ch-01/fig-01-23.pdf, id=704, 852.02129pt x 784.5599pt>
 File: figures/ch-01/fig-01-23.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-23.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-23.pdf  used on input line 542.
 (luatex.def)             Requested size: 102.42921pt x 94.31071pt.
-Package marginnote Info: Suggest that margin note 65.1 will be on
-(marginnote)             absolute page 65.
-(marginnote)             This may be wrong on input line 544.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 544.
-Package marginnote Info: Suggest that margin note 65.2 will be on
-(marginnote)             absolute page 65.
-(marginnote)             This may be wrong on input line 544.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 544.
+Package marginnote Info: Margin note 67.1 is on absolute page 67 on input line 
+544.
+Package marginnote Info: xpos seems to be 393.89767pt on input line 544.
+Package marginnote Info: Margin note 67.2 is on absolute page 67 on input line 
+544.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 544.
  [47<./figures/ch-01/fig-01-23.pdf>]
-<figures/ch-01/fig-01-24.pdf, id=500, 949.96725pt x 1458.6742pt>
+<figures/ch-01/fig-01-24.pdf, id=717, 949.96725pt x 1458.6742pt>
 File: figures/ch-01/fig-01-24.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-01-24.pdf>
 Package luatex.def Info: figures/ch-01/fig-01-24.pdf  used on input line 562.
 (luatex.def)             Requested size: 113.81102pt x 174.744pt.
-Package marginnote Info: Margin note 66.1 is on absolute page 66 on input line 
+Package marginnote Info: Margin note 68.1 is on absolute page 68 on input line 
 564.
-Package marginnote Info: xpos seems to be 137.82288pt on input line 564.
-Package marginnote Info: Margin note 66.2 is on absolute page 66 on input line 
+Package marginnote Info: xpos seems to be 85.35828pt on input line 564.
+Package marginnote Info: Margin note 68.2 is on absolute page 68 on input line 
 564.
 Package marginnote Info: xpos seems to be 156.49014pt on input line 564.
  [48<./figures/ch-01/fig-01-24.pdf>]
-Package marginnote Info: Margin note 67.1 is on absolute page 67 on input line 
+Package marginnote Info: Margin note 69.1 is on absolute page 70 on input line 
 571.
-Package marginnote Info: xpos seems to be 393.89767pt on input line 571.
+Package marginnote Info: xpos seems to be 285.17912pt on input line 571.
 
 [49]
-<figures/ch-01/fig-ch-01-tail.pdf, id=509, 460.81026pt x 477.21275pt>
+<figures/ch-01/fig-ch-01-tail.pdf, id=726, 460.81026pt x 477.21275pt>
 File: figures/ch-01/fig-ch-01-tail.pdf Graphic file (type pdf)
 <use figures/ch-01/fig-ch-01-tail.pdf>
 Package luatex.def Info: figures/ch-01/fig-ch-01-tail.pdf  used on input line 5
@@ -1944,7 +1921,7 @@ Package luatex.def Info: figures/ch-01/fig-ch-01-tail.pdf  used on input line 5
 (luatex.def)             Requested size: 72.55527pt x 75.13228pt.
 ) (./02-river-geometry.tex [50<./figures/ch-01/fig-ch-01-tail.pdf>]
 chapter 2.
-<figures/ch-02/fig-ch-02-head.pdf, id=515, 1739.73042pt x 670.30597pt>
+<figures/ch-02/fig-ch-02-head.pdf, id=732, 1739.73042pt x 670.30597pt>
 File: figures/ch-02/fig-ch-02-head.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-ch-02-head.pdf>
 Package luatex.def Info: figures/ch-02/fig-ch-02-head.pdf  used on input line 7
@@ -1958,105 +1935,98 @@ Overfull \hbox (48.36894pt too wide) in paragraph at lines 7--7
 [51
 
 <./figures/ch-02/fig-ch-02-head.pdf>]
-<figures/ch-02/fig-025.pdf, id=522, 1645.31482pt x 1116.3491pt>
+<figures/ch-02/fig-025.pdf, id=738, 1645.31482pt x 1116.3491pt>
 File: figures/ch-02/fig-025.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-025.pdf>
 Package luatex.def Info: figures/ch-02/fig-025.pdf  used on input line 18.
 (luatex.def)             Requested size: 217.66212pt x 147.66855pt.
-Package marginnote Info: Suggest that margin note 70.1 will be on
-(marginnote)             absolute page 70.
-(marginnote)             This may be wrong on input line 20.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 20.
-<figures/ch-02/fig-026.pdf, id=527, 680.48506pt x 855.65533pt>
+Package marginnote Info: Margin note 72.1 is on absolute page 72 on input line 
+20.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 20.
+ [52<./figures/ch-02/fig-025.pdf>]
+<figures/ch-02/fig-026.pdf, id=751, 680.48506pt x 855.65533pt>
 File: figures/ch-02/fig-026.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-026.pdf>
 Package luatex.def Info: figures/ch-02/fig-026.pdf  used on input line 28.
 (luatex.def)             Requested size: 113.81102pt x 143.10936pt.
-Package marginnote Info: Suggest that margin note 70.2 will be on
-(marginnote)             absolute page 70.
-(marginnote)             This may be wrong on input line 30.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 30.
-Package marginnote Info: Suggest that margin note 70.3 will be on
-(marginnote)             absolute page 70.
-(marginnote)             This may be wrong on input line 30.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 30.
- [52<./figures/ch-02/fig-025.pdf>]
-<figures/ch-02/fig-027.pdf, id=536, 888.69519pt x 843.41052pt>
+Package marginnote Info: Margin note 73.1 is on absolute page 73 on input line 
+30.
+Package marginnote Info: xpos seems to be 341.43307pt on input line 30.
+Package marginnote Info: Margin note 73.2 is on absolute page 73 on input line 
+30.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 30.
+<figures/ch-02/fig-027.pdf, id=752, 888.69519pt x 843.41052pt>
 File: figures/ch-02/fig-027.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-027.pdf>
 Package luatex.def Info: figures/ch-02/fig-027.pdf  used on input line 33.
 (luatex.def)             Requested size: 113.81102pt x 107.99992pt.
-Package marginnote Info: Suggest that margin note 71.1 will be on
-(marginnote)             absolute page 71.
-(marginnote)             This may be wrong on input line 35.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 35.
-Package marginnote Info: Suggest that margin note 71.2 will be on
-(marginnote)             absolute page 71.
-(marginnote)             This may be wrong on input line 35.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 35.
+Package marginnote Info: Margin note 73.3 is on absolute page 73 on input line 
+35.
+Package marginnote Info: xpos seems to be 341.43307pt on input line 35.
+Package marginnote Info: Margin note 73.4 is on absolute page 73 on input line 
+35.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 35.
 
 [53<./figures/ch-02/fig-026.pdf><./figures/ch-02/fig-027.pdf>]
-<figures/ch-02/fig-028.pdf, id=550, 1424.15169pt x 1153.79147pt>
+<figures/ch-02/fig-028.pdf, id=764, 1424.15169pt x 1153.79147pt>
 File: figures/ch-02/fig-028.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-028.pdf>
 Package luatex.def Info: figures/ch-02/fig-028.pdf  used on input line 46.
 (luatex.def)             Requested size: 217.66212pt x 176.33586pt.
-Package marginnote Info: Margin note 72.1 is on absolute page 72 on input line 
+Package marginnote Info: Margin note 74.1 is on absolute page 74 on input line 
 48.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 48.
  [54<./figures/ch-02/fig-028.pdf>]
-<figures/ch-02/fig-029.pdf, id=557, 1414.2969pt x 1166.76001pt>
+<figures/ch-02/fig-029.pdf, id=771, 1414.2969pt x 1166.76001pt>
 File: figures/ch-02/fig-029.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-029.pdf>
 Package luatex.def Info: figures/ch-02/fig-029.pdf  used on input line 55.
 (luatex.def)             Requested size: 217.66212pt x 179.56409pt.
-Package marginnote Info: Margin note 73.1 is on absolute page 73 on input line 
+Package marginnote Info: Margin note 75.1 is on absolute page 75 on input line 
 57.
-Package marginnote Info: xpos seems to be 341.43307pt on input line 57.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 57.
  [55<./figures/ch-02/fig-029.pdf>]
-<figures/ch-02/fig-030.pdf, id=570, 454.56851pt x 277.73964pt>
+<figures/ch-02/fig-030.pdf, id=783, 454.56851pt x 277.73964pt>
 File: figures/ch-02/fig-030.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-030.pdf>
 Package luatex.def Info: figures/ch-02/fig-030.pdf  used on input line 75.
 (luatex.def)             Requested size: 113.81102pt x 69.53644pt.
-Package marginnote Info: Margin note 74.1 is on absolute page 74 on input line 
+Package marginnote Info: Margin note 76.1 is on absolute page 77 on input line 
 77.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 77.
-Package marginnote Info: Suggest that margin note 74.2 will be on
-(marginnote)             absolute page 74.
-(marginnote)             This may be wrong on input line 77.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 77.
+Package marginnote Info: xpos seems to be 341.43307pt on input line 77.
+Package marginnote Info: Margin note 76.2 is on absolute page 77 on input line 
+77.
+Package marginnote Info: xpos seems to be 197.68047pt on input line 77.
  [56]
-<figures/ch-02/fig-031.pdf, id=580, 438.79498pt x 354.9353pt>
+<figures/ch-02/fig-031.pdf, id=793, 438.79498pt x 354.9353pt>
 File: figures/ch-02/fig-031.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-031.pdf>
 Package luatex.def Info: figures/ch-02/fig-031.pdf  used on input line 84.
 (luatex.def)             Requested size: 113.81102pt x 92.05894pt.
-Package marginnote Info: Margin note 75.1 is on absolute page 75 on input line 
+Package marginnote Info: Margin note 77.1 is on absolute page 77 on input line 
 86.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 86.
-Package marginnote Info: Suggest that margin note 75.2 will be on
-(marginnote)             absolute page 75.
-(marginnote)             This may be wrong on input line 86.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 86.
+Package marginnote Info: xpos seems to be 341.43307pt on input line 86.
+Package marginnote Info: Margin note 77.2 is on absolute page 77 on input line 
+86.
+Package marginnote Info: xpos seems to be 53.45274pt on input line 86.
  [57<./figures/ch-02/fig-030.pdf><./figures/ch-02/fig-031.pdf>]
-Package marginnote Info: Margin note 76.1 is on absolute page 77 on input line 
+Package marginnote Info: Margin note 78.1 is on absolute page 78 on input line 
 96.
-Package marginnote Info: xpos seems to be 341.43307pt on input line 96.
+Package marginnote Info: xpos seems to be 298.23444pt on input line 96.
 
 Overfull \hbox (18.97064pt too wide) in paragraph at lines 102--103
 []\TU/LibertinusSerif(0)/m/n/10 ``I think no more than 100-110 me-ters,'' Kar-po
 v replied. Kupriyanov
  []
 
-<figures/ch-02/fig-032.pdf, id=588, 1774.22852pt x 1081.41225pt>
+<figures/ch-02/fig-032.pdf, id=802, 1774.22852pt x 1081.41225pt>
 File: figures/ch-02/fig-032.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-032.pdf>
 Package luatex.def Info: figures/ch-02/fig-032.pdf  used on input line 106.
 (luatex.def)             Requested size: 217.66212pt x 132.65154pt.
-Package marginnote Info: Margin note 76.2 is on absolute page 77 on input line 
+Package marginnote Info: Margin note 78.2 is on absolute page 79 on input line 
 108.
-Package marginnote Info: xpos seems to be 197.68047pt on input line 108.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 108.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2066,49 +2036,43 @@ Overfull \hbox (17.99733pt too wide) in paragraph at lines 116--117
 e com-mand. 
  []
 
-<figures/ch-02/fig-033.pdf, id=609, 1781.82484pt x 1111.02159pt>
+<figures/ch-02/fig-033.pdf, id=819, 1781.82484pt x 1111.02159pt>
 File: figures/ch-02/fig-033.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-033.pdf>
 Package luatex.def Info: figures/ch-02/fig-033.pdf  used on input line 122.
 (luatex.def)             Requested size: 217.66212pt x 135.70718pt.
-Package marginnote Info: Margin note 78.1 is on absolute page 78 on input line 
+Package marginnote Info: Margin note 80.1 is on absolute page 80 on input line 
 124.
-Package marginnote Info: xpos seems to be 298.23444pt on input line 124.
-
-Underfull \vbox (badness 1484) has occurred while \output is active []
-
- [60<./figures/ch-02/fig-033.pdf>]
-<figures/ch-02/fig-034.pdf, id=622, 1167.79747pt x 772.19267pt>
+Package marginnote Info: xpos seems to be 387.49544pt on input line 124.
+[60<./figures/ch-02/fig-033.pdf>]
+<figures/ch-02/fig-034.pdf, id=832, 1167.79747pt x 772.19267pt>
 File: figures/ch-02/fig-034.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-034.pdf>
 Package luatex.def Info: figures/ch-02/fig-034.pdf  used on input line 136.
 (luatex.def)             Requested size: 217.66212pt x 143.92563pt.
-Package marginnote Info: Suggest that margin note 79.1 will be on
-(marginnote)             absolute page 79.
-(marginnote)             This may be wrong on input line 138.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 138.
+Package marginnote Info: Margin note 81.1 is on absolute page 81 on input line 
+138.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 138.
  [61<./figures/ch-02/fig-034.pdf>]
-<figures/ch-02/fig-035.pdf, id=630, 402.19136pt x 415.45282pt>
+<figures/ch-02/fig-035.pdf, id=840, 402.19136pt x 415.45282pt>
 File: figures/ch-02/fig-035.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-035.pdf>
 Package luatex.def Info: figures/ch-02/fig-035.pdf  used on input line 145.
 (luatex.def)             Requested size: 113.81102pt x 117.56215pt.
-Package marginnote Info: Margin note 80.1 is on absolute page 80 on input line 
+Package marginnote Info: Margin note 82.1 is on absolute page 82 on input line 
 147.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 147.
-Package marginnote Info: Suggest that margin note 80.2 will be on
-(marginnote)             absolute page 80.
-(marginnote)             This may be wrong on input line 147.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 147.
-<figures/ch-02/fig-036.pdf, id=631, 1631.25412pt x 1026.08481pt>
+Package marginnote Info: xpos seems to be 85.35828pt on input line 147.
+Package marginnote Info: Margin note 82.2 is on absolute page 82 on input line 
+147.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 147.
+<figures/ch-02/fig-036.pdf, id=841, 1631.25412pt x 1026.08481pt>
 File: figures/ch-02/fig-036.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-036.pdf>
 Package luatex.def Info: figures/ch-02/fig-036.pdf  used on input line 158.
 (luatex.def)             Requested size: 217.66212pt x 136.90282pt.
-Package marginnote Info: Suggest that margin note 80.3 will be on
-(marginnote)             absolute page 80.
-(marginnote)             This may be wrong on input line 160.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 160.
+Package marginnote Info: Margin note 82.3 is on absolute page 83 on input line 
+160.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 160.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2117,34 +2081,31 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 6364) has occurred while \output is active []
 
  [62<./figures/ch-02/fig-035.pdf>] [63<./figures/ch-02/fig-036.pdf>] [64]
-<figures/ch-02/fig-037.pdf, id=653, 62.65048pt x 872.84438pt>
+<figures/ch-02/fig-037.pdf, id=861, 62.65048pt x 872.84438pt>
 File: figures/ch-02/fig-037.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-037.pdf>
 Package luatex.def Info: figures/ch-02/fig-037.pdf  used on input line 178.
 (luatex.def)             Requested size: 11.38179pt x 158.57024pt.
-Package marginnote Info: Suggest that margin note 83.1 will be on
-(marginnote)             absolute page 83.
-(marginnote)             This may be wrong on input line 180.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 180.
+Package marginnote Info: Margin note 85.1 is on absolute page 85 on input line 
+180.
+Package marginnote Info: xpos seems to be 348.37396pt on input line 180.
 
 Underfull \hbox (badness 10000) in paragraph at lines 180--180
-[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 37: |The match is a
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 37.: |The match is a
  []
 
-Package marginnote Info: Suggest that margin note 83.2 will be on
-(marginnote)             absolute page 83.
-(marginnote)             This may be wrong on input line 180.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 180.
+Package marginnote Info: Margin note 85.2 is on absolute page 85 on input line 
+180.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 180.
 [65<./figures/ch-02/fig-037.pdf>]
-<figures/ch-02/fig-038.pdf, id=666, 1611.40752pt x 1069.45833pt>
+<figures/ch-02/fig-038.pdf, id=873, 1611.40752pt x 1069.45833pt>
 File: figures/ch-02/fig-038.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-038.pdf>
 Package luatex.def Info: figures/ch-02/fig-038.pdf  used on input line 188.
 (luatex.def)             Requested size: 241.84845pt x 160.50974pt.
-Package marginnote Info: Suggest that margin note 84.1 will be on
-(marginnote)             absolute page 84.
-(marginnote)             This may be wrong on input line 190.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 190.
+Package marginnote Info: Margin note 86.1 is on absolute page 87 on input line 
+190.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 190.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2156,35 +2117,34 @@ Overfull \hbox (0.12791pt too wide) in paragraph at lines 192--193
  []
 
 [66]
-<figures/ch-02/fig-039.pdf, id=672, 437.51027pt x 833.74442pt>
+<figures/ch-02/fig-039.pdf, id=878, 437.51027pt x 833.74442pt>
 File: figures/ch-02/fig-039.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-039.pdf>
 Package luatex.def Info: figures/ch-02/fig-039.pdf  used on input line 206.
 (luatex.def)             Requested size: 91.04915pt x 173.50125pt.
-Package marginnote Info: Margin note 85.1 is on absolute page 85 on input line 
+Package marginnote Info: Margin note 87.1 is on absolute page 87 on input line 
 208.
-Package marginnote Info: xpos seems to be 348.37396pt on input line 208.
+Package marginnote Info: xpos seems to be 388.20764pt on input line 208.
 
 Underfull \hbox (badness 10000) in paragraph at lines 208--208
-[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 39: |The re-tractable
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 39.: |The re-tractable
  []
 
-Package marginnote Info: Margin note 85.2 is on absolute page 85 on input line 
+Package marginnote Info: Margin note 87.2 is on absolute page 87 on input line 
 208.
 Package marginnote Info: xpos seems to be 28.45274pt on input line 208.
 [67<./figures/ch-02/fig-038.pdf><./figures/ch-02/fig-039.pdf>]
-<figures/ch-02/fig-040.pdf, id=678, 267.11829pt x 1166.80977pt>
+<figures/ch-02/fig-040.pdf, id=884, 267.11829pt x 1166.80977pt>
 File: figures/ch-02/fig-040.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-040.pdf>
 Package luatex.def Info: figures/ch-02/fig-040.pdf  used on input line 214.
 (luatex.def)             Requested size: 68.2873pt x 298.27142pt.
-Package marginnote Info: Margin note 86.1 is on absolute page 87 on input line 
+Package marginnote Info: Margin note 88.1 is on absolute page 88 on input line 
 216.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 216.
-Package marginnote Info: Suggest that margin note 86.2 will be on
-(marginnote)             absolute page 86.
-(marginnote)             This may be wrong on input line 216.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 216.
+Package marginnote Info: xpos seems to be 120.75192pt on input line 216.
+Package marginnote Info: Margin note 88.2 is on absolute page 88 on input line 
+216.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 216.
  [68<./figures/ch-02/fig-040.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
@@ -2201,55 +2161,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--268
  []
 
 [71]
-<figures/ch-02/fig-041.pdf, id=707, 1566.88496pt x 1229.25821pt>
+<figures/ch-02/fig-041.pdf, id=912, 1566.88496pt x 1229.25821pt>
 File: figures/ch-02/fig-041.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-041.pdf>
 Package luatex.def Info: figures/ch-02/fig-041.pdf  used on input line 275.
 (luatex.def)             Requested size: 217.66212pt x 170.74448pt.
-Package marginnote Info: Suggest that margin note 90.1 will be on
-(marginnote)             absolute page 90.
-(marginnote)             This may be wrong on input line 277.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 277.
+Package marginnote Info: Margin note 92.1 is on absolute page 92 on input line 
+277.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 277.
  [72<./figures/ch-02/fig-041.pdf>]
-Package marginnote Info: Suggest that margin note 91.1 will be on
-(marginnote)             absolute page 91.
-(marginnote)             This may be wrong on input line 287.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 287.
+Package marginnote Info: Margin note 93.1 is on absolute page 93 on input line 
+287.
+Package marginnote Info: xpos seems to be 269.1572pt on input line 287.
  [73]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 311.
  [74] [75]
-<figures/ch-02/fig-042.pdf, id=732, 1644.54619pt x 1188.15915pt>
+<figures/ch-02/fig-042.pdf, id=936, 1644.54619pt x 1188.15915pt>
 File: figures/ch-02/fig-042.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-042.pdf>
 Package luatex.def Info: figures/ch-02/fig-042.pdf  used on input line 321.
 (luatex.def)             Requested size: 217.66212pt x 157.2581pt.
-Package marginnote Info: Suggest that margin note 94.1 will be on
-(marginnote)             absolute page 94.
-(marginnote)             This may be wrong on input line 323.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 323.
+Package marginnote Info: Margin note 96.1 is on absolute page 96 on input line 
+323.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 323.
 
 Underfull \vbox (badness 5878) has occurred while \output is active []
 
  [76<./figures/ch-02/fig-042.pdf>]
-Package marginnote Info: Suggest that margin note 95.1 will be on
-(marginnote)             absolute page 95.
-(marginnote)             This may be wrong on input line 329.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 329.
-<figures/ch-02/fig-043.pdf, id=739, 1522.80925pt x 1236.2838pt>
+Package marginnote Info: Margin note 97.1 is on absolute page 97 on input line 
+329.
+Package marginnote Info: xpos seems to be 147.90173pt on input line 329.
+<figures/ch-02/fig-043.pdf, id=943, 1522.80925pt x 1236.2838pt>
 File: figures/ch-02/fig-043.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-043.pdf>
 Package luatex.def Info: figures/ch-02/fig-043.pdf  used on input line 338.
 (luatex.def)             Requested size: 241.84845pt x 196.33804pt.
-Package marginnote Info: Suggest that margin note 95.2 will be on
-(marginnote)             absolute page 95.
-(marginnote)             This may be wrong on input line 340.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 340.
+Package marginnote Info: Margin note 97.2 is on absolute page 98 on input line 
+340.
 
 Underfull \hbox (badness 1019) in paragraph at lines 340--340
 \TU/LibertinusSerif(0)/m/n/8 vides en-ergy to seven col-lec-tive
  []
 
+Package marginnote Info: xpos seems to be 277.41437pt on input line 340.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2257,42 +2212,40 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 4048) has occurred while \output is active []
 
  [78<./figures/ch-02/fig-043.pdf>]
-<figures/ch-02/fig-044.pdf, id=758, 1779.96196pt x 1065.4773pt>
+<figures/ch-02/fig-044.pdf, id=962, 1779.96196pt x 1065.4773pt>
 File: figures/ch-02/fig-044.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-044.pdf>
 Package luatex.def Info: figures/ch-02/fig-044.pdf  used on input line 346.
 (luatex.def)             Requested size: 241.84845pt x 144.75992pt.
-Package marginnote Info: Margin note 97.1 is on absolute page 97 on input line 
+Package marginnote Info: Margin note 99.1 is on absolute page 99 on input line 
 348.
-Package marginnote Info: xpos seems to be 147.90173pt on input line 348.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 348.
  [79<./figures/ch-02/fig-044.pdf>]
-<figures/ch-02/fig-045.pdf, id=769, 1560.32628pt x 1231.38045pt>
+<figures/ch-02/fig-045.pdf, id=973, 1560.32628pt x 1231.38045pt>
 File: figures/ch-02/fig-045.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-045.pdf>
 Package luatex.def Info: figures/ch-02/fig-045.pdf  used on input line 365.
 (luatex.def)             Requested size: 241.84845pt x 190.862pt.
-Package marginnote Info: Suggest that margin note 98.1 will be on
-(marginnote)             absolute page 98.
-(marginnote)             This may be wrong on input line 367.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 367.
+Package marginnote Info: Margin note 100.1 is on absolute page 101 on input lin
+e 367.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 367.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [80] [81<./figures/ch-02/fig-045.pdf>]
-Package marginnote Info: Margin note 100.1 is on absolute page 101 on input lin
+Package marginnote Info: Margin note 102.1 is on absolute page 102 on input lin
 e 381.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 381.
+Package marginnote Info: xpos seems to be 340.6634pt on input line 381.
  [82]
-<figures/ch-02/fig-046.pdf, id=789, 1588.12086pt x 1059.22668pt>
+<figures/ch-02/fig-046.pdf, id=992, 1588.12086pt x 1059.22668pt>
 File: figures/ch-02/fig-046.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-046.pdf>
 Package luatex.def Info: figures/ch-02/fig-046.pdf  used on input line 401.
 (luatex.def)             Requested size: 241.84845pt x 161.30151pt.
-Package marginnote Info: Suggest that margin note 101.1 will be on
-(marginnote)             absolute page 101.
-(marginnote)             This may be wrong on input line 403.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 403.
+Package marginnote Info: Margin note 103.1 is on absolute page 104 on input lin
+e 403.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 403.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2301,19 +2254,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 2744) has occurred while \output is active []
 
  [84<./figures/ch-02/fig-046.pdf>]
-<figures/ch-02/fig-047.pdf, id=803, 828.73514pt x 243.99187pt>
+<figures/ch-02/fig-047.pdf, id=1003, 828.73514pt x 243.99187pt>
 File: figures/ch-02/fig-047.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-047.pdf>
 Package luatex.def Info: figures/ch-02/fig-047.pdf  used on input line 414.
 (luatex.def)             Requested size: 241.84845pt x 71.20258pt.
-Package marginnote Info: Margin note 103.1 is on absolute page 104 on input lin
+Package marginnote Info: Margin note 105.1 is on absolute page 105 on input lin
 e 415.
-Package marginnote Info: xpos seems to be 277.41437pt on input line 415.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 415.
  [85<./figures/ch-02/fig-047.pdf>]
-Package marginnote Info: Suggest that margin note 104.1 will be on
-(marginnote)             absolute page 104.
-(marginnote)             This may be wrong on input line 428.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 428.
+Package marginnote Info: Margin note 106.1 is on absolute page 107 on input lin
+e 428.
+Package marginnote Info: xpos seems to be 250.99779pt on input line 428.
 
 Underfull \vbox (badness 1888) has occurred while \output is active []
 
@@ -2321,25 +2273,24 @@ Underfull \vbox (badness 1888) has occurred while \output is active []
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [87]
-<figures/ch-02/fig-048.pdf, id=830, 1811.9484pt x 1389.21475pt>
+<figures/ch-02/fig-048.pdf, id=1028, 1811.9484pt x 1389.21475pt>
 File: figures/ch-02/fig-048.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-048.pdf>
 Package luatex.def Info: figures/ch-02/fig-048.pdf  used on input line 439.
 (luatex.def)             Requested size: 241.84845pt x 185.41612pt.
-Package marginnote Info: Margin note 106.1 is on absolute page 107 on input lin
+Package marginnote Info: Margin note 108.1 is on absolute page 108 on input lin
 e 441.
-Package marginnote Info: xpos seems to be 250.99779pt on input line 441.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 441.
 
 [88<./figures/ch-02/fig-048.pdf>]
-<figures/ch-02/fig-049.pdf, id=839, 857.06374pt x 276.63246pt>
+<figures/ch-02/fig-049.pdf, id=1037, 857.06374pt x 276.63246pt>
 File: figures/ch-02/fig-049.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-049.pdf>
 Package luatex.def Info: figures/ch-02/fig-049.pdf  used on input line 453.
 (luatex.def)             Requested size: 241.84845pt x 78.06017pt.
-Package marginnote Info: Suggest that margin note 107.1 will be on
-(marginnote)             absolute page 107.
-(marginnote)             This may be wrong on input line 455.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 455.
+Package marginnote Info: Margin note 109.1 is on absolute page 110 on input lin
+e 455.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 455.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2353,66 +2304,60 @@ LaTeX Warning: Hyper reference `fig-49' on page 91 undefined on input line 469.
 LaTeX Warning: Reference `fig-49' on page 91 undefined on input line 469.
 
 [91]
-<figures/ch-02/fig-050.pdf, id=854, 295.73265pt x 210.04137pt>
+<figures/ch-02/fig-050.pdf, id=1053, 295.73265pt x 210.04137pt>
 File: figures/ch-02/fig-050.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-050.pdf>
 Package luatex.def Info: figures/ch-02/fig-050.pdf  used on input line 478.
 (luatex.def)             Requested size: 68.2873pt x 48.50078pt.
-Package marginnote Info: Suggest that margin note 110.1 will be on
-(marginnote)             absolute page 110.
-(marginnote)             This may be wrong on input line 480.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 480.
-Package marginnote Info: Suggest that margin note 110.2 will be on
-(marginnote)             absolute page 110.
-(marginnote)             This may be wrong on input line 480.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 480.
-<figures/ch-02/fig-051.pdf, id=855, 295.5863pt x 205.39757pt>
+Package marginnote Info: Margin note 112.1 is on absolute page 112 on input lin
+e 480.
+Package marginnote Info: xpos seems to be 120.75192pt on input line 480.
+Package marginnote Info: Margin note 112.2 is on absolute page 112 on input lin
+e 480.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 480.
+<figures/ch-02/fig-051.pdf, id=1054, 295.5863pt x 205.39757pt>
 File: figures/ch-02/fig-051.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-051.pdf>
 Package luatex.def Info: figures/ch-02/fig-051.pdf  used on input line 484.
 (luatex.def)             Requested size: 68.2873pt x 47.45042pt.
-Package marginnote Info: Suggest that margin note 110.3 will be on
-(marginnote)             absolute page 110.
-(marginnote)             This may be wrong on input line 486.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 486.
-Package marginnote Info: Suggest that margin note 110.4 will be on
-(marginnote)             absolute page 110.
-(marginnote)             This may be wrong on input line 486.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 486.
-Package marginnote Info: Suggest that margin note 110.5 will be on
-(marginnote)             absolute page 110.
-(marginnote)             This may be wrong on input line 490.
+Package marginnote Info: Margin note 112.3 is on absolute page 112 on input lin
+e 486.
+Package marginnote Info: xpos seems to be 120.75192pt on input line 486.
+Package marginnote Info: Margin note 112.4 is on absolute page 112 on input lin
+e 486.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 486.
+Package marginnote Info: Margin note 112.5 is on absolute page 112 on input lin
+e 490.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 490.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 490.
+Package marginnote Info: xpos seems to be 188.81734pt on input line 490.
  [92<./figures/ch-02/fig-050.pdf><./figures/ch-02/fig-051.pdf>]
 Overfull \hbox (14.9997pt too wide) in paragraph at lines 496--497
 \TU/LibertinusSerif(0)/m/n/10 pho-tographs of shells fly-ing at dif-fer-ent spee
 ds ([][]Fig-ure [][]52[][][][]). 
  []
 
-<figures/ch-02/fig-052.pdf, id=876, 761.93776pt x 160.09247pt>
+<figures/ch-02/fig-052.pdf, id=1075, 761.93776pt x 160.09247pt>
 File: figures/ch-02/fig-052.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-052.pdf>
 Package luatex.def Info: figures/ch-02/fig-052.pdf  used on input line 500.
 (luatex.def)             Requested size: 241.84845pt x 50.81535pt.
-Package marginnote Info: Suggest that margin note 111.1 will be on
-(marginnote)             absolute page 111.
-(marginnote)             This may be wrong on input line 502.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 502.
+Package marginnote Info: Margin note 113.1 is on absolute page 113 on input lin
+e 502.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 502.
 [93<./figures/ch-02/fig-052.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 522--523
 
  []
 
-<figures/ch-02/fig-053.pdf, id=884, 1768.7pt x 1082.45439pt>
+<figures/ch-02/fig-053.pdf, id=1082, 1768.7pt x 1082.45439pt>
 File: figures/ch-02/fig-053.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-053.pdf>
 Package luatex.def Info: figures/ch-02/fig-053.pdf  used on input line 528.
 (luatex.def)             Requested size: 241.84845pt x 148.00797pt.
-Package marginnote Info: Margin note 112.1 is on absolute page 112 on input lin
+Package marginnote Info: Margin note 114.1 is on absolute page 115 on input lin
 e 530.
-Package marginnote Info: xpos seems to be 120.75192pt on input line 530.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 530.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2421,98 +2366,93 @@ Underfull \vbox (badness 1342) has occurred while \output is active []
 
  [94]
 [95<./figures/ch-02/fig-053.pdf>]
-<figures/ch-02/fig-054.pdf, id=899, 888.30211pt x 914.62186pt>
+<figures/ch-02/fig-054.pdf, id=1096, 888.30211pt x 914.62186pt>
 File: figures/ch-02/fig-054.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-054.pdf>
 Package luatex.def Info: figures/ch-02/fig-054.pdf  used on input line 557.
 (luatex.def)             Requested size: 113.81102pt x 117.17447pt.
-Package marginnote Info: Margin note 114.1 is on absolute page 115 on input lin
+Package marginnote Info: Margin note 116.1 is on absolute page 116 on input lin
 e 559.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 559.
-Package marginnote Info: Suggest that margin note 114.2 will be on
-(marginnote)             absolute page 114.
-(marginnote)             This may be wrong on input line 559.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 559.
+Package marginnote Info: xpos seems to be 85.35828pt on input line 559.
+Package marginnote Info: Margin note 116.2 is on absolute page 116 on input lin
+e 559.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 559.
  [96<./figures/ch-02/fig-054.pdf>]
-<figures/ch-02/fig-055.pdf, id=909, 909.6033pt x 815.35051pt>
+<figures/ch-02/fig-055.pdf, id=1105, 909.6033pt x 815.35051pt>
 File: figures/ch-02/fig-055.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-055.pdf>
 Package luatex.def Info: figures/ch-02/fig-055.pdf  used on input line 569.
 (luatex.def)             Requested size: 113.81102pt x 102.01808pt.
-Package marginnote Info: Suggest that margin note 115.1 will be on
-(marginnote)             absolute page 115.
-(marginnote)             This may be wrong on input line 571.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 571.
-Package marginnote Info: Suggest that margin note 115.2 will be on
-(marginnote)             absolute page 115.
-(marginnote)             This may be wrong on input line 571.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 571.
+Package marginnote Info: Margin note 117.1 is on absolute page 117 on input lin
+e 571.
+Package marginnote Info: xpos seems to be 341.43307pt on input line 571.
+Package marginnote Info: Margin note 117.2 is on absolute page 117 on input lin
+e 571.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 571.
 
 Overfull \hbox (8.24994pt too wide) in paragraph at lines 576--577
 []\TU/LibertinusSerif(0)/m/n/10 In a nar-row river with low banks, you can see 
 more stars. 
  []
 
-<figures/ch-02/fig-056.pdf, id=914, 949.54768pt x 788.70357pt>
+<figures/ch-02/fig-056.pdf, id=1110, 949.54768pt x 788.70357pt>
 File: figures/ch-02/fig-056.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-056.pdf>
 Package luatex.def Info: figures/ch-02/fig-056.pdf  used on input line 588.
 (luatex.def)             Requested size: 113.81102pt x 94.53203pt.
-Package marginnote Info: Suggest that margin note 115.3 will be on
-(marginnote)             absolute page 115.
-(marginnote)             This may be wrong on input line 590.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 590.
-Package marginnote Info: Suggest that margin note 115.4 will be on
-(marginnote)             absolute page 115.
-(marginnote)             This may be wrong on input line 590.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 590.
+Package marginnote Info: Margin note 117.3 is on absolute page 118 on input lin
+e 590.
+Package marginnote Info: xpos seems to be 85.35828pt on input line 590.
+Package marginnote Info: Margin note 117.4 is on absolute page 118 on input lin
+e 590.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 590.
 [97<./figures/ch-02/fig-055.pdf>]
-<figures/ch-02/fig-057.pdf, id=925, 960.01315pt x 768.52293pt>
+<figures/ch-02/fig-057.pdf, id=1120, 960.01315pt x 768.52293pt>
 File: figures/ch-02/fig-057.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-057.pdf>
 Package luatex.def Info: figures/ch-02/fig-057.pdf  used on input line 597.
 (luatex.def)             Requested size: 145.11053pt x 116.16469pt.
-Package marginnote Info: Margin note 116.1 is on absolute page 116 on input lin
+Package marginnote Info: Margin note 118.1 is on absolute page 118 on input lin
 e 599.
-Package marginnote Info: xpos seems to be 85.35828pt on input line 599.
-<figures/ch-02/fig-058.pdf, id=928, 1014.03831pt x 618.73279pt>
+Package marginnote Info: xpos seems to be 351.21964pt on input line 599.
+<figures/ch-02/fig-058.pdf, id=1123, 1014.03831pt x 618.73279pt>
 File: figures/ch-02/fig-058.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-058.pdf>
 Package luatex.def Info: figures/ch-02/fig-058.pdf  used on input line 605.
 (luatex.def)             Requested size: 145.11053pt x 88.53853pt.
-Package marginnote Info: Margin note 116.2 is on absolute page 116 on input lin
+Package marginnote Info: Margin note 118.2 is on absolute page 119 on input lin
 e 607.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 607.
+Package marginnote Info: xpos seems to be 223.18224pt on input line 607.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [98<./figures/ch-02/fig-056.pdf><./figures/ch-02/fig-057.pdf>]
-<figures/ch-02/fig-059.pdf, id=941, 1140.9279pt x 572.95065pt>
+<figures/ch-02/fig-059.pdf, id=1135, 1140.9279pt x 572.95065pt>
 File: figures/ch-02/fig-059.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-059.pdf>
 Package luatex.def Info: figures/ch-02/fig-059.pdf  used on input line 614.
 (luatex.def)             Requested size: 157.20001pt x 78.93613pt.
-Package marginnote Info: Margin note 117.1 is on absolute page 117 on input lin
+Package marginnote Info: Margin note 119.1 is on absolute page 119 on input lin
 e 616.
-Package marginnote Info: xpos seems to be 341.43307pt on input line 616.
+Package marginnote Info: xpos seems to be 229.22697pt on input line 616.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99<./figures/ch-02/fig-058.pdf><./figures/ch-02/fig-059.pdf>]
-<figures/ch-02/fig-060.pdf, id=948, 1702.0227pt x 808.59723pt>
+<figures/ch-02/fig-060.pdf, id=1142, 1702.0227pt x 808.59723pt>
 File: figures/ch-02/fig-060.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-060.pdf>
 Package luatex.def Info: figures/ch-02/fig-060.pdf  used on input line 626.
 (luatex.def)             Requested size: 217.66212pt x 103.40631pt.
-Package marginnote Info: Margin note 118.1 is on absolute page 118 on input lin
+Package marginnote Info: Margin note 120.1 is on absolute page 120 on input lin
 e 628.
-Package marginnote Info: xpos seems to be 351.21964pt on input line 628.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 628.
 
 Underfull \vbox (badness 2035) has occurred while \output is active []
 
  [100<./figures/ch-02/fig-060.pdf>]
-<figures/ch-02/fig-ch-02-tail.pdf, id=958, 442.64145pt x 437.09105pt>
+<figures/ch-02/fig-ch-02-tail.pdf, id=1151, 442.64145pt x 437.09105pt>
 File: figures/ch-02/fig-ch-02-tail.pdf Graphic file (type pdf)
 <use figures/ch-02/fig-ch-02-tail.pdf>
 Package luatex.def Info: figures/ch-02/fig-ch-02-tail.pdf  used on input line 6
@@ -2522,7 +2462,7 @@ Package luatex.def Info: figures/ch-02/fig-ch-02-tail.pdf  used on input line 6
 
 ]
 chapter 3.
-<figures/ch-03/fig-ch-03-head.pdf, id=967, 1755.53348pt x 681.51692pt>
+<figures/ch-03/fig-ch-03-head.pdf, id=1161, 1755.53348pt x 681.51692pt>
 File: figures/ch-03/fig-ch-03-head.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-ch-03-head.pdf>
 Package luatex.def Info: figures/ch-03/fig-ch-03-head.pdf  used on input line 7
@@ -2540,106 +2480,99 @@ s ques-tion.
  []
 
 [103<./figures/ch-03/fig-ch-03-head.pdf>]
-<figures/ch-03/fig-061.pdf, id=977, 1558.16714pt x 1113.9075pt>
+<figures/ch-03/fig-061.pdf, id=1168, 1558.16714pt x 1113.9075pt>
 File: figures/ch-03/fig-061.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-061.pdf>
 Package luatex.def Info: figures/ch-03/fig-061.pdf  used on input line 22.
 (luatex.def)             Requested size: 217.66212pt x 155.58905pt.
-Package marginnote Info: Suggest that margin note 122.1 will be on
-(marginnote)             absolute page 122.
-(marginnote)             This may be wrong on input line 24.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 24.
+Package marginnote Info: Margin note 124.1 is on absolute page 124 on input lin
+e 24.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 24.
  [104<./figures/ch-03/fig-061.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [105]
 [106] [107]
-<figures/ch-03/fig-062.pdf, id=997, 1634.4785pt x 1061.64458pt>
+<figures/ch-03/fig-062.pdf, id=1188, 1634.4785pt x 1061.64458pt>
 File: figures/ch-03/fig-062.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-062.pdf>
 Package luatex.def Info: figures/ch-03/fig-062.pdf  used on input line 51.
 (luatex.def)             Requested size: 217.66212pt x 141.3719pt.
-Package marginnote Info: Suggest that margin note 126.1 will be on
-(marginnote)             absolute page 126.
-(marginnote)             This may be wrong on input line 53.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 53.
+Package marginnote Info: Margin note 128.1 is on absolute page 128 on input lin
+e 53.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 53.
  [108<./figures/ch-03/fig-062.pdf>] [109]
 Overfull \hbox (6.09673pt too wide) in paragraph at lines 70--71
 \TU/LibertinusSerif(0)/m/n/10 coin (di-am-e-ter 25 mm) and a three-kopeck coin 
 (22 mm). 
  []
 
-Package marginnote Info: Margin note 128.1 is on absolute page 128 on input lin
+Package marginnote Info: Margin note 130.1 is on absolute page 131 on input lin
 e 77.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 77.
+Package marginnote Info: xpos seems to be 90.56174pt on input line 77.
 [110] [111]
-<figures/ch-03/fig-063.pdf, id=1022, 1593.0631pt x 1203.60376pt>
+<figures/ch-03/fig-063.pdf, id=1211, 1593.0631pt x 1203.60376pt>
 File: figures/ch-03/fig-063.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-063.pdf>
 Package luatex.def Info: figures/ch-03/fig-063.pdf  used on input line 94.
 (luatex.def)             Requested size: 217.66212pt x 164.4446pt.
-Package marginnote Info: Margin note 130.1 is on absolute page 131 on input lin
+Package marginnote Info: Margin note 132.1 is on absolute page 132 on input lin
 e 96.
-Package marginnote Info: xpos seems to be 90.56174pt on input line 96.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 96.
  [112<./figures/ch-03/fig-063.pdf>]
-<figures/ch-03/fig-064.pdf, id=1032, 1684.37502pt x 1102.36845pt>
+<figures/ch-03/fig-064.pdf, id=1221, 1684.37502pt x 1102.36845pt>
 File: figures/ch-03/fig-064.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-064.pdf>
 Package luatex.def Info: figures/ch-03/fig-064.pdf  used on input line 103.
 (luatex.def)             Requested size: 217.66212pt x 142.43825pt.
-Package marginnote Info: Suggest that margin note 131.1 will be on
-(marginnote)             absolute page 131.
-(marginnote)             This may be wrong on input line 105.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 105.
+Package marginnote Info: Margin note 133.1 is on absolute page 133 on input lin
+e 105.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 105.
  [113<./figures/ch-03/fig-064.pdf>]
-<figures/ch-03/fig-065.pdf, id=1042, 1360.31004pt x 1011.26303pt>
+<figures/ch-03/fig-065.pdf, id=1230, 1360.31004pt x 1011.26303pt>
 File: figures/ch-03/fig-065.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-065.pdf>
 Package luatex.def Info: figures/ch-03/fig-065.pdf  used on input line 111.
 (luatex.def)             Requested size: 217.66212pt x 161.80539pt.
-Package marginnote Info: Margin note 132.1 is on absolute page 132 on input lin
+Package marginnote Info: Margin note 134.1 is on absolute page 134 on input lin
 e 113.
 Package marginnote Info: xpos seems to be 387.49544pt on input line 113.
  [114<./figures/ch-03/fig-065.pdf>]
-<figures/ch-03/fig-066.pdf, id=1053, 1037.95172pt x 1575.35254pt>
+<figures/ch-03/fig-066.pdf, id=1240, 1037.95172pt x 1575.35254pt>
 File: figures/ch-03/fig-066.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-066.pdf>
 Package luatex.def Info: figures/ch-03/fig-066.pdf  used on input line 122.
 (luatex.def)             Requested size: 113.81102pt x 172.73643pt.
-Package marginnote Info: Margin note 133.1 is on absolute page 133 on input lin
+Package marginnote Info: Margin note 135.1 is on absolute page 135 on input lin
 e 124.
-Package marginnote Info: xpos seems to be 259.45804pt on input line 124.
-Package marginnote Info: Suggest that margin note 133.2 will be on
-(marginnote)             absolute page 133.
-(marginnote)             This may be wrong on input line 124.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 124.
-<figures/ch-03/fig-067.pdf, id=1058, 1583.22203pt x 906.14256pt>
+Package marginnote Info: xpos seems to be 341.43307pt on input line 124.
+Package marginnote Info: Margin note 135.2 is on absolute page 135 on input lin
+e 124.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 124.
+<figures/ch-03/fig-067.pdf, id=1245, 1583.22203pt x 906.14256pt>
 File: figures/ch-03/fig-067.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-067.pdf>
 Package luatex.def Info: figures/ch-03/fig-067.pdf  used on input line 130.
 (luatex.def)             Requested size: 241.84845pt x 138.41814pt.
-Package marginnote Info: Suggest that margin note 133.3 will be on
-(marginnote)             absolute page 133.
-(marginnote)             This may be wrong on input line 132.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 132.
+Package marginnote Info: Margin note 135.3 is on absolute page 136 on input lin
+e 132.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 132.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [115<./figures/ch-03/fig-066.pdf>] [116<./figures/ch-03/fig-067.pdf>] [117]
-Package marginnote Info: Suggest that margin note 136.1 will be on
-(marginnote)             absolute page 136.
-(marginnote)             This may be wrong on input line 153.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 153.
-<figures/ch-03/fig-068.pdf, id=1075, 590.71092pt x 308.21985pt>
+Package marginnote Info: Margin note 138.1 is on absolute page 138 on input lin
+e 153.
+Package marginnote Info: xpos seems to be 380.36748pt on input line 153.
+<figures/ch-03/fig-068.pdf, id=1260, 590.71092pt x 308.21985pt>
 File: figures/ch-03/fig-068.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-068.pdf>
 Package luatex.def Info: figures/ch-03/fig-068.pdf  used on input line 157.
 (luatex.def)             Requested size: 193.47949pt x 100.95096pt.
-Package marginnote Info: Suggest that margin note 136.2 will be on
-(marginnote)             absolute page 136.
-(marginnote)             This may be wrong on input line 159.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 159.
+Package marginnote Info: Margin note 138.2 is on absolute page 139 on input lin
+e 159.
+Package marginnote Info: xpos seems to be 247.36671pt on input line 159.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2651,50 +2584,49 @@ Underfull \vbox (badness 5245) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [119<./figures/ch-03/fig-068.pdf>]
-<figures/ch-03/fig-069.pdf, id=1091, 1397.24626pt x 900.82504pt>
+<figures/ch-03/fig-069.pdf, id=1276, 1397.24626pt x 900.82504pt>
 File: figures/ch-03/fig-069.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-069.pdf>
 Package luatex.def Info: figures/ch-03/fig-069.pdf  used on input line 170.
 (luatex.def)             Requested size: 241.84845pt x 155.91481pt.
-Package marginnote Info: Margin note 138.1 is on absolute page 138 on input lin
+Package marginnote Info: Margin note 140.1 is on absolute page 140 on input lin
 e 172.
-Package marginnote Info: xpos seems to be 380.36748pt on input line 172.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 172.
  [120<./figures/ch-03/fig-069.pdf>]
-<figures/ch-03/fig-070.pdf, id=1104, 746.06282pt x 326.83054pt>
+<figures/ch-03/fig-070.pdf, id=1288, 746.06282pt x 326.83054pt>
 File: figures/ch-03/fig-070.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-070.pdf>
 Package luatex.def Info: figures/ch-03/fig-070.pdf  used on input line 180.
 (luatex.def)             Requested size: 217.66212pt x 95.35193pt.
-Package marginnote Info: Suggest that margin note 139.1 will be on
-(marginnote)             absolute page 139.
-(marginnote)             This may be wrong on input line 182.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 182.
+Package marginnote Info: Margin note 141.1 is on absolute page 142 on input lin
+e 182.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 182.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [121]
-Package marginnote Info: Margin note 140.1 is on absolute page 140 on input lin
+Package marginnote Info: Margin note 142.1 is on absolute page 143 on input lin
 e 192.
-Package marginnote Info: xpos seems to be 277.41437pt on input line 192.
+Package marginnote Info: xpos seems to be 184.05594pt on input line 192.
  [122<./figures/ch-03/fig-070.pdf>]
-<figures/ch-03/fig-071.pdf, id=1123, 1232.71808pt x 751.30531pt>
+<figures/ch-03/fig-071.pdf, id=1307, 1232.71808pt x 751.30531pt>
 File: figures/ch-03/fig-071.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-071.pdf>
 Package luatex.def Info: figures/ch-03/fig-071.pdf  used on input line 196.
 (luatex.def)             Requested size: 217.66212pt x 132.64972pt.
-Package marginnote Info: Margin note 141.1 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 143.1 is on absolute page 143 on input lin
 e 198.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 198.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 198.
  [123<./figures/ch-03/fig-071.pdf>]
-<figures/ch-03/fig-072.pdf, id=1132, 1557.97716pt x 1219.56476pt>
+<figures/ch-03/fig-072.pdf, id=1315, 1557.97716pt x 1219.56476pt>
 File: figures/ch-03/fig-072.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-072.pdf>
 Package luatex.def Info: figures/ch-03/fig-072.pdf  used on input line 214.
 (luatex.def)             Requested size: 217.66212pt x 170.36572pt.
-Package marginnote Info: Margin note 142.1 is on absolute page 143 on input lin
+Package marginnote Info: Margin note 144.1 is on absolute page 145 on input lin
 e 216.
-Package marginnote Info: xpos seems to be 184.05594pt on input line 216.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 216.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2716,19 +2648,17 @@ Overfull \hbox (5.70764pt too wide) in paragraph at lines 253--266
  []
 
 [127]
-<figures/ch-03/fig-073.pdf, id=1160, 327.07132pt x 322.83047pt>
+<figures/ch-03/fig-073.pdf, id=1341, 327.07132pt x 322.83047pt>
 File: figures/ch-03/fig-073.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-073.pdf>
 Package luatex.def Info: figures/ch-03/fig-073.pdf  used on input line 277.
 (luatex.def)             Requested size: 113.81102pt x 112.33228pt.
-Package marginnote Info: Suggest that margin note 146.1 will be on
-(marginnote)             absolute page 146.
-(marginnote)             This may be wrong on input line 279.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 279.
-Package marginnote Info: Suggest that margin note 146.2 will be on
-(marginnote)             absolute page 146.
-(marginnote)             This may be wrong on input line 279.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 279.
+Package marginnote Info: Margin note 148.1 is on absolute page 148 on input lin
+e 279.
+Package marginnote Info: xpos seems to be 85.35828pt on input line 279.
+Package marginnote Info: Margin note 148.2 is on absolute page 148 on input lin
+e 279.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 279.
 
 Underfull \vbox (badness 3118) has occurred while \output is active []
 
@@ -2737,80 +2667,75 @@ Underfull \vbox (badness 1527) has occurred while \output is active []
 
  [129]
 [130]
-Package marginnote Info: Suggest that margin note 149.1 will be on
-(marginnote)             absolute page 149.
-(marginnote)             This may be wrong on input line 310.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 310.
+Package marginnote Info: Margin note 151.1 is on absolute page 151 on input lin
+e 310.
+Package marginnote Info: xpos seems to be 226.76173pt on input line 310.
  [131] [132]
-<figures/ch-03/fig-074.pdf, id=1190, 775.8467pt x 234.6062pt>
+<figures/ch-03/fig-074.pdf, id=1370, 775.8467pt x 234.6062pt>
 File: figures/ch-03/fig-074.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-074.pdf>
 Package luatex.def Info: figures/ch-03/fig-074.pdf  used on input line 332.
 (luatex.def)             Requested size: 241.84845pt x 73.13168pt.
-Package marginnote Info: Margin note 151.1 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 153.1 is on absolute page 154 on input lin
 e 334.
-Package marginnote Info: xpos seems to be 226.76173pt on input line 334.
+Package marginnote Info: xpos seems to be 277.41437pt on input line 334.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package marginnote Info: Suggest that margin note 151.2 will be on
-(marginnote)             absolute page 151.
-(marginnote)             This may be wrong on input line 337.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 337.
+Package marginnote Info: Margin note 153.2 is on absolute page 154 on input lin
+e 337.
+Package marginnote Info: xpos seems to be 397.7226pt on input line 337.
 
 Underfull \vbox (badness 6300) has occurred while \output is active []
 
  [133
 
 ]
-Package marginnote Info: Suggest that margin note 152.1 will be on
-(marginnote)             absolute page 152.
-(marginnote)             This may be wrong on input line 339.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 339.
+Package marginnote Info: Margin note 154.1 is on absolute page 155 on input lin
+e 339.
+Package marginnote Info: xpos seems to be 85.00175pt on input line 339.
 
 [134<./figures/ch-03/fig-074.pdf>]
-<figures/ch-03/fig-075.pdf, id=1204, 532.98442pt x 311.49702pt>
+<figures/ch-03/fig-075.pdf, id=1382, 532.98442pt x 311.49702pt>
 File: figures/ch-03/fig-075.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-075.pdf>
 Package luatex.def Info: figures/ch-03/fig-075.pdf  used on input line 343.
 (luatex.def)             Requested size: 193.47949pt x 113.07994pt.
-Package marginnote Info: Margin note 153.1 is on absolute page 154 on input lin
+Package marginnote Info: Margin note 155.1 is on absolute page 155 on input lin
 e 345.
-Package marginnote Info: xpos seems to be 277.41437pt on input line 345.
+Package marginnote Info: xpos seems to be 247.36671pt on input line 345.
  [135<./figures/ch-03/fig-075.pdf>]
-Package marginnote Info: Margin note 154.1 is on absolute page 155 on input lin
+Package marginnote Info: Margin note 156.1 is on absolute page 156 on input lin
 e 350.
-Package marginnote Info: xpos seems to be 85.00175pt on input line 350.
+Package marginnote Info: xpos seems to be 250.74911pt on input line 350.
  [136]
 Underfull \vbox (badness 1527) has occurred while \output is active []
 
 
-Overfull \hbox (72.4083pt too wide) has occurred while \output is active
-[] |\TU/LibertinusSerif(0)/m/sl/10 3.14 What is the length of the Moon’s shado
-w and the shadow of the stratosat?[]
+Overfull \hbox (74.60829pt too wide) has occurred while \output is active
+[] |\TU/LibertinusSerif(0)/m/sl/10 3.14. What is the length of the Moon’s shad
+ow and the shadow of the stratosat?[]
  []
 
 [137
 
 ] [138] [139]
-<figures/ch-03/fig-076.pdf, id=1233, 1756.29533pt x 982.22165pt>
+<figures/ch-03/fig-076.pdf, id=1409, 1756.29533pt x 982.22165pt>
 File: figures/ch-03/fig-076.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-076.pdf>
 Package luatex.def Info: figures/ch-03/fig-076.pdf  used on input line 407.
 (luatex.def)             Requested size: 241.84845pt x 135.24698pt.
-Package marginnote Info: Suggest that margin note 158.1 will be on
-(marginnote)             absolute page 158.
-(marginnote)             This may be wrong on input line 409.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 409.
+Package marginnote Info: Margin note 160.1 is on absolute page 161 on input lin
+e 409.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 409.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [140] [141<./figures/ch-03/fig-076.pdf>]
-Package marginnote Info: Margin note 160.1 is on absolute page 161 on input lin
+Package marginnote Info: Margin note 162.1 is on absolute page 162 on input lin
 e 432.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 432.
 
 Underfull \hbox (badness 2538) in paragraph at lines 432--432
 []|$[][]$ \TU/LibertinusSerif(0)/m/n/8 Ac-cord-ing to the ex-pe-ri-ence
@@ -2826,6 +2751,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 432--432
 \TU/LibertinusSerif(0)/m/n/8 in-stal-la-tions of de-vices for pho-
  []
 
+Package marginnote Info: xpos seems to be 320.86656pt on input line 432.
 
 Overfull \hbox (26.62325pt too wide) in paragraph at lines 437--439
 \TU/LibertinusSerif(0)/m/n/10 So, the cloud was at a height of about $\OT1/minl
@@ -2834,25 +2760,23 @@ inusSerif(0)/m/n/10 from the ground.
  []
 
 [142]
-<figures/ch-03/fig-077.pdf, id=1256, 623.11427pt x 626.59097pt>
+<figures/ch-03/fig-077.pdf, id=1434, 623.11427pt x 626.59097pt>
 File: figures/ch-03/fig-077.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-077.pdf>
 Package luatex.def Info: figures/ch-03/fig-077.pdf  used on input line 444.
 (luatex.def)             Requested size: 193.47949pt x 194.5567pt.
-Package marginnote Info: Suggest that margin note 161.1 will be on
-(marginnote)             absolute page 161.
-(marginnote)             This may be wrong on input line 446.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 446.
+Package marginnote Info: Margin note 163.1 is on absolute page 163 on input lin
+e 446.
+Package marginnote Info: xpos seems to be 247.36671pt on input line 446.
  [143<./figures/ch-03/fig-077.pdf>] [144] [145]
-<figures/ch-03/fig-078.pdf, id=1276, 1660.3845pt x 2070.0382pt>
+<figures/ch-03/fig-078.pdf, id=1453, 1660.3845pt x 2070.0382pt>
 File: figures/ch-03/fig-078.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-078.pdf>
 Package luatex.def Info: figures/ch-03/fig-078.pdf  used on input line 494.
 (luatex.def)             Requested size: 193.47949pt x 241.19221pt.
-Package marginnote Info: Suggest that margin note 164.1 will be on
-(marginnote)             absolute page 164.
-(marginnote)             This may be wrong on input line 496.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 496.
+Package marginnote Info: Margin note 166.1 is on absolute page 167 on input lin
+e 496.
+Package marginnote Info: xpos seems to be 247.36671pt on input line 496.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2861,7 +2785,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [147<./figures/ch-03/fig-078.pdf>] [148] [149]
-<figures/ch-03/fig-ch-03-tail.pdf, id=1307, 459.23215pt x 458.4353pt>
+<figures/ch-03/fig-ch-03-tail.pdf, id=1482, 459.23215pt x 458.4353pt>
 File: figures/ch-03/fig-ch-03-tail.pdf Graphic file (type pdf)
 <use figures/ch-03/fig-ch-03-tail.pdf>
 Package luatex.def Info: figures/ch-03/fig-ch-03-tail.pdf  used on input line 5
@@ -2869,7 +2793,7 @@ Package luatex.def Info: figures/ch-03/fig-ch-03-tail.pdf  used on input line 5
 (luatex.def)             Requested size: 72.55527pt x 72.42778pt.
 ) (./04-road-geometry.tex [150<./figures/ch-03/fig-ch-03-tail.pdf>]
 chapter 4.
-<figures/ch-04/fig-ch-04-head.pdf, id=1315, 1771.30684pt x 712.12274pt>
+<figures/ch-04/fig-ch-04-head.pdf, id=1489, 1771.30684pt x 712.12274pt>
 File: figures/ch-04/fig-ch-04-head.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-ch-04-head.pdf>
 Package luatex.def Info: figures/ch-04/fig-ch-04-head.pdf  used on input line 7
@@ -2883,32 +2807,26 @@ Overfull \hbox (48.36894pt too wide) in paragraph at lines 7--7
 [151
 
 <./figures/ch-04/fig-ch-04-head.pdf>] [152] [153] [154] [155]
-<figures/ch-04/fig-079.pdf, id=1340, 1313.90282pt x 1576.34659pt>
+<figures/ch-04/fig-079.pdf, id=1511, 1313.90282pt x 1576.34659pt>
 File: figures/ch-04/fig-079.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-079.pdf>
 Package luatex.def Info: figures/ch-04/fig-079.pdf  used on input line 53.
 (luatex.def)             Requested size: 217.66212pt x 261.12024pt.
-Package marginnote Info: Suggest that margin note 174.1 will be on
-(marginnote)             absolute page 174.
-(marginnote)             This may be wrong on input line 55.
+Package marginnote Info: Margin note 176.1 is on absolute page 177 on input lin
+e 55.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 55.
 
-Underfull \hbox (badness 1038) in paragraph at lines 55--55
-[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 79: |The tree be-hind the
- []
-
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 55.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ch-04/fig-080.pdf, id=1341, 1293.71541pt x 1593.47641pt>
+<figures/ch-04/fig-080.pdf, id=1512, 1293.71541pt x 1593.47641pt>
 File: figures/ch-04/fig-080.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-080.pdf>
 Package luatex.def Info: figures/ch-04/fig-080.pdf  used on input line 64.
 (luatex.def)             Requested size: 217.66212pt x 268.09125pt.
-Package marginnote Info: Suggest that margin note 174.2 will be on
-(marginnote)             absolute page 174.
-(marginnote)             This may be wrong on input line 66.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 66.
+Package marginnote Info: Margin note 176.2 is on absolute page 178 on input lin
+e 66.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 66.
 [156]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2917,47 +2835,43 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 4416) has occurred while \output is active []
 
  [158<./figures/ch-04/fig-080.pdf>]
-<figures/ch-04/fig-081.pdf, id=1362, 1598.29848pt x 312.99536pt>
+<figures/ch-04/fig-081.pdf, id=1533, 1598.29848pt x 312.99536pt>
 File: figures/ch-04/fig-081.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-081.pdf>
 Package luatex.def Info: figures/ch-04/fig-081.pdf  used on input line 80.
 (luatex.def)             Requested size: 217.66212pt x 42.62506pt.
-Package marginnote Info: Suggest that margin note 177.1 will be on
-(marginnote)             absolute page 177.
-(marginnote)             This may be wrong on input line 82.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 82.
+Package marginnote Info: Margin note 179.1 is on absolute page 180 on input lin
+e 82.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 82.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [159]
-Package marginnote Info: Suggest that margin note 178.1 will be on
-(marginnote)             absolute page 178.
-(marginnote)             This may be wrong on input line 95.
+Package marginnote Info: Margin note 180.1 is on absolute page 181 on input lin
+e 95.
+Package marginnote Info: xpos seems to be 231.27385pt on input line 95.
 
 Overfull \hbox (5.48946pt too wide) detected at line 95
 []
  []
 
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 95.
 [160<./figures/ch-04/fig-081.pdf>] [161]
-Package marginnote Info: Margin note 180.1 is on absolute page 181 on input lin
+Package marginnote Info: Margin note 182.1 is on absolute page 182 on input lin
 e 109.
-Package marginnote Info: xpos seems to be 231.27385pt on input line 109.
+Package marginnote Info: xpos seems to be 321.60916pt on input line 109.
  [162]
-<figures/ch-04/fig-082.pdf, id=1389, 1490.29002pt x 771.65231pt>
+<figures/ch-04/fig-082.pdf, id=1561, 1490.29002pt x 771.65231pt>
 File: figures/ch-04/fig-082.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-082.pdf>
 Package luatex.def Info: figures/ch-04/fig-082.pdf  used on input line 144.
 (luatex.def)             Requested size: 217.66212pt x 112.69327pt.
-Package marginnote Info: Suggest that margin note 181.1 will be on
-(marginnote)             absolute page 181.
-(marginnote)             This may be wrong on input line 146.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 146.
-Package marginnote Info: Suggest that margin note 181.2 will be on
-(marginnote)             absolute page 181.
-(marginnote)             This may be wrong on input line 148.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 148.
+Package marginnote Info: Margin note 183.1 is on absolute page 183 on input lin
+e 146.
+Package marginnote Info: xpos seems to be 259.45804pt on input line 146.
+Package marginnote Info: Margin note 183.2 is on absolute page 183 on input lin
+e 148.
+Package marginnote Info: xpos seems to be 232.01675pt on input line 148.
  [163<./figures/ch-04/fig-082.pdf>]
 Overfull \hbox (28.15105pt too wide) in paragraph at lines 165--167
 \TU/LibertinusSerif(0)/m/n/10 (ap-prox-i-mately 1/2 cu-bic fath-oms in pre-vi-ou
@@ -2965,15 +2879,14 @@ s mea-sure-ments).
  []
 
 [164] [165] [166]
-<figures/ch-04/fig-083.pdf, id=1414, 1771.73074pt x 1385.78319pt>
+<figures/ch-04/fig-083.pdf, id=1583, 1771.73074pt x 1385.78319pt>
 File: figures/ch-04/fig-083.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-083.pdf>
 Package luatex.def Info: figures/ch-04/fig-083.pdf  used on input line 213.
 (luatex.def)             Requested size: 217.66212pt x 170.24098pt.
-Package marginnote Info: Suggest that margin note 185.1 will be on
-(marginnote)             absolute page 185.
-(marginnote)             This may be wrong on input line 215.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 215.
+Package marginnote Info: Margin note 187.1 is on absolute page 188 on input lin
+e 215.
+Package marginnote Info: xpos seems to be 387.49544pt on input line 215.
  [167]
 
 LaTeX Warning: Hyper reference `fig-83' on page 168 undefined on input line 217
@@ -2983,21 +2896,20 @@ LaTeX Warning: Hyper reference `fig-83' on page 168 undefined on input line 217
 LaTeX Warning: Reference `fig-83' on page 168 undefined on input line 217.
 
 [168<./figures/ch-04/fig-083.pdf>]
-<figures/ch-04/fig-084.pdf, id=1425, 305.55664pt x 311.15927pt>
+<figures/ch-04/fig-084.pdf, id=1593, 305.55664pt x 311.15927pt>
 File: figures/ch-04/fig-084.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-084.pdf>
 Package luatex.def Info: figures/ch-04/fig-084.pdf  used on input line 233.
 (luatex.def)             Requested size: 113.81102pt x 115.89627pt.
-Package marginnote Info: Margin note 187.1 is on absolute page 188 on input lin
+Package marginnote Info: Margin note 189.1 is on absolute page 189 on input lin
 e 235.
-Package marginnote Info: xpos seems to be 387.49544pt on input line 235.
-Package marginnote Info: Suggest that margin note 187.2 will be on
-(marginnote)             absolute page 187.
-(marginnote)             This may be wrong on input line 235.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 235.
+Package marginnote Info: xpos seems to be 341.43307pt on input line 235.
+Package marginnote Info: Margin note 189.2 is on absolute page 189 on input lin
+e 235.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 235.
  [169<./figures/ch-04/fig-084.pdf>]
-Package marginnote Info: Suggest that margin note 188.1 will be on
-(marginnote)             absolute page 188.
+Package marginnote Info: Suggest that margin note 190.1 will be on
+(marginnote)             absolute page 190.
 (marginnote)             This may be wrong on input line 250.
 
 Overfull \hbox (3.5263pt too wide) detected at line 250
@@ -3005,52 +2917,48 @@ Overfull \hbox (3.5263pt too wide) detected at line 250
  []
 
 Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 250.
-Package marginnote Info: Suggest that margin note 188.2 will be on
-(marginnote)             absolute page 188.
-(marginnote)             This may be wrong on input line 250.
+Package marginnote Info: Margin note 190.2 is on absolute page 190 on input lin
+e 250.
 
 Overfull \hbox (3.5263pt too wide) detected at line 250
 []
  []
 
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 250.
-<figures/ch-04/fig-085.pdf, id=1435, 1777.37111pt x 1354.58867pt>
+Package marginnote Info: xpos seems to be 356.98903pt on input line 250.
+<figures/ch-04/fig-085.pdf, id=1602, 1777.37111pt x 1354.58867pt>
 File: figures/ch-04/fig-085.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-085.pdf>
 Package luatex.def Info: figures/ch-04/fig-085.pdf  used on input line 264.
 (luatex.def)             Requested size: 241.84845pt x 184.30843pt.
-Package marginnote Info: Suggest that margin note 188.3 will be on
-(marginnote)             absolute page 188.
-(marginnote)             This may be wrong on input line 266.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 266.
+Package marginnote Info: Margin note 190.3 is on absolute page 191 on input lin
+e 266.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 266.
 [170] [171<./figures/ch-04/fig-085.pdf>]
-Package marginnote Info: Suggest that margin note 190.1 will be on
-(marginnote)             absolute page 190.
-(marginnote)             This may be wrong on input line 272.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 272.
-<figures/ch-04/fig-086.pdf, id=1450, 362.09535pt x 370.19095pt>
+Package marginnote Info: Margin note 192.1 is on absolute page 192 on input lin
+e 272.
+Package marginnote Info: xpos seems to be 361.93814pt on input line 272.
+<figures/ch-04/fig-086.pdf, id=1617, 362.09535pt x 370.19095pt>
 File: figures/ch-04/fig-086.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-086.pdf>
 Package luatex.def Info: figures/ch-04/fig-086.pdf  used on input line 286.
 (luatex.def)             Requested size: 113.81102pt x 116.35092pt.
-Package marginnote Info: Margin note 190.2 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 192.2 is on absolute page 193 on input lin
 e 288.
-Package marginnote Info: xpos seems to be 356.98903pt on input line 288.
-Package marginnote Info: Margin note 190.3 is on absolute page 191 on input lin
+Package marginnote Info: xpos seems to be 341.43307pt on input line 288.
+Package marginnote Info: Margin note 192.3 is on absolute page 193 on input lin
 e 288.
-Package marginnote Info: xpos seems to be 149.37697pt on input line 288.
+Package marginnote Info: xpos seems to be 28.45274pt on input line 288.
  [172] [173<./figures/ch-04/fig-086.pdf>] [174]
-<figures/ch-04/fig-087.pdf, id=1471, 950.48329pt x 679.59917pt>
+<figures/ch-04/fig-087.pdf, id=1636, 950.48329pt x 679.59917pt>
 File: figures/ch-04/fig-087.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-087.pdf>
 Package luatex.def Info: figures/ch-04/fig-087.pdf  used on input line 319.
 (luatex.def)             Requested size: 193.47949pt x 138.33359pt.
-Package marginnote Info: Suggest that margin note 193.1 will be on
-(marginnote)             absolute page 193.
-(marginnote)             This may be wrong on input line 321.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 321.
+Package marginnote Info: Margin note 195.1 is on absolute page 195 on input lin
+e 321.
+Package marginnote Info: xpos seems to be 247.36671pt on input line 321.
  [175<./figures/ch-04/fig-087.pdf>] [176]
-<figures/ch-04/fig-ch-04-tail.pdf, id=1487, 456.0112pt x 404.94485pt>
+<figures/ch-04/fig-ch-04-tail.pdf, id=1651, 456.0112pt x 404.94485pt>
 File: figures/ch-04/fig-ch-04-tail.pdf Graphic file (type pdf)
 <use figures/ch-04/fig-ch-04-tail.pdf>
 Package luatex.def Info: figures/ch-04/fig-ch-04-tail.pdf  used on input line 3
@@ -3060,7 +2968,7 @@ Package luatex.def Info: figures/ch-04/fig-ch-04-tail.pdf  used on input line 3
 
 ]
 chapter 5.
-<figures/ch-05/fig-ch-05-head.pdf, id=1497, 1773.57451pt x 655.5625pt>
+<figures/ch-05/fig-ch-05-head.pdf, id=1661, 1773.57451pt x 655.5625pt>
 File: figures/ch-05/fig-ch-05-head.pdf Graphic file (type pdf)
 <use figures/ch-05/fig-ch-05-head.pdf>
 Package luatex.def Info: figures/ch-05/fig-ch-05-head.pdf  used on input line 7
@@ -3071,19 +2979,17 @@ Overfull \hbox (48.36894pt too wide) in paragraph at lines 7--7
 [][] 
  []
 
-<figures/ch-05/fig-088.pdf, id=1498, 460.14587pt x 374.78508pt>
+<figures/ch-05/fig-088.pdf, id=1662, 460.14587pt x 374.78508pt>
 File: figures/ch-05/fig-088.pdf Graphic file (type pdf)
 <use figures/ch-05/fig-088.pdf>
 Package luatex.def Info: figures/ch-05/fig-088.pdf  used on input line 16.
 (luatex.def)             Requested size: 113.81102pt x 92.69525pt.
-Package marginnote Info: Suggest that margin note 197.1 will be on
-(marginnote)             absolute page 197.
-(marginnote)             This may be wrong on input line 18.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 18.
-Package marginnote Info: Suggest that margin note 197.2 will be on
-(marginnote)             absolute page 197.
-(marginnote)             This may be wrong on input line 18.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 18.
+Package marginnote Info: Margin note 199.1 is on absolute page 200 on input lin
+e 18.
+Package marginnote Info: xpos seems to be 85.35828pt on input line 18.
+Package marginnote Info: Margin note 199.2 is on absolute page 200 on input lin
+e 18.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 18.
 [179<./figures/ch-05/fig-ch-05-head.pdf>] [180<./figures/ch-05/fig-088.pdf>]
 [181]
 
@@ -3093,19 +2999,22 @@ LaTeX Warning: Hyper reference `fig-89' on page 182 undefined on input line 46.
 
 LaTeX Warning: Reference `fig-89' on page 182 undefined on input line 46.
 
-<figures/ch-05/fig-089.pdf, id=1519, 373.1168pt x 207.38747pt>
+<figures/ch-05/fig-089.pdf, id=1684, 373.1168pt x 207.38747pt>
 File: figures/ch-05/fig-089.pdf Graphic file (type pdf)
 <use figures/ch-05/fig-089.pdf>
 Package luatex.def Info: figures/ch-05/fig-089.pdf  used on input line 50.
 (luatex.def)             Requested size: 113.81102pt x 63.25783pt.
-Package marginnote Info: Suggest that margin note 200.1 will be on
-(marginnote)             absolute page 200.
-(marginnote)             This may be wrong on input line 52.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 52.
-Package marginnote Info: Suggest that margin note 200.2 will be on
-(marginnote)             absolute page 200.
-(marginnote)             This may be wrong on input line 52.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 52.
+Package marginnote Info: Margin note 202.1 is on absolute page 202 on input lin
+e 52.
+
+Underfull \hbox (badness 6910) in paragraph at lines 52--52
+[]\TU/LibertinusSerif(0)/m/n/8 Fig-ure 89.: |How to cal-cu-late
+ []
+
+Package marginnote Info: xpos seems to be 85.35828pt on input line 52.
+Package marginnote Info: Margin note 202.2 is on absolute page 202 on input lin
+e 52.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 52.
 [182<./figures/ch-05/fig-089.pdf>] [183]
 Overfull \hbox (3.20088pt too wide) in paragraph at lines 92--105
 \TU/LibertinusSerif(0)/m/n/10 be-tween $\OT1/minlibertine/m/n/10 30$$[]$ \TU/Li
@@ -3114,17 +3023,17 @@ if(0)/m/n/10 de-grees. The dif-fer-ence be-tween $[] \OT1/minlibertine/m/n/10 45
 [] \LMS/ntxsy/m/n/10 ^^@
  []
 
-<figures/ch-05/fig-090.pdf, id=1530, 299.39366pt x 393.09383pt>
+<figures/ch-05/fig-090.pdf, id=1694, 299.39366pt x 393.09383pt>
 File: figures/ch-05/fig-090.pdf Graphic file (type pdf)
 <use figures/ch-05/fig-090.pdf>
 Package luatex.def Info: figures/ch-05/fig-090.pdf  used on input line 114.
 (luatex.def)             Requested size: 91.04915pt x 119.54254pt.
-Package marginnote Info: Margin note 202.1 is on absolute page 202 on input lin
+Package marginnote Info: Margin note 204.1 is on absolute page 204 on input lin
 e 116.
-Package marginnote Info: xpos seems to be 85.35828pt on input line 116.
-Package marginnote Info: Margin note 202.2 is on absolute page 202 on input lin
+Package marginnote Info: xpos seems to be 132.13284pt on input line 116.
+Package marginnote Info: Margin note 204.2 is on absolute page 204 on input lin
 e 116.
-Package marginnote Info: xpos seems to be 156.49014pt on input line 116.
+Package marginnote Info: xpos seems to be 158.99669pt on input line 116.
 
 LaTeX Warning: Hyper reference `fig-90' on page 184 undefined on input line 117
 .
@@ -3137,108 +3046,66 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [185]
 [186] [187]
-<figures/ch-05/fig-091.pdf, id=1554, 254.67456pt x 437.73138pt>
+<figures/ch-05/fig-091.pdf, id=1716, 254.67456pt x 437.73138pt>
 File: figures/ch-05/fig-091.pdf Graphic file (type pdf)
 <use figures/ch-05/fig-091.pdf>
 Package luatex.def Info: figures/ch-05/fig-091.pdf  used on input line 172.
 (luatex.def)             Requested size: 91.04915pt x 156.49445pt.
-Package marginnote Info: Suggest that margin note 206.1 will be on
-(marginnote)             absolute page 206.
-(marginnote)             This may be wrong on input line 174.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 174.
-Package marginnote Info: Suggest that margin note 206.2 will be on
-(marginnote)             absolute page 206.
-(marginnote)             This may be wrong on input line 174.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 174.
+Package marginnote Info: Margin note 208.1 is on absolute page 208 on input lin
+e 174.
+Package marginnote Info: xpos seems to be 132.13284pt on input line 174.
+Package marginnote Info: Margin note 208.2 is on absolute page 208 on input lin
+e 174.
+Package marginnote Info: xpos seems to be 156.49014pt on input line 174.
  [188<./figures/ch-05/fig-091.pdf>]
-<figures/ch-05/fig-092.pdf, id=1561, 506.90294pt x 394.5927pt>
+<figures/ch-05/fig-092.pdf, id=1723, 506.90294pt x 394.5927pt>
 File: figures/ch-05/fig-092.pdf Graphic file (type pdf)
 <use figures/ch-05/fig-092.pdf>
-Package luatex.def Info: figures/ch-05/fig-092.pdf  used on input line 198.
-(luatex.def)             Requested size: 91.04915pt x 70.8731pt.
-Package marginnote Info: Suggest that margin note 207.1 will be on
-(marginnote)             absolute page 207.
-(marginnote)             This may be wrong on input line 200.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 200.
-Package marginnote Info: Suggest that margin note 207.2 will be on
-(marginnote)             absolute page 207.
-(marginnote)             This may be wrong on input line 200.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 200.
+Package luatex.def Info: figures/ch-05/fig-092.pdf  used on input line 199.
+(luatex.def)             Requested size: 169.29317pt x 131.78143pt.
+Package marginnote Info: Margin note 209.1 is on absolute page 209 on input lin
+e 201.
+Package marginnote Info: xpos seems to be 235.27356pt on input line 201.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Hyper reference `fig-092' on page 189 undefined on input line 20
-2.
-
-
-LaTeX Warning: Reference `fig-092' on page 189 undefined on input line 202.
-
-
-Overfull \hbox (1.91602pt too wide) in paragraph at lines 210--212
+ [189<./figures/ch-05/fig-092.pdf>]
+Overfull \hbox (1.91602pt too wide) in paragraph at lines 211--213
 \TU/LibertinusSerif(0)/m/n/10 There-fore, the sine we are seek-ing is ap-prox-i-
 mately $\OT1/minlibertine/m/n/10 4\OML/nxlmi/m/it/10 :\OT1/minlibertine/m/n/10 
 2\OML/nxlmi/m/it/10 =\OT1/minlibertine/m/n/10 7\OML/nxlmi/m/it/10 :\OT1/minlibe
 rtine/m/n/10 74 \U/ntxmia/m/it/10 =
  []
 
-[189<./figures/ch-05/fig-092.pdf>] [190]
+[190]
+<figures/ch-05/fig-093.pdf, id=1739, 1735.97446pt x 677.14459pt>
+File: figures/ch-05/fig-093.pdf Graphic file (type pdf)
+<use figures/ch-05/fig-093.pdf>
+Package luatex.def Info: figures/ch-05/fig-093.pdf  used on input line 228.
+(luatex.def)             Requested size: 241.84845pt x 94.33463pt.
+Package marginnote Info: Margin note 211.1 is on absolute page 211 on input lin
+e 230.
+Package marginnote Info: xpos seems to be 149.37697pt on input line 230.
+
 Missing character: There is no − (U+2212) in font MinLibReg-ot1!
 Missing character: There is no − (U+2212) in font MinLibReg-ot1!
-<figures/ch-05/fig-ch-05-tail.pdf, id=1573, 501.76285pt x 439.29105pt>
-File: figures/ch-05/fig-ch-05-tail.pdf Graphic file (type pdf)
-<use figures/ch-05/fig-ch-05-tail.pdf>
-Package luatex.def Info: figures/ch-05/fig-ch-05-tail.pdf  used on input line 2
-28.
-(luatex.def)             Requested size: 72.55527pt x 63.51793pt.
-) [191<./figures/ch-05/fig-ch-05-tail.pdf>] (./perelman-geometry.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
- ***********
+Missing character: There is no − (U+2212) in font MinLibReg-ot1!
+Missing character: There is no − (U+2212) in font MinLibReg-ot1!
+
+LaTeX Warning: Hyper reference `fig-098' on page 191 undefined on input line 23
+2.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Reference `fig-098' on page 191 undefined on input line 232.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `perelman-geometry.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-)
-
-Here is how much of LuaTeX's memory you used:
- 31872 strings out of 476435
- 100000,1977958 words of node,token memory allocated
- 2051 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 126 glyph, 
-136 attribute, 70 glue_spec, 136 attribute_list, 1 write, 6 pdf_action nodes
-   avail lists: 2:602,3:208,4:133,5:496,6:41,7:4883,8:55,9:558,10:17,11:301,12:1
-
- 52447 multiletter control sequences out of 65536+600000
- 293 fonts using 33833503 bytes
- 109i,26n,149p,11011b,1327s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/7t.enc}</usr/local/texl
-ive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.
-otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/L
-ibertinusSans-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/pub
-lic/libertinus-fonts/LibertinusMono-Regular.otf></usr/local/texlive/2024/texmf-d
-ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/loca
-l/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif
--Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinu
-s-fonts/LibertinusSans-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/
-public/newtx/LibertineMathMI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
-/public/newtx/LibertineMathMI7.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
-e1/public/newtx/MinLibIta.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
-blic/newtx/MinLibReg.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/
-newtx/NewTXMI.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/N
-ewTXMI7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txmiaX.pf
-b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsym.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texl
-ive/2024/texmf-dist/fonts/type1/public/yhmath/yhcmex.pfb>
-Output written on perelman-geometry.pdf (209 pages, 32864232 bytes).
-
-PDF statistics: 1888 PDF objects out of 2073 (max. 8388607)
- 1516 compressed objects within 16 object streams
- 423 named destinations out of 1000 (max. 131072)
- 569 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+[191<./figures/ch-05/fig-093.pdf>]
+Missing character: There is no − (U+2212) in font MinLibReg-ot1!
+Missing character: There is no − (U+2212) in font MinLibReg-ot1!
+Missing character: There is no − (U+2212) in font MinLibReg-ot1!
+Missing character: There is no − (U+2212) in font MinLibReg-ot1!
+<figures/ch-05/fig-094.pdf, id=1747, 1193.20775pt x 995.1895pt>
+File: figures/ch-05/fig-094.pdf Graphic file (type pdf)
+<use figures/ch-05/fig-094.pdf>
+Package luatex.def Info: figures/ch-05/fig-094.pdf  used on input line 253.
+(luatex.def)             Requested size: 193.47949pt x 161.35951pt.
+Package marginnote Info: Margin note 212
