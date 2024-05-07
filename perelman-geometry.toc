@@ -85,4 +85,8 @@
 \contentsline {section}{\numberline {6.10}Horizon on the Moon}{220}{section.6.10}%
 \contentsline {section}{\numberline {6.11}In the lunar crater}{220}{section.6.11}%
 \contentsline {section}{\numberline {6.12}On Jupiter}{221}{section.6.12}%
+\contentsline {chapter}{\numberline {7}The Geometry Of The Robinsons}{223}{chapter.7}%
+\contentsline {section}{\numberline {7.1}The Geometry of the Starry Sky}{223}{section.7.1}%
+\contentsline {section}{\numberline {7.2}The latitude of the `Mysterious island'}{229}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Determining Geographic Longitude}{233}{section.7.3}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
