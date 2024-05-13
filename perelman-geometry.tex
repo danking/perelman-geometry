@@ -134,6 +134,8 @@
 
 \usepackage{physics}
 \usepackage{pdfpages}
+\usepackage{relsize}
+
 
 \usepackage{chngcntr}
 \counterwithout{figure}{chapter}
@@ -146,6 +148,8 @@
 \DeclareMathAccent{\wideparen}{\mathord}{yhlargesymbols}{"F3}
 % https://tex.stackexchange.com/questions/96680/a-better-notation-to-denote-arcs-for-an-american-high-school-textbook
 
+
+\AtBeginEnvironment{quote}{\smaller}%
 
 %%%%%%  END OF PACKAGES 
 
@@ -176,6 +180,9 @@
 \input{06-horizon}
 \input{07-robinson-geometry}
 
+\part{Between Seriousness And Joke In Geometry}
+
+\input{08-geometry-dark}
 
 
 \end{document}
