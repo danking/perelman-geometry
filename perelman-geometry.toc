@@ -100,4 +100,7 @@
 \contentsline {section}{\numberline {8.7}Mysterious Circumnavigation}{257}{section.8.7}%
 \contentsline {section}{\numberline {8.8}Measuring with Bare Hands}{269}{section.8.8}%
 \contentsline {section}{\numberline {8.9}Straight Angle in the Dark}{272}{section.8.9}%
+\contentsline {chapter}{\numberline {9}Old And New About The Circle}{275}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Practical geometry of the Egyptians and Romans}{275}{section.9.1}%
+\contentsline {section}{\numberline {9.2}``I know this and I remember it perfectly.''}{277}{section.9.2}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
