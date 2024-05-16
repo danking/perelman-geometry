@@ -103,4 +103,8 @@
 \contentsline {chapter}{\numberline {9}Old And New About The Circle}{275}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Practical geometry of the Egyptians and Romans}{275}{section.9.1}%
 \contentsline {section}{\numberline {9.2}``I know this and I remember it perfectly.''}{277}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Jack London's Error}{284}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Dropping a Needle}{285}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Straightening a Circle Problem}{288}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Squaring the Circle}{290}{section.9.6}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
