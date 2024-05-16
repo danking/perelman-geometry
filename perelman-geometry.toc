@@ -35,76 +35,84 @@
 \contentsline {section}{\numberline {2.16}Starry Sky in the River}{95}{section.2.16}%
 \contentsline {section}{\numberline {2.17}Path Across the River}{97}{section.2.17}%
 \contentsline {section}{\numberline {2.18}To Construct Two Bridges}{99}{section.2.18}%
-\contentsline {chapter}{\numberline {3}Geometry In The Open Field}{101}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Visible sizes of the Moon}{101}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Angle of View}{105}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Plate and Moon}{107}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Moon and Copper Coins}{108}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Sensational Photographs}{109}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Reservoir Set Decoration}{112}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Living Protractor}{114}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Jacob's Staff}{117}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Rake Angle Gauge}{120}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Artilleryman's Angle}{122}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Your visual acuity}{125}{section.3.11}%
-\contentsline {section}{\numberline {3.12}The Limiting Minute}{126}{section.3.12}%
-\contentsline {section}{\numberline {3.13}The Moon and Stars at the Horizon}{131}{section.3.13}%
-\contentsline {section}{\numberline {3.14}What is the length of the Moon's shadow and the shadow of the stratosat?}{135}{section.3.14}%
-\contentsline {section}{\numberline {3.15}How high is the cloud above the ground?}{137}{section.3.15}%
-\contentsline {section}{\numberline {3.16}Tower Height from Photograph}{144}{section.3.16}%
-\contentsline {section}{\numberline {3.17}Exercises}{146}{section.3.17}%
-\contentsline {chapter}{\numberline {4}Geometry on the Road}{149}{chapter.4}%
-\contentsline {section}{\numberline {4.1}The art of measuring by steps}{149}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Eye-meter}{151}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Slopes}{157}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Heap of Gravel}{161}{section.4.4}%
-\contentsline {section}{\numberline {4.5}The Proud Hill}{163}{section.4.5}%
-\contentsline {section}{\numberline {4.6}At a Road Curve}{165}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Radius of Curvature}{167}{section.4.7}%
-\contentsline {section}{\numberline {4.8}The bottom of the ocean}{170}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Do water mountains exist?}{173}{section.4.9}%
-\contentsline {chapter}{\numberline {5}Field Trigonometry Without Formulas and Tables}{177}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Calculation of the sine}{177}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Extraction of the square root}{183}{section.5.2}%
-\contentsline {section}{\numberline {5.3}To find an angle from its sine}{185}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Height of the Sun Problem}{188}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Distance to the Island Problem}{188}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Lake Width Problem}{190}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Triangle Area Problem}{192}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Determining the Magnitude of an Angle without any Instruments}{194}{section.5.8}%
-\contentsline {chapter}{\numberline {6}Where Heaven and Earth Converge}{197}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Horizon}{197}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Ship on the Horizon}{201}{section.6.2}%
-\contentsline {section}{\numberline {6.3}The Distance to the Horizon}{202}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Gogol's Tower Problem}{210}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pushkin's Hill}{211}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Where the Rails Meet}{212}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Lighthouse Problems}{213}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Lightning Problem}{215}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Sailboat Problem}{216}{section.6.9}%
-\contentsline {section}{\numberline {6.10}Horizon on the Moon}{217}{section.6.10}%
-\contentsline {section}{\numberline {6.11}In the lunar crater}{218}{section.6.11}%
-\contentsline {section}{\numberline {6.12}On Jupiter}{219}{section.6.12}%
-\contentsline {chapter}{\numberline {7}The Geometry Of The Robinsons}{221}{chapter.7}%
-\contentsline {section}{\numberline {7.1}The Geometry of the Starry Sky}{221}{section.7.1}%
-\contentsline {section}{\numberline {7.2}The latitude of the `Mysterious island'}{227}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Determining Geographic Longitude}{231}{section.7.3}%
-\contentsline {part}{\numberline {II}Between Seriousness And Joke In Geometry}{235}{part.2}%
-\contentsline {chapter}{\numberline {8}Geometry In The Dark}{239}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Into the Depths of the Hold}{239}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Measuring the Barrel}{240}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Measuring ruler (The Mayne-Reid Problem)}{242}{section.8.3}%
-\contentsline {section}{\numberline {8.4}What needed to be done}{245}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Verification of the Calculation}{248}{section.8.5}%
-\contentsline {section}{\numberline {8.6}The Night Journey of Mark Twain}{254}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Mysterious Circumnavigation}{257}{section.8.7}%
-\contentsline {section}{\numberline {8.8}Measuring with Bare Hands}{269}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Straight Angle in the Dark}{272}{section.8.9}%
-\contentsline {chapter}{\numberline {9}Old And New About The Circle}{275}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Practical geometry of the Egyptians and Romans}{275}{section.9.1}%
-\contentsline {section}{\numberline {9.2}``I know this and I remember it perfectly.''}{277}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Jack London's Error}{284}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Dropping a Needle}{285}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Straightening a Circle Problem}{288}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Squaring the Circle}{290}{section.9.6}%
+\contentsline {chapter}{\numberline {3}Geometry In The Open Field}{103}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Visible sizes of the Moon}{103}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Angle of View}{107}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Plate and Moon}{109}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Moon and Copper Coins}{110}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sensational Photographs}{111}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Reservoir Set Decoration}{114}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Living Protractor}{116}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Jacob's Staff}{119}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Rake Angle Gauge}{122}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Artilleryman's Angle}{124}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Your visual acuity}{127}{section.3.11}%
+\contentsline {section}{\numberline {3.12}The Limiting Minute}{128}{section.3.12}%
+\contentsline {section}{\numberline {3.13}The Moon and Stars at the Horizon}{133}{section.3.13}%
+\contentsline {section}{\numberline {3.14}What is the length of the Moon's shadow and the shadow of the stratosat?}{137}{section.3.14}%
+\contentsline {section}{\numberline {3.15}How high is the cloud above the ground?}{139}{section.3.15}%
+\contentsline {section}{\numberline {3.16}Tower Height from Photograph}{146}{section.3.16}%
+\contentsline {section}{\numberline {3.17}Exercises}{148}{section.3.17}%
+\contentsline {chapter}{\numberline {4}Geometry on the Road}{151}{chapter.4}%
+\contentsline {section}{\numberline {4.1}The art of measuring by steps}{151}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Eye-meter}{153}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Slopes}{159}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Heap of Gravel}{163}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The Proud Hill}{165}{section.4.5}%
+\contentsline {section}{\numberline {4.6}At a Road Curve}{167}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Radius of Curvature}{169}{section.4.7}%
+\contentsline {section}{\numberline {4.8}The bottom of the ocean}{172}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Do water mountains exist?}{175}{section.4.9}%
+\contentsline {chapter}{\numberline {5}Field Trigonometry Without Formulas and Tables}{179}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Calculation of the sine}{179}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Extraction of the square root}{185}{section.5.2}%
+\contentsline {section}{\numberline {5.3}To find an angle from its sine}{187}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Height of the Sun Problem}{190}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Distance to the Island Problem}{190}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Lake Width Problem}{192}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Triangle Area Problem}{194}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Determining the Magnitude of an Angle without any Instruments}{196}{section.5.8}%
+\contentsline {chapter}{\numberline {6}Where Heaven and Earth Converge}{199}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Horizon}{199}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Ship on the Horizon}{203}{section.6.2}%
+\contentsline {section}{\numberline {6.3}The Distance to the Horizon}{204}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Gogol's Tower Problem}{212}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Pushkin's Hill}{213}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Where the Rails Meet}{214}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Lighthouse Problems}{215}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Lightning Problem}{217}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Sailboat Problem}{218}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Horizon on the Moon}{219}{section.6.10}%
+\contentsline {section}{\numberline {6.11}In the lunar crater}{220}{section.6.11}%
+\contentsline {section}{\numberline {6.12}On Jupiter}{221}{section.6.12}%
+\contentsline {chapter}{\numberline {7}The Geometry Of The Robinsons}{223}{chapter.7}%
+\contentsline {section}{\numberline {7.1}The Geometry of the Starry Sky}{223}{section.7.1}%
+\contentsline {section}{\numberline {7.2}The latitude of the `Mysterious island'}{229}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Determining Geographic Longitude}{233}{section.7.3}%
+\contentsline {part}{\numberline {II}Between Seriousness And Joke In Geometry}{237}{part.2}%
+\contentsline {chapter}{\numberline {8}Geometry In The Dark}{241}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Into the Depths of the Hold}{241}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Measuring the Barrel}{242}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Measuring ruler (The Mayne-Reid Problem)}{244}{section.8.3}%
+\contentsline {section}{\numberline {8.4}What needed to be done}{247}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Verification of the Calculation}{250}{section.8.5}%
+\contentsline {section}{\numberline {8.6}The Night Journey of Mark Twain}{256}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Mysterious Circumnavigation}{259}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Measuring with Bare Hands}{271}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Straight Angle in the Dark}{274}{section.8.9}%
+\contentsline {chapter}{\numberline {9}Old And New About The Circle}{277}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Practical geometry of the Egyptians and Romans}{277}{section.9.1}%
+\contentsline {section}{\numberline {9.2}``I know this and I remember it perfectly.''}{279}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Jack London's Error}{286}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Dropping a Needle}{287}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Straightening a Circle Problem}{290}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Squaring the Circle}{292}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Triangle of Bing}{298}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Head or Feet}{300}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Wire Along the Equator Problem}{301}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Facts and Calculations}{302}{section.9.10}%
+\contentsline {section}{\numberline {9.11}The Girl on the Tightrope}{307}{section.9.11}%
+\contentsline {section}{\numberline {9.12}The Path through the Pole}{311}{section.9.12}%
+\contentsline {section}{\numberline {9.13}For the drive belt}{319}{section.9.13}%
+\contentsline {section}{\numberline {9.14}The Raven's Cleverness}{323}{section.9.14}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
