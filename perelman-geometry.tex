@@ -98,8 +98,7 @@
 %\usepackage{concmath}
 %\usepackage{kpfonts}
 \usepackage{enumitem}
-\setlength{\itemsep}{0pt} % Removes space between items
-\setlength{\topsep}{10pt} % Adjust as needed for top separation
+
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 
 % \usepackage{colortbl}
@@ -156,6 +155,14 @@
 \usepackage{dvgloss}
 
 
+
+\usepackage{fullwidth}
+
+\usepackage{tikz}
+\usetikzlibrary{tikzmark,arrows}
+\usepackage{calc} % for '\widthof' macro
+
+
 %%%%%%  END OF PACKAGES 
 
 \title{Geometry for Entertainment}
@@ -191,6 +198,7 @@
 
 \input{08-geometry-dark}
 \input{09-circle}
+\input{10-geometry-without-calculations}
 
 
 \end{document}
