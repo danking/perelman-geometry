@@ -124,4 +124,11 @@
 \contentsline {section}{\numberline {10.6}Dividing a Circle}{333}{section.10.6}%
 \contentsline {section}{\numberline {10.7}Billiard Ball Problem}{336}{section.10.7}%
 \contentsline {section}{\numberline {10.8}The ``Smart'' Ball}{339}{section.10.8}%
+\contentsline {section}{\numberline {10.9}In One Stroke}{348}{section.10.9}%
+\contentsline {section}{\numberline {10.10}The Seven Bridges of K\"onigsberg}{353}{section.10.10}%
+\contentsline {section}{\numberline {10.11}Geometrical Joke}{354}{section.10.11}%
+\contentsline {section}{\numberline {10.12}Form Verification Problem}{356}{section.10.12}%
+\contentsline {section}{\numberline {10.13}Game}{357}{section.10.13}%
+\contentsline {chapter}{\numberline {11}Big And Small In Geometry}{361}{chapter.11}%
+\contentsline {section}{\numberline {11.1}In a Thimble}{361}{section.11.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
