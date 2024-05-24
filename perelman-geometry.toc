@@ -145,4 +145,18 @@
 \contentsline {section}{\numberline {11.13}Our Normal Weight}{383}{section.11.13}%
 \contentsline {section}{\numberline {11.14}Gulliver's Geometry}{386}{section.11.14}%
 \contentsline {section}{\numberline {11.15}Why does dust and clouds float in the air?}{390}{section.11.15}%
+\contentsline {chapter}{\numberline {12}Geometric Economy}{395}{chapter.12}%
+\contentsline {section}{\numberline {12.1}How Did Pahom Buy Land}{395}{section.12.1}%
+\contentsline {section}{\numberline {12.2}The Problem of Leo Tolstoy}{400}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Trapezoid or Rectangle}{403}{section.12.3}%
+\contentsline {section}{\numberline {12.4}The Remarkable Property of a Square}{405}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Plots of Different Shapes}{407}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Figures with the Greatest Area}{409}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Nails}{413}{section.12.7}%
+\contentsline {section}{\numberline {12.8}Body of Greatest Volume}{414}{section.12.8}%
+\contentsline {section}{\numberline {12.9}Product of Equal Factors}{415}{section.12.9}%
+\contentsline {section}{\numberline {12.10}Triangle with the Greatest Area}{417}{section.12.10}%
+\contentsline {section}{\numberline {12.11}The Heaviest Beam}{419}{section.12.11}%
+\contentsline {section}{\numberline {12.12}From a Cardboard Triangle}{420}{section.12.12}%
+\contentsline {section}{\numberline {12.13}The Tinsmith's Dilemma}{421}{section.12.13}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
