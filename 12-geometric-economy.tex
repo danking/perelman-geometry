@@ -478,19 +478,164 @@ from which
 x = 10.
 \end{equation*}
 Then \(4v \), and therefore \(v \), reach their maximum.
+\begin{marginfigure}%[-3cm]%[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-12/fig-184.pdf}
+\sidecaption{Solution to the tinsmith's problem.\label{fig-184}}
+\end{marginfigure}
 
-Thus, the box will have the greatest volume if the edges of the tin sheet are folded to 10 cm. This maximum volume is equal to \(40 \times 40 \times 10 = 16,000 \text{ cubic cm}\). Folding 1 cm more or less will decrease the volume of the box in both cases. Indeed,
+Thus, the box will have the greatest volume if the edges of the tin sheet are folded to 10 cm. This maximum volume is equal to \(40 \times 40 \times 10 = \SI{16000}{\centi\meter\cubed}\). Folding 1 cm more or less will decrease the volume of the box in both cases. Indeed,
+\begin{align*}%
+9 \times 42 \times 42 & = \SI{15900}{\centi\meter\cubed}\\
+11 \times 38 \times 38 & = \SI{15900}{\centi\meter\cubed}
+\end{align*}
+both of which are less than \SI{16000}{\centi\meter\cubed}.\sidenote[][2cm]{Solving the problem in general, we find that for a square sheet of width \(a\), to obtain a box with the maximum volume, the strips of width \(x = a/6 \) should be folded, because the product \((a - 2x)(a - 2x)x\), or \((a - 2x)(a - 2x)4x\), is greatest when \(a - 2x = 4x\).}
 
-\[9 \times 42 \times 42 = 15,900 \text{ cubic cm}\]
-\[11 \times 38 \times 38 = 15,900 \text{ cubic cm}\]
 
-both of which are less than 16,000 cubic cm.
-
+\section{The Turner's Dilemma}
+\label{sec-12.14}
 
 
-Fig. 184. Solution to the tinsmith's problem.
 
-(1) Solving the problem in general, we find that for a square sheet of width \(a\), to obtain a box with the maximum volume, the strips of width \(x = a/6 \) should be folded, because the product \((a - 2x)(a - 2x)x\), or \((a - 2x)(a - 2x)4x\), is greatest when \(a - 2x = 4x\).
+\ques A turner is given a cone and tasked with turning it into a cylinder so that as little material as possible is removed (\figr{fig-185}).
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-12/fig-185.pdf}
+\sidecaption[][-7cm]{The turner's dilemma.\label{fig-185}}
+\end{figure}
+
+The turner pondered the shape of the desired cylinder: should it be tall but narrow (\figr{fig-186}) or wide but short (\figr{fig-187}). He could not decide for a long time what shape would result in the cylinder with the largest volume, i.e., with the least amount of material removed. What should he do?
+
+
+
+
+
+\ans The problem requires careful geometric consideration. Let $ABC$ (\figr{fig-188}) be the cross-section of the cone, $BD$ its height, denoted as $h$; the radius of the base $AD = DC$ denoted as $R$. The cylinder that can be turned from the cone has a cross-section $MNOP$. We need to find at what distance $BE = x$ from the vertex $B$ the top base of the cylinder should be located so that its volume is maximised.
+
+\begin{marginfigure}[-7cm]%[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-12/fig-186.pdf}
+\sidecaption{A cylinder can be turned from the cone to be tall but narrow or wide but short. In which case will less material be removed?\label{fig-186}}
+\end{marginfigure}
+The radius \( r \) of the base of the cylinder ($PD$ or $ME$) is easily found from the proportion:
+\begin{align*}% 
+\frac{ME}{AD} & = \frac{BE}{BD} \,\, \text{i.e.,}\\
+\frac{r}{R} & = \frac{x}{h} \,\, \text{from which,}\\
+ r & = \frac{Rx}{h}.
+\end{align*}
+\begin{marginfigure}[-4cm]%[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-12/fig-187.pdf}
+\sidecaption{A cylinder can be turned from the cone to be tall but narrow or wide but short. In which case will less material be removed?\label{fig-187}}
+\end{marginfigure}
+The height $ED$ of the cylinder is equal to \( h - x \). Consequently, its volume is
+\begin{equation*}%
+ v = \pi \left(\frac{Rx}{h}\right)^{2} (h - x) = \pi \frac{R^{2} x^{2}}{h^{2}} (h - x). 
+\end{equation*}
+from which
+\begin{equation*}%
+v \frac{h^{2}}{\pi R^{2}} = x^{2} (h - x).
+\end{equation*}
+\begin{marginfigure}[-2cm]%[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-12/fig-188.pdf}
+\sidecaption{Axial section of the cone and the cylinder.\label{fig-188}}
+\end{marginfigure}
+In the expression \( vh^{2}/\pi R^{2}\), the values \(h\), \( \pi \), and \(R \) are constants, and only \(v \) is a variable. We want to find such an \(x \) for which \(v \) becomes the greatest. But obviously, \(v \) will be the greatest at the same time as \(vh^{2}/\pi R^{2}\), that is, \(x^{2} \, (h - x)\). When does this latter expression become the greatest? Here, we have three variable factors: \(x\), \(x\), and \((h - x)\). If their sum were constant, the product would be greatest when the factors were equal. This constancy of the sum is easy to achieve if both parts of the last equation are multiplied by 2. Then we get:
+\begin{equation*}%
+2 \frac{vh^{2}}{\pi R^{2}} = x^{2} \,(2h - 2x).
+\end{equation*}
+Now the three factors on the right side have a constant sum:
+\begin{equation*}%
+x + x + 2h - 2x = 2h.
+\end{equation*}
+Therefore, their product will be the greatest when all the factors are equal, that is,
+\begin{equation*}%
+x = 2h - 2x, \qand x = \frac{2h}{3}.
+\end{equation*}
+Then the expression \(2vh^2/\pi R^{2}\) will also be maximised, and with it the volume of the cylinder.
+
+Now we know how the desired cylinder should be turned: its upper base should be located at 2/3 of the cone's height from the vertex.
+
+
+\section{How to Lengthen a Board?}
+\label{sec-12.15}
+
+When making something in a workshop or at home, it sometimes happens that the material at hand does not have the required dimensions.
+
+In such cases, it is worth attempting to modify the material's dimensions through appropriate processing, and much can be achieved with some geometric and construction ingenuity and calculation.
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/ch-12/fig-189.pdf}
+\sidecaption{How to lengthen the board by means of three sawing and one gluing?\label{fig-189}}
+\end{figure}
+ 
+
+Imagine this situation: you need a board of precise dimensions for making a bookshelf, specifically, 1 meter in length and 20 centimetres in width, but you have a shorter yet wider board, for example, 75 centimetres in length and 30 centimetres in width (see \figr{fig-189} on the left).
+
+What should you do?
+\begin{marginfigure}%[-2cm]%[h!]
+\centering
+\includegraphics[width=0.7\textwidth]{figures/ch-12/fig-190.pdf}
+\sidecaption{Solving the problem of lengthening the board.\label{fig-190}}
+\end{marginfigure}
+
+Of course, you could saw off a strip 10 centimetres wide along the length of the board (dashed line), cut it into three equal pieces each 25 centimetres long, and use two of them to extend the board (see \figr{fig-189} at the bottom).
+
+This solution would be inefficient in terms of the number of operations (three cuts and three gluing points) and would not satisfy the strength requirements (strength would be reduced at the points where the strips are glued to the board).
+
+
+You need to (see \figr{fig-190}) cut the board $ABCD$ along the diagonal $AC$ and shift one half (for example, $ABC$) along the diagonal, parallel to itself, by the distance $C_{1}E$, which equals the missing length, i.e., 25 cm. The total length of the two halves will then be 1 meter. Now these halves need to be glued along the line $AC_{1}$, and the excess (shaded triangles) should be cut off. This will result in a board of the required dimensions.
+
+Indeed, from the similarity of triangles $ADC$ and $C_{1}EC$, we have:
+\begin{align*}%
+\frac{AD}{DC} & = \frac{C_{1}E}{EC},\, \, \text{from which}\\
+EC & = \frac{DC}{AD} \times C_{1}E, \qor \\
+EC & = \frac{30}{75} \times 25 = \SI{10}{\centi\meter};\\
+DE & = DC - EC =  \SI{30}{\centi\meter} -  \SI{10}{\centi\meter} =  \SI{20}{\centi\meter}.
+\end{align*}
+
+
+
+\section{The Shortest Path}
+\label{sec-12.15}
+
+In conclusion, let’s consider a problem of ``maxima and minima'', which can be solved with a very simple geometric construction.
+
+
+\ques Along the bank of a river, a water tower needs to be built to supply water via pipes to villages $A$ and $B$ (see \figr{fig-191}).
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.9\textwidth]{figures/ch-12/fig-191.pdf}
+\sidecaption{The problem of the water tower.\label{fig-191}}
+\end{figure}
+
+
+Where should it be built so that the total length of the pipes from the tower to both villages is the shortest?
+
+\ans The problem reduces to finding the shortest path from $A$ to the bank and then to $B$.
+
+Suppose the shortest path is $ACB$ (see \figr{fig-191}). Fold the diagram along line $CN$. We get point $B'$. If $ACB$ is the shortest path, then, since $CB' = CB$, the path $ACB'$ must be shorter than any other (e.g., $ADB'$). Thus, to find the shortest path, we only need to locate the point $C$ where the straight line $AB'$ intersects the riverbank. Then, connecting $C$ and $B$, we find both parts of the shortest path from $A$ to $B$.
+
+\begin{figure}%[-2cm]%[h!]
+\centering
+\includegraphics[width=0.7\textwidth]{figures/ch-12/fig-192.pdf}
+\sidecaption{Geometric solution to the problem of finding the shortest path.\label{fig-192}}
+\end{figure}
+
+
+By drawing a perpendicular at point $C$ to $CN$, it's easy to see that the angles $ACP$ and $BCP$, formed by both parts of the shortest path with this perpendicular, are equal $(\angle ACP = \angle B'CQ = \angle  BCP)$.
+
+This is known as the law of reflection of a light ray off a mirror: the angle of incidence equals the angle of reflection. Hence, a light ray chooses the shortest path when it reflects, a conclusion known to the ancient physicist and geometer Heron of Alexandria two thousand years ago.
+
+
+
 
 \begin{center}
 \includegraphics[width=0.3\textwidth]{figures/ch-11/fig-ch-11-tail.pdf}

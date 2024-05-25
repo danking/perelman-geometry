@@ -135,14 +135,14 @@
 \contentsline {section}{\numberline {11.3}Thinner than a spider web but stronger than steel}{368}{section.11.3}%
 \contentsline {section}{\numberline {11.4}Two Jars}{371}{section.11.4}%
 \contentsline {section}{\numberline {11.5}Gigantic Cigarette}{372}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Ostrich Egg Task}{372}{section.11.6}%
+\contentsline {section}{\numberline {11.6}Ostrich Egg Task}{373}{section.11.6}%
 \contentsline {section}{\numberline {11.7}Elephant Bird Egg}{374}{section.11.7}%
-\contentsline {section}{\numberline {11.8}Eggs of Russian Birds}{374}{section.11.8}%
-\contentsline {section}{\numberline {11.9}Weight of the eggshell}{376}{section.11.9}%
-\contentsline {section}{\numberline {11.10}The sizes of our coins}{377}{section.11.10}%
-\contentsline {section}{\numberline {11.11}Coin worth a million roubles}{378}{section.11.11}%
-\contentsline {section}{\numberline {11.12}Visual Representations}{380}{section.11.12}%
-\contentsline {section}{\numberline {11.13}Our Normal Weight}{383}{section.11.13}%
+\contentsline {section}{\numberline {11.8}Eggs of Russian Birds}{375}{section.11.8}%
+\contentsline {section}{\numberline {11.9}Weight of the eggshell}{377}{section.11.9}%
+\contentsline {section}{\numberline {11.10}The sizes of our coins}{378}{section.11.10}%
+\contentsline {section}{\numberline {11.11}Coin worth a million roubles}{379}{section.11.11}%
+\contentsline {section}{\numberline {11.12}Visual Representations}{379}{section.11.12}%
+\contentsline {section}{\numberline {11.13}Our Normal Weight}{384}{section.11.13}%
 \contentsline {section}{\numberline {11.14}Gulliver's Geometry}{386}{section.11.14}%
 \contentsline {section}{\numberline {11.15}Why does dust and clouds float in the air?}{390}{section.11.15}%
 \contentsline {chapter}{\numberline {12}Geometric Economy}{395}{chapter.12}%
@@ -159,4 +159,7 @@
 \contentsline {section}{\numberline {12.11}The Heaviest Beam}{419}{section.12.11}%
 \contentsline {section}{\numberline {12.12}From a Cardboard Triangle}{420}{section.12.12}%
 \contentsline {section}{\numberline {12.13}The Tinsmith's Dilemma}{421}{section.12.13}%
+\contentsline {section}{\numberline {12.14}The Turner's Dilemma}{424}{section.12.14}%
+\contentsline {section}{\numberline {12.15}How to Lengthen a Board?}{427}{section.12.15}%
+\contentsline {section}{\numberline {12.16}The Shortest Path}{430}{section.12.16}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
