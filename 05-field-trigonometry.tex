@@ -24,23 +24,27 @@ Let's find the sine values of various angles from \ang{1} to \ang{90}. How can w
 Let's start with angles whose sine values we know from geometry. Firstly, the angle of \ang{90}, whose sine is obviously 1. Then the angle of \ang{45}, the sine of which can be easily calculated using the Pythagorean theorem; it equals $\sqrt{2}/2$, which is approximately 0.707. Next, we know the sine of \ang{30}; since the side opposite such an angle is half the hypotenuse, the sine of $\ang{30} = 1/2$.
 
 So, we know the sines (or, as commonly denoted, sin) of three angles: 
+\begin{small}
 \begin{align*}%
 \sin \ang{30} & = 0.5, \\
 \sin \ang{45} & = 0.707, \qand \\
 \sin \ang{90} & = 1.
 \end{align*}
+\end{small}
 Of course, this is not enough; we need to know the sines of all intermediate angles at least through every degree. For very small angles, we can approximate the sine by taking the ratio of the arc to the radius without much error: from \figr{fig-088} (lower),
 shows that the ratio $\overline{BC}/AB$ differs little from the $\ \wideparen{BD}/AB$ ratio. For example, for an angle of \ang{1}, the arc $BD = 2\pi R/360$ and, therefore, $\sin \ang{1}$ can be taken equal to
 \begin{equation*}%
 \frac{2 \pi R}{360 , R} = \frac{\pi}{180} = 0.0175. 
 \end{equation*}
 Using the same method, we find: 
+\begin{small}
 \begin{align*}%
 \sin \ang{2} & = 0.0349, \\
 \sin \ang{3} & = 0.0524,\\
 \sin \ang{4} & = 0.0698, \\
 \sin \ang{5} & = 0.0873.
 \end{align*}
+\end{small}
 However, we need to determine how far we can extend this table without introducing significant errors. If we were to compute sin \ang{30} using this method, we would obtain 0.524 instead of 0.500; the difference would already be in the second significant digit, and the margin of error would be 24/500, i.e. about 5\%.
 
 This is too crude even for basic field trigonometry. To find the limit to which we can calculate sine values using the approximate method described, let's try to find $\sin \ang{15}$ using a more precise method. To do this, we'll employ the following relatively straightforward construction (\figr{fig-89}).
@@ -56,10 +60,10 @@ Let $\sin \ang{15} = BC/AB$. Let us extend $BC$ by an equal distance to the poin
 AE^{2} & = AB^{2} - \left(\frac{AB}{2} \right)^{2}= \frac{3}{4}\, AB^{2},\\
 AE & = \frac{AB}{2} \sqrt{3} = 0.866 \, AB.
 \end{align*}
-Thus, $ED = AD - AE = AB - 0.866 AB = 0.134 AB$. Now, from triangle $BED$, we'll calculate $BD$:
+Thus, $ED = AD - AE = AB - 0.866 \, AB = 0.134 \,AB$. Now, from triangle $BED$, we'll calculate $BD$:
 \begin{align*}%
-BD^{2} & = BE^{2} + ED^{2} = \left(\frac{AB}{2} \right)^{2} + (0.134AB)^{2} = 0.268\, AB^{2}\\
-BD & = \sqrt{0.268AB^{2}} = 0.518 \, AB.
+BD^{2} & = BE^{2} + ED^{2} = \left(\frac{AB}{2} \right)^{2} + (0.134\,AB)^{2} = 0.268\, AB^{2}\\
+BD & = \sqrt{0.268\,AB^{2}} = 0.518 \, AB.
 \end{align*}
 Half of $BD$, i.e., $BC$, equals $0.259\, AB$, therefore the sine of angle $BAD$ is the same as the sine of \ang{15}.
 \begin{equation*}%
@@ -109,7 +113,7 @@ Using the same method, we calculate angles within the range between \ang{30} and
 \sin \ang{40}  & = 0.5 + 0.014 = 0.64,\,\,\text{and so on.}
 \end{align*}
 \end{small}
-\begin{marginfigure}[2cm]
+\begin{marginfigure}[-4cm]
 \centering
 \includegraphics[width=0.8\textwidth]{figures/ch-05/fig-090.pdf}
 \sidecaption{To calculate the sine of an angle greater than \ang{45}.\label{fig-090}}
@@ -125,14 +129,17 @@ The method for extracting square roots mentioned in algebra courses is easily fo
 Let's say we need to compute the square root of 13. It lies between the square roots of 9 and 16, therefore, it is equal to 3 plus a fraction denoted by $x$.
 
 So,
-\begin{align*}%
-\sqrt{13} & = 3 + x, \,\, \text{hence} \\
-13 & = 9 + 6x + x^{2}.
-\end{align*}
+\begin{equation*}%
+\sqrt{13} = 3 + x,
+\end{equation*}
+hence,
+\begin{equation*}%
+13 = 9 + 6x + x^{2}.
+\end{equation*}
 Since the square of the fraction $x$ is a small fraction that can be neglected in the first approximation, we have:
 \begin{align*}%
 13 &= 9 - 6x, \,\, \text{this leads to} \\
-6x & = 4,\,\, \text{hence,}
+6x & = 4,\,\, \text{hence,}\\
 x & = 4/6 = 0.67.
 \end{align*}
 Therefore, approximately, $\sqrt{13} = 3.67$. If we want to determine the value of the root more precisely, we can write the equation $\sqrt{13} = 3 \, 2/3+ + y$, where $y$ is a small positive or negative fraction. From this equation, we have

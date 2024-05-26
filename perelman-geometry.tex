@@ -78,8 +78,8 @@
 %
 %\newcommand{\ques}{\alignedmarginpar{\textcolor{Salmon}{{\strut\large \emph{Question}}}}}% prints in red
 
-\newcommand{\ques}{\textcolor{Salmon}{\large \emph{Question\quad}}}% prints in red
-\newcommand{\ans}{\textcolor{SteelBlue}{\large \emph{Answer\quad}}}
+\newcommand{\ques}{\textcolor{Salmon}{\large \emph{Question\,\,}}}% prints in red
+\newcommand{\ans}{\textcolor{SteelBlue}{\large \emph{Answer\,\,}}}
 
 
 \newcommand{\drkgry}[1]{\textcolor{darkgray}{{#1}}}
@@ -166,6 +166,34 @@
 
 \newcommand{\nom}[1]{\symbol{8470}~#1}
 
+% set headers in small caps
+\usepackage{textcase}
+
+ \usepackage{fancyhdr}
+ \addtolength{\headwidth}{\marginparsep}
+\addtolength{\headwidth}{\marginparwidth}
+%\addtolength{\headwidth}{\marginparwidth}
+
+ \pagestyle{fancy}
+% %\fancyhead{}
+ \setlength{\headheight}{15pt}
+ \renewcommand{\headrulewidth}{0pt}% 2pt header rule
+  \renewcommand{\chaptermark}[1]{%
+   \markboth{\textls[100]{#1}}{}}
+
+ \renewcommand{\sectionmark}[1]{\markright{\textls[100]{ #1}}}
+ \fancyhf{}
+
+\fancyhead[RO]{\textsc{\smaller{\MakeTextLowercase\rightmark}}}
+
+% \fancyhead[RO]{{\smaller{\MakeTextLowercase\rightmark\textsc}}}
+
+
+ \fancyhead[L]{\scriptsize{\thepage}}
+
+\makeatletter
+\fancyhead[RE]{\if@mainmatter \fi \textsc{\smaller{\MakeTextLowercase\leftmark}}}
+\makeatother
 
 
 %%%%%%  END OF PACKAGES 
@@ -206,6 +234,11 @@
 \input{10-geometry-without-calculations}
 \input{11-big-small-geometry}
 \input{12-geometric-economy}
+
+\newpage\null\thispagestyle{empty}\newpage
+
+
+\includepdf{figures/perelman-geometry-bc.pdf}
 
 \end{document}
 %%% Local Variables:

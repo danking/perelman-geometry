@@ -48,9 +48,9 @@
 \contentsline {section}{\numberline {3.10}Artilleryman's Angle}{122}{section.3.10}%
 \contentsline {section}{\numberline {3.11}Your visual acuity}{125}{section.3.11}%
 \contentsline {section}{\numberline {3.12}The Limiting Minute}{126}{section.3.12}%
-\contentsline {section}{\numberline {3.13}The Moon and Stars at the Horizon}{131}{section.3.13}%
-\contentsline {section}{\numberline {3.14}What is the length of the Moon's shadow and the shadow of the stratosat?}{135}{section.3.14}%
-\contentsline {section}{\numberline {3.15}How high is the cloud above the ground?}{137}{section.3.15}%
+\contentsline {section}{\numberline {3.13}The Moon and Stars at the Horizon}{130}{section.3.13}%
+\contentsline {section}{\numberline {3.14}The length of the Moon's Shadow}{134}{section.3.14}%
+\contentsline {section}{\numberline {3.15}How high is the cloud above the ground?}{136}{section.3.15}%
 \contentsline {section}{\numberline {3.16}Tower Height from Photograph}{144}{section.3.16}%
 \contentsline {section}{\numberline {3.17}Exercises}{146}{section.3.17}%
 \contentsline {chapter}{\numberline {4}Geometry on the Road}{149}{chapter.4}%
@@ -83,7 +83,7 @@
 \contentsline {section}{\numberline {6.8}Lightning Problem}{215}{section.6.8}%
 \contentsline {section}{\numberline {6.9}Sailboat Problem}{216}{section.6.9}%
 \contentsline {section}{\numberline {6.10}Horizon on the Moon}{217}{section.6.10}%
-\contentsline {section}{\numberline {6.11}In the lunar crater}{218}{section.6.11}%
+\contentsline {section}{\numberline {6.11}In the Lunar crater}{218}{section.6.11}%
 \contentsline {section}{\numberline {6.12}On Jupiter}{219}{section.6.12}%
 \contentsline {chapter}{\numberline {7}The Geometry Of The Robinsons}{221}{chapter.7}%
 \contentsline {section}{\numberline {7.1}The Geometry of the Starry Sky}{221}{section.7.1}%
