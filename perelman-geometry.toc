@@ -8,14 +8,14 @@
 \contentsline {section}{\numberline {1.4}How Sergeant Popov Acted}{19}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Using a Notebook}{22}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Without Approaching The Tree}{23}{section.1.6}%
-\contentsline {section}{\numberline {1.7}Forest Rangers' Altimeter}{26}{section.1.7}%
-\contentsline {section}{\numberline {1.8}Using a Mirror}{30}{section.1.8}%
+\contentsline {section}{\numberline {1.7}Forest Rangers' Altimeter}{25}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Using a Mirror}{29}{section.1.8}%
 \contentsline {section}{\numberline {1.9}Two Pines}{32}{section.1.9}%
 \contentsline {section}{\numberline {1.10}The shape of the tree trunk}{33}{section.1.10}%
 \contentsline {section}{\numberline {1.11}Universal Formula}{35}{section.1.11}%
-\contentsline {section}{\numberline {1.12}Volume and Weight of a Tree at the Root}{40}{section.1.12}%
-\contentsline {section}{\numberline {1.13}Leaf Geometry}{44}{section.1.13}%
-\contentsline {section}{\numberline {1.14}Six-legged heroes}{47}{section.1.14}%
+\contentsline {section}{\numberline {1.12}Volume and Weight of a Tree at the Root}{38}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Leaf Geometry}{43}{section.1.13}%
+\contentsline {section}{\numberline {1.14}Six-legged heroes}{46}{section.1.14}%
 \contentsline {chapter}{\numberline {2}Geometry By The River}{51}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Measuring the width of the river}{51}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Using a visor}{58}{section.2.2}%
