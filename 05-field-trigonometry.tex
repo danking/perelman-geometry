@@ -7,7 +7,7 @@
 \chapter{Field Trigonometry Without Formulas and Tables}
 \label{ch-05}
 	
-\section{Calculation of the sine}
+\section{Calculation of the Sine}
 \label{sec-5.1}
 
 In this chapter, we will demonstrate how to calculate the sides of a triangle with an accuracy of 2\% and angles with an accuracy of \ang{1}, using only the concept of sine and without resorting to tables or formulas. Such simplified trigonometry can be useful during outdoor walks when tables are not at hand, and formulas are half-forgotten. Robinson Crusoe on his island could successfully employ such trigonometry.
@@ -47,7 +47,7 @@ Using the same method, we find:
 \end{small}
 However, we need to determine how far we can extend this table without introducing significant errors. If we were to compute sin \ang{30} using this method, we would obtain 0.524 instead of 0.500; the difference would already be in the second significant digit, and the margin of error would be 24/500, i.e. about 5\%.
 
-This is too crude even for basic field trigonometry. To find the limit to which we can calculate sine values using the approximate method described, let's try to find $\sin \ang{15}$ using a more precise method. To do this, we'll employ the following relatively straightforward construction (\figr{fig-89}).
+This is too crude even for basic field trigonometry. To find the limit to which we can calculate sine values using the approximate method described, let's try to find $\sin \ang{15}$ using a more precise method. To do this, we'll employ the following relatively straightforward construction (\figr{fig-089}).
 
 \begin{marginfigure}%t[h!]
 \centering
@@ -118,10 +118,10 @@ Using the same method, we calculate angles within the range between \ang{30} and
 \includegraphics[width=0.8\textwidth]{figures/ch-05/fig-090.pdf}
 \sidecaption{To calculate the sine of an angle greater than \ang{45}.\label{fig-090}}
 \end{marginfigure}
-We also need to find the sines of acute angles larger than \ang{45}. The Pythagorean theorem can help us with this. Let's say we want to find $\sin \ang{53}$ (\figr{fig-90}), which corresponds to the ratio of side $BC/AB$. Since angle $B = \ang{37}$, we can compute its sine using the method described earlier: it equals $0.5 + 7 \times 0.014 = 0.6$. On the other hand, since we know that $\sin B = AC/ AB$, so $AC/AB = 0.6$ or $AC = 0.6 \, AB$. Knowing $AC$, we can easily calculate $AC$. This segment equals $\sqrt{(AB^{2} - BC^{2})} = \sqrt{(AB^{2} - (0.6AB)^{2})} = 0.8\, AB$. Overall, the calculation is straightforward; we just need to be able to compute square roots.
+We also need to find the sines of acute angles larger than \ang{45}. The Pythagorean theorem can help us with this. Let's say we want to find $\sin \ang{53}$ (\figr{fig-090}), which corresponds to the ratio of side $BC/AB$. Since angle $B = \ang{37}$, we can compute its sine using the method described earlier: it equals $0.5 + 7 \times 0.014 = 0.6$. On the other hand, since we know that $\sin B = AC/ AB$, so $AC/AB = 0.6$ or $AC = 0.6 \, AB$. Knowing $AC$, we can easily calculate $AC$. This segment equals $\sqrt{(AB^{2} - BC^{2})} = \sqrt{(AB^{2} - (0.6\, AB)^{2})} = 0.8\, AB$. Overall, the calculation is straightforward; we just need to be able to compute square roots.
 
 
-\section{Extraction of the square root}
+\section{Extraction of the Square Root}
 \label{sec-5.2}
 
 The method for extracting square roots mentioned in algebra courses is easily forgotten. But one can do without it. In many geometry textbooks, an ancient simplified method for computing square roots using the division method is presented. Here, I will share another old method, which is also more straightforward than the one considered in algebra courses.
@@ -138,9 +138,9 @@ hence,
 \end{equation*}
 Since the square of the fraction $x$ is a small fraction that can be neglected in the first approximation, we have:
 \begin{align*}%
-13 &= 9 - 6x, \,\, \text{this leads to} \\
+13 &= 9 - 6x, \,\, \text{this leads to}, \\
 6x & = 4,\,\, \text{hence,}\\
-x & = 4/6 = 0.67.
+x & = \frac{4}{6} = 0.67.
 \end{align*}
 Therefore, approximately, $\sqrt{13} = 3.67$. If we want to determine the value of the root more precisely, we can write the equation $\sqrt{13} = 3 \, 2/3+ + y$, where $y$ is a small positive or negative fraction. From this equation, we have
 \begin{equation*}%
@@ -151,7 +151,7 @@ Neglecting $y^{2}$, we find that $y$ is approximately equal to $-0.06$. Thus, in
 The third approximation can be found using the same method, and so on. Using the conventional method taught in algebra courses, we would find the square root of 13 accurate to 0.01, also as 3.61.
 
 
-\section{To find an angle from its sine}
+\section{To Find an Angle From its Sine}
 \label{sec-5.3}
 
 So, we have the ability to compute the sine of any angle from \ang{0} to \ang{90} with two decimal places. The need for a ready-made table is eliminated; for approximate calculations, we can always create it ourselves if desired.
@@ -331,7 +331,7 @@ Then we can find angle $B = \ang{180} - (A + C) = \ang{76}$.
 If we were to calculate this using tables, according to the rules of ``real'' trigonometry, we would get angles expressed in degrees and minutes. However, these minutes would be inherently erroneous, as the sides measured in steps involve an error of no less than 2–3\%. Hence, to avoid self-deception, the obtained ``accurate'' angle values should be rounded to at least whole degrees. And then we would arrive at the same result as we did by resorting to simplified methods. The benefit of our ``field'' trigonometry is quite evident here.
 
 
-\section{Determining the Magnitude of an Angle without any Instruments}
+\section{Determining the Magnitude of an Angle Without Any Instruments}
 
 To measure angles on the ground, we need at least a compass, and sometimes just our own fingers or a matchbox. But there may be a need to measure an angle drawn on paper, on a plan, or on a map.
 
