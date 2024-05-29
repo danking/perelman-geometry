@@ -3,22 +3,26 @@
 %!TEX encoding = UTF-8 Unicode
 
 
-\maketitle
+%\maketitle
 \cleardoublepage
 \thispagestyle{empty}
 %\pagenumbering{roman}
+\begin{fullwidth}
 \begin{center}
 
-{\LARGE Ya. I. Perelman}
+{\LARGE \emph{Ya. I. Perelman}}
 
-{\Huge Geometry for Entertainment}
-
-
+{\Huge Geometry\\ for \\ Entertainment}\\[2cm]
 
 
-The Mir Titles Project
+
+
+The Mir Titles Project\\
+
+{\small Translate from the Russian by \emph{Damitr Mazanav}}
 
 \end{center}
+\end{fullwidth}
 \cleardoublepage
 
 \thispagestyle{empty}
@@ -30,25 +34,40 @@ Seventh Edition, Revised
 
 Edited and supplemented by \emph{B.A. Kordemsky}
 
-First Published by State Publishing House Of Technical And Theoretical Literature Moscow -- 1950 -- Leningrad.
+First Published in Russian by \emph{State Publishing House Of Technical And Theoretical Literature}, Moscow -- 1950 -- Leningrad.
 
-Original scan in Russian by the \emph{Russian Lutherean}\\ \url{https://archive.org/details/20220910_perelman_geometry/}.
+\href{https://archive.org/details/20220910_perelman_geometry/}{Original scan} in Russian by the \emph{Russian Lutherean}.
 
 Translated from the Russian and typeset in \LaTeX{} using Linux Libertine by \emph{Damitr Mazanav}.
 
 This fully electronic English translation released in 2024 by \\\textsc{the mir titles project} \url{https://mirtitles.org} .
 
-Source files available at \\ \url{https://gitlab.com/mirtitles/perelman-geometry}
+\href{https://gitlab.com/mirtitles/perelman-geometry}{Link} to the source files. 
  
-Front cover: Woodcut from Cosimo Bartoli's \emph{Del modo di misvrare} published in 1564. \\ \url{https://archive.org/details/cosimobartolidel00bart}.
+Front cover: Woodcut from Cosimo Bartoli's \href{https://archive.org/details/cosimobartolidel00bart}{\emph{Del modo di misvrare}} published in 1564. 
 
-\copyright \emph{Damitr Mazanav}
+\copyright \emph{Damitr Mazanav} \href{mailto:damitr@proton.me}{damitr@proton.me}
 
 Licence Creative Commons by NC 4.0}
 
 \includegraphics[width=0.3\textwidth]{figures/cc-by-nc.pdf}
 
 \end{small}
+
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\textsc{\large about mir titles project}
+\end{center}
+\marginnote{
+\url{https://mirtitles.org}
+\url{https://archive.org/details/mir-titles}}
+The Mir Titles project aims to preserve the wealth of knowledge encapsulated in various books published during the Soviet era for future generations. This extensive collection features works on science, mathematics, philosophy, popular science, and history, as well as Soviet, Russian, and children's literature. The project has been made possible through the generous support and contributions from friends and supporters worldwide.
+
+
+
+
 
 \cleardoublepage
 
@@ -88,10 +107,12 @@ To what extent this was possible, I hope to learn from readers at the address: M
 %\addcontentsline{toc}{chapter}{\nameref{preface}}
 
 
-Yakov Perelman's books have been a constant source of inspiration for me throughout my life. Though many of his works have been translated into English and other languages, several remain untranslated. As the overarching aim of the Mir Titles Project, we endeavour to bring all such works to the public. This translation was a rather ambitious project, and it brings me great pleasure to present this untranslated work of Perelman in an English version.
+Yakov Perelman's books have been a constant source of inspiration for me throughout my life. Though many of his works have been translated into English and other languages, several remain untranslated. As the overarching aim of the Mir Titles Project, we endeavour to bring all such works to the public. This translation was a rather ambitious project, and I was not sure of the time it would require. But the project got completed in a few months and it brings me great pleasure to present this untranslated work of Perelman in an English version.
 
 
-\marginnote{Examples}Perelman, in his discussions, emphasises the geometrical relationships in measurable and unknown quantities. This approach is historical in the sense that this is how geometry developed: to solve problems of measurement of unknown quantities. Thus, we have problems related to measuring a variety of things, using direct measurement or very primitive instruments. A lot of the content of the book focuses on practical aspects of applying geometry to solve problems that we might face in open fields, by the river, in the sky, in the ocean, during constructions, in scaling objects for measuring angles, lengths, areas, and volumes, among other things. I am sure that after reading this book, you will see mathematics embedded in many familiar objects.
+\marginnote{Examples}Perelman, in his discussions, emphasises the geometrical relationships in measurable and unknown quantities. This approach is historical in the sense that this is how geometry developed: to solve problems of measurement of unknown quantities. Thus, we have problems related to measuring a variety of things, using direct measurement or very primitive instruments including our body organs.
+
+A lot of the content of the book focuses on practical aspects of applying geometry to solve problems that we might face in open fields, by the river, in the sky, in the ocean, during constructions, in scaling objects for measuring angles, lengths, areas, and volumes, among other things. I am sure that after reading this book, you will see mathematics embedded in many familiar objects. 
 
 
 \marginnote{Illustrations}The beautiful and abundant illustrations in the form of woodcuts are the heart of the book. Geometry, being primarily reliant on graphics, is brought to life in a variety of situations. Familiar geometrical shapes, lines, and ratios are found among trees, rivers, homes, skies, and other natural settings. This makes everyday objects familiarly mathematical.
@@ -100,10 +121,12 @@ Each topic is complemented by relevant illustrations, which make understanding t
 
 \marginnote{Translation}I have made use of machine translations for the bulk of the text, and the results are quite satisfactory. At times, I have used several translation services to ensure I am on the right track and that the meaning is not lost in translation. Though, of course, there might be places where I have not translated correctly. I learned to read the Russian in a very rudimentary way in the process. :)
 
+At places I have added my own notes for clarification which are indicated by my initials at the end -- \textsc{dm}.
+
 \marginnote{Typesetting}
 I have typeset the book in a square profile with marginpar for figures and notes. This design helps in making the book more readable by trying to keep the figures and notes on the same page. During the course of typesetting this book, several challenges in \LaTeX{} were resolved by the discussions and questions posted on \url{tex.stackexchange.com}. I am really grateful to the experts in the forum whose answers helped me learn a lot and resolve the typographical and technical challenges.
 
-If there are any mistakes in the mathematics or translation, they are all mine. Any suggestions and criticisms to improve the translation are welcome. I hope that this English version finds enthusiastic readers and inspires many more brilliant minds in the generations to come.
+If there are any mistakes in the mathematics or translation, they are all mine. Any suggestions and criticisms to improve the translation are welcome. Translating this book was a great learning experience for me in several ways. I hope that this English version finds enthusiastic readers and inspires many more brilliant minds in the generations to come.
 
 \begin{marginfigure}
 %\centering

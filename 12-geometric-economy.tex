@@ -149,16 +149,16 @@ We have determined that Pakhom walked around a vast area of 78 square versts, or
 
 \ques Rectangles with a perimeter of 40 versts can vary widely, each having a different area. Here are several examples:
 \begin{align*}%
-14 \times 6 & = 84 \,\, \text{square versts}\\
-13 \times 7 & = 91 \\
-12 \times 8 & = 96 \\
-11 \times 9 & = 99
+14 \times 6 & = 84 \,\, \text{square versts},\\
+13 \times 7 & = 91 \,\, \text{square versts},\\
+12 \times 8 & = 96 \,\, \text{square versts},\\
+11 \times 9 & = 99\,\, \text{square versts}.
 \end{align*}
 We see that all these figures, with the same perimeter of 40 versts, have a larger area than our trapezoid. However, there can also be rectangles with a perimeter of 40 versts whose area is smaller than that of the trapezoid:
 \begin{align*}%
-18 \times 2 & = 36 \,\, \text{square versts}\\
-19 \times 1 & = 19 \\
-19.5 \times 0.5 & = 9.75
+18 \times 2 & = 36 \,\, \text{square versts},\\
+19 \times 1 & = 19 \,\, \text{square versts},\\
+19.5 \times 0.5 & = 9.75 \,\, \text{square versts}.
 \end{align*}
 Therefore, we cannot give a definitive answer to the problem. There are rectangles with a larger area than the trapezoid, but there are also rectangles with a smaller area, given the same perimeter. However, we can definitively answer the question: which rectangle with a given perimeter encloses the largest area? Comparing our rectangles, we notice that the smaller the difference in the length of the sides, the larger the area of the rectangle. It is natural to conclude that when there is no difference at all, i.e., when the rectangle becomes a square, the area of the figure reaches its maximum. It will then be $10 \times 10 = 100$ square versts. It is easy to see that this square indeed exceeds in area any rectangle with the same perimeter. Pakhom should have walked along the sides of a square to obtain the largest plot of land -- 22 square versts more than what he managed to encompass.
 \clearpage
@@ -168,13 +168,13 @@ Therefore, we cannot give a definitive answer to the problem. There are rectangl
 
 The remarkable property of a square -- enclosing the largest area compared to all other rectangles with the same perimeter -- is not widely known. Therefore, let's provide a rigorous proof of this statement.
 
-Let's denote the perimeter of a rectangular figure by \( P \). If we take a square with this perimeter, then each side must be \( P/4 \). We will prove that by shortening one side of the square by some amount \( b \) while lengthening the adjacent side by the same amount, we get a rectangle with the same perimeter but a smaller area. In other words, we will prove that the area of the square \( (P/4)^{2} \) is greater than the area of the rectangle \( (P/4 - b)(P/4 + b) \):
+Let's denote the perimeter of a rectangular figure by \( P \). If we take a square with this perimeter, then each side must be \( P/4 \). We will prove that by shortening one side of the square by some amount \( b \) while lengthening the adjacent side by the same amount, we get a rectangle with the same perimeter but a smaller area. In other words, we will prove that the area of the square \( (P/4)^{2} \) is greater than the area of the rectangle \( (P/4 - b)\,(P/4 + b) \):
 \begin{equation*}%
- (P/4)^{2} > (P/4 - b)(P/4 + b).
+ (P/4)^{2} > (P/4 - b)\,(P/4 + b).
 \end{equation*}
 Since the right side of this inequality equals \( (P/4)^{2} - b^{2} \), the entire expression becomes:
 \begin{equation*}%
- 0 > -b^{2} \qor b^{2} > 0 
+ 0 > -b^{2} \qor b^{2} > 0.
 \end{equation*}
 But the latter inequality is obvious: the square of any number, whether positive or negative, is greater than 0. Therefore, the initial inequality, which led us to this conclusion, is also true.
 
@@ -187,17 +187,17 @@ Familiarity with these properties of the square would have helped Pakhom correct
 \section{Plots of Different Shapes}
 \label{sec-12.5}
 
-But perhaps it would have been even more advantageous for Pakhom to carve out a plot of land not in a rectangular shape, but in some other form—quadrilateral, triangular, pentagonal, etc.?
+But perhaps it would have been even more advantageous for Pakhom to carve out a plot of land not in a rectangular shape, but in some other form -- quadrilateral, triangular, pentagonal, etc.?
 
 This question can be considered strictly mathematically; however, out of concern for tiring our voluntary reader, we will not delve into this consideration here and will only acquaint him with the results.
 
 Firstly, it can be proven that of \emph{all quadrilaterals} with equal perimeter, the square has the largest area. Therefore, in seeking to have a quadrilateral plot, Pakhom could not have acquired more than 100 square versts by any means (assuming his maximum daily walk was 40 versts).
 
-Secondly, it can be proven that a square has a larger area than any triangle of equal perimeter. An equilateral triangle with the same perimeter would have a side of 40/3 = 13 \, 1/3 versts, and its area (using the formula \( S = \frac{a^{2} \sqrt{3}}{4} \), where \( S \) is the area and \( a \) is the side) would be:
+Secondly, it can be proven that a square has a larger area than any triangle of equal perimeter. An equilateral triangle with the same perimeter would have a side of 40/3 = 13 \, 1/3 versts, and its area (using the formula \( S = a^{2} \sqrt{3}/4 \), where \( S \) is the area and \( a \) is the side) would be:
 \begin{equation*}%
  S = \frac{1}{4} \left(\frac{40}{3}\right)^{2} \sqrt{3} = 77 \,\, \text{ square versts}.
  \end{equation*}
-"i.e., even less than that of the trapezoid Pakhom walked around. Further (on page~\pageref{sec-10.2}), it will be proven that of all triangles with equal perimeters, the scalene triangle has the largest area. This means that if even the largest triangle has an area smaller than that of the square, then all other triangles with the same perimeter will have areas smaller than the square.
+i.e., even less than that of the trapezoid Pakhom walked around. Further (on page~\pageref{sec-10.2}), it will be proven that of all triangles with equal perimeters, the scalene triangle has the largest area. This means that if even the largest triangle has an area smaller than that of the square, then all other triangles with the same perimeter will have areas smaller than the square.
 
 But if we compare the area of the square with that of a pentagon, hexagon, etc., with the same perimeter, the square's supremacy ends here: a regular pentagon has a larger area, a regular hexagon even larger, and so on. This can be easily verified with the example of a regular hexagon. With a perimeter of 40 versts, the side of the hexagon is 40/6 versts, and its area (using the formula \( S = (3a^{2}\sqrt{3})/2 \) is:
 \begin{equation*}%
@@ -223,7 +223,7 @@ No other shape, whether straight-edged or curved, can have a larger area with th
 
 We will take some time to focus on this remarkable property of the circle to enclose a greater area than any other figure of any shape with the same perimeter. Some readers might be curious to know how such properties are proven. Below is a proof—though not entirely rigorous—proposed by mathematician Jakob Steiner. It is quite lengthy, but those who find it tedious can skip it without losing the understanding of what follows.
 
-\begin{marginfigure}[-3cm]%[h!]
+\begin{marginfigure}[-1cm]%[h!]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/ch-12/fig-177.pdf}
 \sidecaption{Establishing that the figure with the maximum area must be convex.\label{fig-177}}
@@ -231,7 +231,7 @@ We will take some time to focus on this remarkable property of the circle to enc
 
 It is necessary to prove that the figure with the maximum area for a given perimeter is a circle. First, let's establish that the desired figure must be convex. This means that every chord of the figure must lie entirely inside it. Suppose we have a figure \(AaBC\) (\figr{fig-177}) with an external chord \(AB\). Let's replace the arc \(a \) with an arc \(b \), which is symmetrical to it. This replacement will not change the perimeter of the figure \(ABC\), but it will clearly increase the area. Therefore, figures like \(AaBC\) cannot be the ones that enclose the maximum area for the same perimeter.
 
-\begin{marginfigure}[-2cm]%[h!]
+\begin{marginfigure}[1cm]%[h!]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/ch-12/fig-178.pdf}
 \sidecaption{If a chord bisects the perimeter of a convex figure with the largest area, then it bisects the area.\label{fig-178}}
@@ -243,16 +243,24 @@ Thus, the desired figure is convex. Furthermore, we can also establish another p
 
 Indeed, if one of these parts were larger than the other, for example, if \(AMN > MNB\), then by folding the figure \(AMN\) along \(MN\), we would obtain the figure \(AMA'N\), whose area is larger than the original figure \(AMB'M\), while the perimeter remains the same. Therefore, the figure \(AMBN\), in which a chord bisecting the perimeter does not divide the area equally, cannot be the desired one (i.e., it cannot have the maximum area for a given perimeter).
 
+\begin{marginfigure}%[-1cm]%[h!]
+\centering
+\includegraphics[width=0.9\textwidth]{figures/ch-12/fig-179.pdf}
+\sidecaption{We assume the existence of a non-circular convex shape with the largest area.\label{fig-179}}
+\end{marginfigure}
+
+
 Before proceeding further, let's prove the following auxiliary theorem: among all triangles with two given sides, the one with these sides enclosing a right angle has the greatest area. To prove this, let's recall the trigonometric expression for the area \(S\) of a triangle with sides \(a\) and \(b\) and the angle \(C\) between them:
 \begin{equation*}%
 S = \frac{1}{2} ab \, \sin C.
 \end{equation*}
 This expression is obviously maximised (for given sides) when \(\sin C\) takes its maximum value, i.e., when it equals one. But the angle whose sine is 1 is a right angle, which is what needed to be proven.
 
-\begin{marginfigure}[-3cm]%[h!]
+
+\begin{marginfigure}%[-2cm]%[h!]
 \centering
-\includegraphics[width=0.9\textwidth]{figures/ch-12/fig-179.pdf}
-\sidecaption{We assume the existence of a non-circular convex shape with the largest area.\label{fig-179}}
+\includegraphics[width=\textwidth]{figures/ch-12/fig-180.pdf}
+\sidecaption{We establish that of all the figures with a given perimeter, the largest area is limited by a circle.\label{fig-180}}
 \end{marginfigure}
 
 Now we can proceed to the main task -- proving that among all figures with perimeter \(p\), the circle encloses the greatest area. To confirm this, let's try to assume the existence of a non-circular convex figure \(MANB\) (\figr{fig-179}) that possesses this property. Let's draw a chord \(MN\) in it, bisecting its perimeter; as we know, it will also bisect the area of the figure.
@@ -260,11 +268,6 @@ Now we can proceed to the main task -- proving that among all figures with perim
 
 
 
-\begin{marginfigure}%[-3cm]%[h!]
-\centering
-\includegraphics[width=\textwidth]{figures/ch-12/fig-180.pdf}
-\sidecaption{We establish that of all the figures with a given perimeter, the largest area is limited by a circle.\label{fig-180}}
-\end{marginfigure}
 
 We will bend half of the polygon $MKN$ along the line $MN$ so that it is positioned symmetrically $(MK'N)$. Notice that the figure $MNK'M$ has the same perimeter and area as the original figure $MNKM$. Since the arc $MNK$ is not a semicircle (otherwise there would be nothing to prove), there must be points on it from which the segment $MN$ is not visible at a right angle. 
 
@@ -300,7 +303,7 @@ Problems like the ones we've been discussing approach the question from an econo
 
 For the case of two factors, this property is already familiar to us. We know that the area of a square is greater than the area of any rectangle with the same perimeter. If we translate this geometric statement into arithmetic language, it means the following: when it is necessary to divide a number into two parts such that their product is the greatest, one should divide it in half. For example, among all products:
 \begin{equation*}%
-3 \times 17, \,\,  16 \times 14,\,\,  12 \times 18, \,\, 11 \times 19, \,\,  10 \times 20, \,\,  15 \times 15
+3 \times 17, \,\,  16 \times 14,\,\,  12 \times 18, \,\, 11 \times 19, \,\,  10 \times 20, \,\,  15 \times 15,
 \end{equation*}
 and so on, with the sum of the factors being equal to 30, the greatest product will be $15 \times 15$, even when comparing products of fractional numbers (like $14.5 \times 15.5$), and so forth.
 
@@ -319,15 +322,15 @@ But since according to the previous reasoning
 \end{equation*}
 then the product of the three factors
 \begin{equation*}%
-\frac{x + y}{2} \times\frac{x + y}{2} \times z
+\frac{x + y}{2} \times\frac{x + y}{2} \times z,
 \end{equation*}
 is greater than the product $xyz$:
 \begin{equation*}%
-\frac{x + y}{2} \times\frac{x + y}{2} \times z > xyz
+\frac{x + y}{2} \times\frac{x + y}{2} \times z > xyz.
 \end{equation*}
 In general, if among the factors $x$, $y$, $z$ there are at least two unequal ones, we can always find numbers that, without changing the total sum, will give a greater product than $xyz$. And only when all three factors are equal, such replacement cannot be made. Therefore, for $x + y + z = a$, the product $xyz$ will be maximum when
 \begin{equation*}%
-x = y = z
+x = y = z.
 \end{equation*}
 Let's use this property of equal factors to solve several interesting problems.
 
@@ -344,15 +347,15 @@ We have already noticed earlier (page~\pageref{sec-12.2}) that this property bel
 
 \ans The area $S$ of a triangle with sides $a$, $b$, $c$ and perimeter $a + b + c = 2p$ is expressed, as known from the course of geometry, as:
 \begin{equation*}%
-S = \sqrt{p(p - a)(p - b)(p - c)},
+S = \sqrt{p(p - a)\,(p - b)\,(p - c)},
 \end{equation*}
 from which
 \begin{equation*}%
-\frac{S^{2}}{p} = (p - a)(p - b)(p - c).
+\frac{S^{2}}{p} = (p - a)\,(p - b)\,(p - c).
 \end{equation*}
 The area $S$ of the triangle will be maximum when its square $S^{2} $ becomes maximum, or the expression $S^{2}/p$: where $p$, the semi-perimeter, is according to the condition a constant quantity. But since both parts of the equation simultaneously achieve their maximum value, the question boils down to when the product
 \begin{equation*}%
-(p - a)(p - b)(p - c),
+(p - a)\,(p - b)\,(p - c),
 \end{equation*}
 becomes maximum. Noticing that the sum of these three factors is a constant,
 \begin{equation*}%
@@ -447,8 +450,8 @@ We find that the side $MN$ of the sought rectangle passes through the midpoint o
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.7\textwidth]{figures/ch-12/fig-183.pdf}
-\sidecaption[][-1cm]{The tinsmith's dilemma.\label{fig-183}}
+\includegraphics[width=0.8\textwidth]{figures/ch-12/fig-183.pdf}
+\sidecaption[][0cm]{The tinsmith's dilemma.\label{fig-183}}
 \end{figure}
 
 
@@ -465,6 +468,11 @@ is not a constant value, as it changes with $x$. However, it is not difficult to
 \begin{equation*}%
 4v = (60 - 2x)(60 - 2x)4x.
 \end{equation*}
+\begin{marginfigure}%[-3cm]%[h!]
+\centering
+\includegraphics[width=\textwidth]{figures/ch-12/fig-184.pdf}
+\sidecaption{Solution to the tinsmith's problem.\label{fig-184}}
+\end{marginfigure}
 The sum of these factors is
 \begin{equation*}%
 60 - 2x + 60 - 2x + 4x = 120
@@ -478,11 +486,7 @@ from which
 x = 10.
 \end{equation*}
 Then \(4v \), and therefore \(v \), reach their maximum.
-\begin{marginfigure}%[-3cm]%[h!]
-\centering
-\includegraphics[width=\textwidth]{figures/ch-12/fig-184.pdf}
-\sidecaption{Solution to the tinsmith's problem.\label{fig-184}}
-\end{marginfigure}
+
 
 Thus, the box will have the greatest volume if the edges of the tin sheet are folded to 10 cm. This maximum volume is equal to \(40 \times 40 \times 10 = \SI{16000}{\centi\meter\cubed}\). Folding 1 cm more or less will decrease the volume of the box in both cases. Indeed,
 \begin{align*}%
@@ -520,12 +524,15 @@ The turner pondered the shape of the desired cylinder: should it be tall but nar
 \sidecaption{A cylinder can be turned from the cone to be tall but narrow or wide but short. In which case will less material be removed?\label{fig-186}}
 \end{marginfigure}
 The radius \( r \) of the base of the cylinder ($PD$ or $ME$) is easily found from the proportion:
+\begin{equation*}% 
+\frac{ME}{AD} = \frac{BE}{BD},
+\end{equation*}
+i.e.,
 \begin{align*}% 
-\frac{ME}{AD} & = \frac{BE}{BD} \,\, \text{i.e.,}\\
 \frac{r}{R} & = \frac{x}{h} \,\, \text{from which,}\\
  r & = \frac{Rx}{h}.
 \end{align*}
-\begin{marginfigure}[-4cm]%[h!]
+\begin{marginfigure}[-2cm]%[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{figures/ch-12/fig-187.pdf}
 \sidecaption{A cylinder can be turned from the cone to be tall but narrow or wide but short. In which case will less material be removed?\label{fig-187}}
@@ -538,7 +545,7 @@ from which
 \begin{equation*}%
 v \frac{h^{2}}{\pi R^{2}} = x^{2} (h - x).
 \end{equation*}
-\begin{marginfigure}[-2cm]%[h!]
+\begin{marginfigure}[0cm]%[h!]
 \centering
 \includegraphics[width=0.8\textwidth]{figures/ch-12/fig-188.pdf}
 \sidecaption{Axial section of the cone and the cylinder.\label{fig-188}}
@@ -578,28 +585,29 @@ In such cases, it is worth attempting to modify the material's dimensions throug
 Imagine this situation: you need a board of precise dimensions for making a bookshelf, specifically, 1 meter in length and 20 centimetres in width, but you have a shorter yet wider board, for example, 75 centimetres in length and 30 centimetres in width (see \figr{fig-189} on the left).
 
 What should you do?
-\begin{marginfigure}%[-2cm]%[h!]
-\centering
-\includegraphics[width=0.7\textwidth]{figures/ch-12/fig-190.pdf}
-\sidecaption{Solving the problem of lengthening the board.\label{fig-190}}
-\end{marginfigure}
+
 
 Of course, you could saw off a strip 10 centimetres wide along the length of the board (dashed line), cut it into three equal pieces each 25 centimetres long, and use two of them to extend the board (see \figr{fig-189} at the bottom).
 
 This solution would be inefficient in terms of the number of operations (three cuts and three gluing points) and would not satisfy the strength requirements (strength would be reduced at the points where the strips are glued to the board).
 
-
+\begin{marginfigure}%[-2cm]%[h!]
+\centering
+\includegraphics[width=0.7\textwidth]{figures/ch-12/fig-190.pdf}
+\sidecaption{Solving the problem of lengthening the board.\label{fig-190}}
+\end{marginfigure}
 You need to (see \figr{fig-190}) cut the board $ABCD$ along the diagonal $AC$ and shift one half (for example, $ABC$) along the diagonal, parallel to itself, by the distance $C_{1}E$, which equals the missing length, i.e., 25 cm. The total length of the two halves will then be 1 meter. Now these halves need to be glued along the line $AC_{1}$, and the excess (shaded triangles) should be cut off. This will result in a board of the required dimensions.
 
 Indeed, from the similarity of triangles $ADC$ and $C_{1}EC$, we have:
-\begin{align*}%
+\begin{alignat*}{1}%
 \frac{AD}{DC} & = \frac{C_{1}E}{EC},\, \, \text{from which}\\
 EC & = \frac{DC}{AD} \times C_{1}E, \qor \\
 EC & = \frac{30}{75} \times 25 = \SI{10}{\centi\meter};\\
 DE & = DC - EC =  \SI{30}{\centi\meter} -  \SI{10}{\centi\meter} =  \SI{20}{\centi\meter}.
-\end{align*}
+\end{alignat*}
 
 
+%\clearpage
 
 \section{The Shortest Path}
 \label{sec-12.15}

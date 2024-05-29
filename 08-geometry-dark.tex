@@ -42,7 +42,7 @@ Counting the crackers was not difficult, but how to establish the portions of wa
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.7\textwidth]{figures/ch-08/fig-108.pdf}
-\sidecaption{The young adventurer from the novel by Mein-Reid.\label{fig-108}}
+\sidecaption[][-1cm]{The young adventurer from the novel by Mein-Reid.\label{fig-108}}
 \end{figure}
 
 
@@ -137,7 +137,7 @@ Both expressions are not identical, and it is easy to see that the second one is
 \end{equation*}
 Those familiar with algebra will understand that the difference  $(πh/12) \, (R - r)^{2}$ is a positive quantity. That is, the method used by the Mayne-Reid boy resulted in an underestimated result.
 
-It is interesting to determine approximately how much this underestimation is. Barrels are usually designed in such a way that their maximum width exceeds the diameter of the base by 1/5, i.e., $R - r = R/5$.
+It is interesting to determine approximately how much this underestimation is. Barrels are usually designed in such a way that their maximum width exceeds the diameter of the base by \nicefrac{1}{5}, i.e., $R - r = R/5$.
 
 Assuming that the barrel in the Mayne-Reid novel was of this shape, we can find the difference between the obtained and the true volume of the truncated cones:
 \begin{equation*}%
@@ -150,7 +150,7 @@ However, this does not reflect the true result, as the volume of the barrel is i
 
 The young mathematician Mayne-Reid did not invent this formula for calculating the volume of a barrel; it is presented in some elementary geometry manuals as a convenient method for approximate determination of barrel contents. It's worth noting that measuring the volume of a barrel with absolute precision is a very difficult task. This was contemplated by the great Kepler himself, who left in his mathematical works a special study on the art of measuring barrels. A simple and precise geometric solution to this problem has not been found to this day: there are only established practical methods that provide results with greater or lesser approximation. For instance, in southern France, a simple formula, well justified by experience, is used:
 \begin{equation*}%
-\text{Volume of barrel} = 3.2\, hRr 
+\text{Volume of barrel} = 3.2\, hRr, 
 \end{equation*}
 where: $h$ is the height of the barrel, $R$ is the radius of the larger base, $r$ is the radius of the smaller base.
 
@@ -165,7 +165,7 @@ For the same reason, wooden buckets, tubs, vats, etc., are usually given a shape
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.7\textwidth]{figures/ch-08/fig-110.pdf}
-\sidecaption{Tight wrapping of the barrel with hoops is achieved by pushing them over a wide part.\label{fig-110}}
+\sidecaption[][-2cm]{Tight wrapping of the barrel with hoops is achieved by pushing them over a wide part.\label{fig-110}}
 \end{figure}
 
 Here it would be appropriate to acquaint the reader with the opinions on this subject expressed by Johannes Kepler. In the period between the discovery of the 2nd and 3rd laws of planetary motion, the great mathematician devoted attention to the question of the shape of barrels and even compiled a whole mathematical treatise on this topic. Here is how this is called: \emph{Stereometry of Barrels}: 
@@ -235,8 +235,8 @@ A similar experiment is known in Venice in St. Mark's Square. People were blindf
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.8\textwidth]{figures/ch-08/fig-112.pdf}
-\sidecaption{The schematic depiction of the experiment at St. Mark's Square in Venice.\label{fig-112}}
+\includegraphics[width=0.9\textwidth]{figures/ch-08/fig-112.pdf}
+\sidecaption[][-1cm]{The schematic depiction of the experiment at St. Mark's Square in Venice.\label{fig-112}}
 \end{figure}
 
 
@@ -268,7 +268,7 @@ Three travellers intended to leave the guard post on a snowy night and exit the 
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.8\textwidth]{figures/ch-08/fig-114.pdf}
+\includegraphics[width=0.9\textwidth]{figures/ch-08/fig-114.pdf}
 \sidecaption{How the rowers attempted to cross the strait in foggy weather.\label{fig-114}}
 \end{figure}
 
@@ -286,14 +286,15 @@ Let's not ask why animals move in circles, but what they need to move in a strai
 It's clear that a living creature can only move in a straight line without the help of eyes if the muscles on its right and left sides work exactly the same. But the point is that the symmetry of the human and animal body is incomplete. In the vast majority of people and animals, the muscles on the right side of the body are not equally developed as the muscles on the left. Naturally, a pedestrian who always steps a little further with his right leg than his left will not be able to keep a straight line; if his eyes don't help him correct his path, he will inevitably veer to the left. Similarly, a rower, when deprived of the ability to orient himself due to fog, will inevitably veer to the left if his right arm works stronger than his left. This is a geometric necessity.
 
 Imagine, for example, that when lifting the left leg, a person takes a step one millimetre longer than with the right leg. Then, by alternating each leg for a thousand steps, the person will describe a path with the left leg that is \SI{1000}{\milli\meter}, or a whole meter, longer than with the right leg. This is impossible on straight parallel paths, but quite feasible on concentric circles.
-
-We can even, using the plan of the circular movement described above in the snowy valley, calculate how much longer the step of those travellers was with the left leg compared to the right (since the path curved to the right, it is clear that it was the left leg that took longer steps). The distance between the lines of imprints of the right and left legs during walking (see \figr{fig-115}) is approximately \SI{10}{\centi\meter}, or \SI{0.1}{\meter}. When a person completes one full circle, their right leg covers a distance of $2\pi R$, and the left leg covers $2\pi(R + 0.1)$, where $R$ is the radius of this circle in meters. 
-
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.9\textwidth]{figures/ch-08/fig-115.pdf}
 \sidecaption{The lines of the prints of the right and left feet when walking.\label{fig-115}}
 \end{figure}
+
+
+We can even, using the plan of the circular movement described above in the snowy valley, calculate how much longer the step of those travellers was with the left leg compared to the right (since the path curved to the right, it is clear that it was the left leg that took longer steps). The distance between the lines of imprints of the right and left legs during walking (see \figr{fig-115}) is approximately \SI{10}{\centi\meter}, or \SI{0.1}{\meter}. When a person completes one full circle, their right leg covers a distance of $2\pi R$, and the left leg covers $2\pi(R + 0.1)$, where $R$ is the radius of this circle in meters. 
+
 
 
 The difference is $2\pi(R + 0.1) - 2 \pi R  = 2 \pi(0.1)$, which equals \SI{0.62}{\meter}, or \SI{620}{\milli\meter}, due to the difference in length between the left and right steps, repeated as many times as steps were taken. From \figr{figure-113}, we can deduce that our travellers described circles with a diameter of approximately \SI{3.5}{\kilo\meter}, or a length of about \SI{10000}{\meter}. With an average step length of \SI{0.7}{\meter} over a distance of \SI{10000}{\meter}, this equals $10000/0.7 = 14000$ steps; of these, 7000 were with the right leg and the same with the left. Thus, we find that 7000 ``left'' steps exceeded 7000 ``right'' steps by \SI{620}{\milli\meter}.
@@ -335,7 +336,9 @@ For animals, especially those inhabiting deserts, steppes, and vast expanses of 
 \section{Measuring with Bare Hands}
 \label{sec-8.8}
 
-The boy from Mayne-Reid's story was able to solve his geometric problem successfully only because he had measured his height shortly before the journey and remembered the measurement results. It would be beneficial for each of us to have such a `living meter' so that we could use it for measurements when needed. It is also useful to remember that for most people, the distance between the ends of their outstretched arms is equal to their height (see \figr{fig-117}) -- a fact marked by the ingenious artist and scientist Leonardo da Vinci; this makes it more convenient to use our `living meters' than what the boy did in Mayne-Reid's story. On average, the height of an adult (of Slavic descent) is about 1.7 meters, or 170 centimeters: this is easy to remember. However, it is not advisable to rely on the average value: everyone should measure their height and the span of their arms.
+The boy from Mayne-Reid's story was able to solve his geometric problem successfully only because he had measured his height shortly before the journey and remembered the measurement results. It would be beneficial for each of us to have such a `living meter' so that we could use it for measurements when needed. It is also useful to remember that for most people, the distance between the ends of their outstretched arms is equal to their height (see \figr{fig-117}) -- a fact marked by the ingenious artist and scientist Leonardo da Vinci; this makes it more convenient to use our `living meters' than what the boy did in Mayne-Reid's story. 
+
+On average, the height of an adult (of Slavic descent) is about 1.7 meters, or 170 centimeters: this is easy to remember. However, it is not advisable to rely on the average value: everyone should measure their height and the span of their arms.
 
 \begin{figure}[h!]
 \centering

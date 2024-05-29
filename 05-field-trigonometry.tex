@@ -182,7 +182,7 @@ Since this sine lies between 0.71 and 1, the angle we seek lies between \ang{45}
 
 Knowing $BC$, it is easy to find the sine of angle $B$: BC
 \begin{align*}%
-AC^{2} & = 1 - BC^{2} = 1 - 0.91^{2}\\
+AC^{2} & = 1 - BC^{2} = 1 - 0.91^{2},\\
 AC^{2} &  = 1 - 0.83 = 0.17,\\
 AC & = \sqrt{0.17} = 0.42.
 \end{align*}
@@ -198,14 +198,17 @@ We are now well-equipped to approximately solve trigonometric problems, as we ca
 
 But is the sine alone sufficient for this? Will we not need the other trigonometric functions -- cosine, tangent, etc.? We will now demonstrate with several examples that for our simplified trigonometry, one can easily manage with just the sine.
 
-\section{Height of the Sun Problem}
-\label{sec-5.4}
+%\clearpage
 
 \begin{figure}%[2cm]
 \centering
-\includegraphics[width=0.7\textwidth]{figures/ch-05/fig-092.pdf}
+\includegraphics[width=0.65\textwidth]{figures/ch-05/fig-092.pdf}
 \sidecaption{To determine the height of the Sun above the horizon.\label{fig-092}}
 \end{figure}
+
+
+\section{Height of the Sun Problem}
+\label{sec-5.4}
 
 \ques The shadow $BC$ (\figr{fig-092}) of the vertical pole $AB$, with a height of 4.2 m, measures 6.5 m. What is the height of the Sun above the horizon, i.e., what is the angle $C$?
 
@@ -236,11 +239,11 @@ The length of $BC$ is 137 m. How can you calculate the distance $BA$ using this 
 \sidecaption{How to calculate the distance to the island?\label{fig-093}}
 \end{figure}
 
-\ans In triangle $ABC$, we know the side $BC$. Angle $ABC = \ang{110} - \ang{52} = \ang{58}$; angle $ACB = \ang{180} − \ang{110} − \ang{27} = -\ang{43}$. Let's consider the height $BD$ in this triangle (\figr{fig-098}, to the right): $\sin C = \sin \ang{43} = BD/187$. By calculating the $\sin \ang{43}$ using the method mentioned earlier, we obtain approximately 0.68. Hence, 
+\ans In triangle $ABC$, we know the side $BC$. Angle $ABC = \ang{110} - \ang{52} = \ang{58}$; angle $ACB = \ang{180} - \ang{110} - \ang{27} = -\ang{43}$. Let's consider the height $BD$ in this triangle (\figr{fig-098}, to the right): $\sin C = \sin \ang{43} = BD/187$. By calculating the $\sin \ang{43}$ using the method mentioned earlier, we obtain approximately 0.68. Hence, 
 \begin{equation*}%
 BD = 187 \times 0.68 = 127.
 \end{equation*}
-Now, in triangle $ABD$, we know the side $BD$; angle $A = \ang{180} − (\ang{58} + \ang{43}) = \ang{79}$, and angle $ABD = \ang{90} − \ang{79} = \ang{11}$. We can calculate the $\sin \ang{11}$: it is 0.19. Therefore, $AD/AB = 0.19$. Using the Pythagorean theorem, 
+Now, in triangle $ABD$, we know the side $BD$; angle $A = \ang{180} - (\ang{58} + \ang{43}) = \ang{79}$, and angle $ABD = \ang{90}  \ang{79} = \ang{11}$. We can calculate the $\sin \ang{11}$: it is 0.19. Therefore, $AD/AB = 0.19$. Using the Pythagorean theorem, 
 \begin{equation*}%
 AB^{2} = BD^{2} + AD^{2}.
 \end{equation*}
@@ -268,8 +271,8 @@ BD & = BC - CD =  68 - 25.5 = 42.5.
 \end{align*}
 Now, from triangle ABD, 
 \begin{align*}%
-AB^{2} & = AD^{2} + B{D}^2 \\
-& = 24^{2} + 42.5^{2} = 2380;\\
+AB^{2} & = AD^{2} + B{D}^2  = 24^{2} + 42.5^{2}, \\
+AB^{2} & = 2380;\\
 AB & \approx 49.
 \end{align*}
 Thus, the sought width of the lake is about \SI{49}{\meter}.
@@ -284,7 +287,7 @@ The third angle $C$ is found by subtracting the sum of angles \ang{29} and \ang{
 
 \begin{marginfigure}%[2cm]
 \centering
-\includegraphics[width=0.8\textwidth]{figures/ch-05/fig-095.pdf}
+\includegraphics[width=\textwidth]{figures/ch-05/fig-095.pdf}
 \sidecaption{To the solution of the obtuse angle.\label{fig-095}}
 \end{marginfigure}
 
@@ -293,19 +296,21 @@ It may happen that in the case of solving a triangle (on two sides and the angle
 
 \section{Triangle Area Problem}
 \label{sec-5.7}
-
-\ques During an excursion, we measured the sides of a triangular area in steps and found them to be 43, 60, and 54 steps, respectively. What are the angles of this triangle?
-
-
-
-\ans This is the most complex case of solving a triangle: by three sides. However, it can be managed without resorting to other functions besides sine. Dropping $BD$ (see \figr{fig-096}) the perpendicular from $B$ to the longest side $AC$, we have:
 \begin{marginfigure}%[2cm]
 \centering
 \includegraphics[width=\textwidth]{figures/ch-05/fig-096.pdf}
 \sidecaption{Find the angles of this triangle 1) by calculation, 2) using a protractor.\label{fig-096}}
 \end{marginfigure}
+\ques During an excursion, we measured the sides of a triangular area in steps and found them to be 43, 60, and 54 steps, respectively. What are the angles of this triangle?
+
+
+
+\ans This is the most complex case of solving a triangle: by three sides. However, it can be managed without resorting to other functions besides sine. Dropping $BD$ (see \figr{fig-096}) the perpendicular from $B$ to the longest side $AC$, we have:
+\begin{equation*}%
+BD^{2} = 43^{2} - AD^{2}, \quad BD^{2} = 54^{2} - DC^{2},
+\end{equation*}
+hence,
 \begin{align*}%
-BD^{2} & = 43^{2} - AD^{2}, \quad BD^{2} = 54^{2} - DC^{2},\,\, \text{hence}\\
 43^{2} - AD^{2} & = 54^{2} - DC^{2},\\
 DC^{2} - AD^{2} & = 54^{2} - 43^{2} = 1070.\\
 \text{But} \,\,DC^{2} - AD^{2} & = (DC + AD)(DC - AD) = 60(DC - AD).  \\
@@ -330,16 +335,20 @@ If we were to calculate this using tables, according to the rules of ``real'' tr
 
 To measure angles on the ground, we need at least a compass, and sometimes just our own fingers or a matchbox. But there may be a need to measure an angle drawn on paper, on a plan, or on a map.
 
-Of course, if a protractor is at hand, the problem is easily solved. But what if there is no protractor, for example, in field conditions? A geometer should not be at a loss in this case either. How would you solve the following problem: 
-
-\ques Angle $AOB$ (see \figr{fig-097}) is depicted, measuring \ang{180}. Determine its magnitude without measurements.
-
-\ans One could drop a perpendicular from any point on side $BO$ to side $AO$, measure the catheti and the hypotenuse in the resulting right-angled triangle, find the sine of the angle, and then the magnitude of the angle itself (see page~\pageref{sec-5.3}). But such a solution would not meet the strict condition of not measuring anything!
 \begin{marginfigure}%[2cm]
 \centering
 \includegraphics[width=\textwidth]{figures/ch-05/fig-097.pdf}
 \sidecaption{97. How to determine the value of the depicted angle of the $AOB$ using only a compass?\label{fig-097}}
 \end{marginfigure}
+
+Of course, if a protractor is at hand, the problem is easily solved. But what if there is no protractor, for example, in field conditions? A geometer should not be at a loss in this case either. How would you solve the following problem: 
+
+\ques Angle $AOB$ (see \figr{fig-097}) is depicted, measuring \ang{180}. Determine its magnitude without measurements.
+
+
+
+\ans One could drop a perpendicular from any point on side $BO$ to side $AO$, measure the catheti and the hypotenuse in the resulting right-angled triangle, find the sine of the angle, and then the magnitude of the angle itself (see page~\pageref{sec-5.3}). But such a solution would not meet the strict condition of not measuring anything!
+
 
 Let's use the solution proposed in 1946 by J. Rupeika from Kaunas.
 

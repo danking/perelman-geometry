@@ -61,22 +61,28 @@
 
 
 \addtokomafont{chapter}{\color{darkgray}}
-\addtokomafont{section}{\color{gray}}
+\addtokomafont{section}{\color{gray}\Large\centering\normalfont\itshape}
 \addtokomafont{subsection}{\color{LightSlateGray}}
-\setkomafont{caption}{\small\sffamily}
+\setkomafont{caption}{\small}
+
+% https://tex.stackexchange.com/questions/179285/redefine-figure-counter-with-scrbook/179288#179288
+
+\renewcommand*{\figureformat}{%
+  \figurename~\thefigure%
+%  \autodot% DELETED
+}
+
+
+% no section numbers
+
+\setcounter{secnumdepth}{0}
+
 
 \setlength{\textfloatsep}{0.9\baselineskip plus 0.2\baselineskip minus 0.5\baselineskip}
 
 \RedeclareSectionCommand[beforeskip=.5\textheight plus 1.25\baselineskip]{chapter}
 
-%\newcommand{\alignedmarginpar}[1]{%
-%    \marginpar[\raggedleft #1]{\raggedright #1}%
-%}
-%https://tex.stackexchange.com/questions/411939/marginpar-text-alignment
 
-%\newcommand{\ans}{\alignedmarginpar{\textcolor{SteelBlue}{{\strut\large \emph{Answer}}}}}% prints in red
-%
-%\newcommand{\ques}{\alignedmarginpar{\textcolor{Salmon}{{\strut\large \emph{Question}}}}}% prints in red
 
 \newcommand{\ques}{\textcolor{Salmon}{\large \emph{Question\,\,}}}% prints in red
 \newcommand{\ans}{\textcolor{SteelBlue}{\large \emph{Answer\,\,}}}
@@ -152,6 +158,8 @@
 % https://tex.stackexchange.com/questions/96680/a-better-notation-to-denote-arcs-for-an-american-high-school-textbook
 
 
+
+
 \AtBeginEnvironment{quote}{\smaller}%
 
 \usepackage{dvgloss}
@@ -195,6 +203,7 @@
 \fancyhead[RE]{\if@mainmatter \fi \textsc{\smaller{\MakeTextLowercase\leftmark}}}
 \makeatother
 
+\allowdisplaybreaks[2]
 
 %%%%%%  END OF PACKAGES 
 

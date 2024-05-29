@@ -2,164 +2,164 @@
 \contentsline {chapter}{\nonumberline Translator's Preface}{xix}{chapter*.3}%
 \contentsline {part}{\numberline {I}Geometry In The Open Air}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Geometry In The Forest}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}By the length of the shadow}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Two More Methods}{13}{section.1.2}%
-\contentsline {section}{\numberline {1.3}The Method of Jules Verne}{15}{section.1.3}%
-\contentsline {section}{\numberline {1.4}How Sergeant Popov Acted}{19}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Using a Notebook}{22}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Without Approaching The Tree}{23}{section.1.6}%
-\contentsline {section}{\numberline {1.7}Forest Rangers' Altimeter}{25}{section.1.7}%
-\contentsline {section}{\numberline {1.8}Using a Mirror}{29}{section.1.8}%
-\contentsline {section}{\numberline {1.9}Two Pines}{32}{section.1.9}%
-\contentsline {section}{\numberline {1.10}The shape of the tree trunk}{33}{section.1.10}%
-\contentsline {section}{\numberline {1.11}Universal Formula}{35}{section.1.11}%
-\contentsline {section}{\numberline {1.12}Volume and Weight of a Tree at the Root}{38}{section.1.12}%
-\contentsline {section}{\numberline {1.13}Leaf Geometry}{43}{section.1.13}%
-\contentsline {section}{\numberline {1.14}Six-legged heroes}{46}{section.1.14}%
-\contentsline {chapter}{\numberline {2}Geometry By The River}{51}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Measuring the width of the river}{51}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Using a visor}{58}{section.2.2}%
-\contentsline {section}{\numberline {2.3}The Length Of An Island}{61}{section.2.3}%
-\contentsline {section}{\numberline {2.4}A pedestrian on the opposite bank}{62}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Simple Rangefinders}{65}{section.2.5}%
-\contentsline {section}{\numberline {2.6}The energy of the river}{69}{section.2.6}%
-\contentsline {section}{\numberline {2.7}The Flow Rate}{71}{section.2.7}%
-\contentsline {section}{\numberline {2.8}How Much Water Flows In The River?}{74}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Water Wheel}{80}{section.2.9}%
-\contentsline {section}{\numberline {2.10}Rainbow Film}{80}{section.2.10}%
-\contentsline {section}{\numberline {2.11}Circles on the Water}{83}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Fantastic Shrapnel}{86}{section.2.12}%
-\contentsline {section}{\numberline {2.13}The Keel Wave}{87}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Speed of Projectiles}{92}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Finding Pond Depth}{93}{section.2.15}%
-\contentsline {section}{\numberline {2.16}Starry Sky in the River}{95}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Path Across the River}{97}{section.2.17}%
-\contentsline {section}{\numberline {2.18}To Construct Two Bridges}{99}{section.2.18}%
-\contentsline {chapter}{\numberline {3}Geometry In The Open Field}{101}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Visible sizes of the Moon}{101}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Angle of View}{105}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Plate and Moon}{107}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Moon and Copper Coins}{108}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Sensational Photographs}{109}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Reservoir Set Decoration}{112}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Living Protractor}{114}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Jacob's Staff}{117}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Rake Angle Gauge}{120}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Artilleryman's Angle}{122}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Your visual acuity}{125}{section.3.11}%
-\contentsline {section}{\numberline {3.12}The Limiting Minute}{126}{section.3.12}%
-\contentsline {section}{\numberline {3.13}The Moon and Stars at the Horizon}{130}{section.3.13}%
-\contentsline {section}{\numberline {3.14}The length of the Moon's Shadow}{134}{section.3.14}%
-\contentsline {section}{\numberline {3.15}How high is the cloud above the ground?}{136}{section.3.15}%
-\contentsline {section}{\numberline {3.16}Tower Height from Photograph}{144}{section.3.16}%
-\contentsline {section}{\numberline {3.17}Exercises}{146}{section.3.17}%
-\contentsline {chapter}{\numberline {4}Geometry on the Road}{149}{chapter.4}%
-\contentsline {section}{\numberline {4.1}The art of measuring by steps}{149}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Eye-meter}{151}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Slopes}{157}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Heap of Gravel}{161}{section.4.4}%
-\contentsline {section}{\numberline {4.5}The Proud Hill}{163}{section.4.5}%
-\contentsline {section}{\numberline {4.6}At a Road Curve}{165}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Radius of Curvature}{167}{section.4.7}%
-\contentsline {section}{\numberline {4.8}The bottom of the ocean}{170}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Do water mountains exist?}{173}{section.4.9}%
-\contentsline {chapter}{\numberline {5}Field Trigonometry Without Formulas and Tables}{177}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Calculation of the sine}{177}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Extraction of the square root}{183}{section.5.2}%
-\contentsline {section}{\numberline {5.3}To find an angle from its sine}{185}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Height of the Sun Problem}{188}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Distance to the Island Problem}{188}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Lake Width Problem}{190}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Triangle Area Problem}{192}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Determining the Magnitude of an Angle without any Instruments}{194}{section.5.8}%
-\contentsline {chapter}{\numberline {6}Where Heaven and Earth Converge}{197}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Horizon}{197}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Ship on the Horizon}{201}{section.6.2}%
-\contentsline {section}{\numberline {6.3}The Distance to the Horizon}{202}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Gogol's Tower Problem}{210}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pushkin's Hill}{211}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Where the Rails Meet}{212}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Lighthouse Problems}{213}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Lightning Problem}{215}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Sailboat Problem}{216}{section.6.9}%
-\contentsline {section}{\numberline {6.10}Horizon on the Moon}{217}{section.6.10}%
-\contentsline {section}{\numberline {6.11}In the Lunar crater}{218}{section.6.11}%
-\contentsline {section}{\numberline {6.12}On Jupiter}{219}{section.6.12}%
-\contentsline {chapter}{\numberline {7}The Geometry Of The Robinsons}{221}{chapter.7}%
-\contentsline {section}{\numberline {7.1}The Geometry of the Starry Sky}{221}{section.7.1}%
-\contentsline {section}{\numberline {7.2}The latitude of the `Mysterious island'}{227}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Determining Geographic Longitude}{231}{section.7.3}%
-\contentsline {part}{\numberline {II}Between Seriousness And Joke In Geometry}{235}{part.2}%
-\contentsline {chapter}{\numberline {8}Geometry In The Dark}{239}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Into the Depths of the Hold}{239}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Measuring the Barrel}{240}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Measuring ruler (The Mayne-Reid Problem)}{242}{section.8.3}%
-\contentsline {section}{\numberline {8.4}What needed to be done}{245}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Verification of the Calculation}{248}{section.8.5}%
-\contentsline {section}{\numberline {8.6}The Night Journey of Mark Twain}{254}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Mysterious Circumnavigation}{257}{section.8.7}%
-\contentsline {section}{\numberline {8.8}Measuring with Bare Hands}{269}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Straight Angle in the Dark}{272}{section.8.9}%
-\contentsline {chapter}{\numberline {9}Old And New About The Circle}{275}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Practical geometry of the Egyptians and Romans}{275}{section.9.1}%
-\contentsline {section}{\numberline {9.2}``I know this and I remember it perfectly.''}{277}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Jack London's Error}{284}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Dropping a Needle}{285}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Straightening a Circle Problem}{288}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Squaring the Circle}{290}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Triangle of Bing}{296}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Head or Feet}{298}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Wire Along the Equator Problem}{299}{section.9.9}%
-\contentsline {section}{\numberline {9.10}Facts and Calculations}{300}{section.9.10}%
-\contentsline {section}{\numberline {9.11}The Girl on the Tightrope}{305}{section.9.11}%
-\contentsline {section}{\numberline {9.12}The Path through the Pole}{309}{section.9.12}%
-\contentsline {section}{\numberline {9.13}For the drive belt}{317}{section.9.13}%
-\contentsline {section}{\numberline {9.14}The Raven's Cleverness}{321}{section.9.14}%
-\contentsline {chapter}{\numberline {10}Geometry Without Measurements And Calculations}{325}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Building without a compass}{325}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Centre of Gravity of a Plate}{327}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Napoleon's Task}{328}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Simple Trisector}{330}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Clock Trisector}{332}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Dividing a Circle}{333}{section.10.6}%
-\contentsline {section}{\numberline {10.7}Billiard Ball Problem}{336}{section.10.7}%
-\contentsline {section}{\numberline {10.8}The ``Smart'' Ball}{339}{section.10.8}%
-\contentsline {section}{\numberline {10.9}In One Stroke}{348}{section.10.9}%
-\contentsline {section}{\numberline {10.10}The Seven Bridges of K\"onigsberg}{353}{section.10.10}%
-\contentsline {section}{\numberline {10.11}Geometrical Joke}{354}{section.10.11}%
-\contentsline {section}{\numberline {10.12}Form Verification Problem}{356}{section.10.12}%
-\contentsline {section}{\numberline {10.13}Game}{357}{section.10.13}%
-\contentsline {chapter}{\numberline {11}Big And Small In Geometry}{361}{chapter.11}%
-\contentsline {section}{\numberline {11.1}In a Thimble}{361}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Volume and Pressure}{364}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Thinner than a spider web but stronger than steel}{368}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Two Jars}{371}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Gigantic Cigarette}{372}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Ostrich Egg Task}{373}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Elephant Bird Egg}{374}{section.11.7}%
-\contentsline {section}{\numberline {11.8}Eggs of Russian Birds}{375}{section.11.8}%
-\contentsline {section}{\numberline {11.9}Weight of the eggshell}{377}{section.11.9}%
-\contentsline {section}{\numberline {11.10}The sizes of our coins}{378}{section.11.10}%
-\contentsline {section}{\numberline {11.11}Coin worth a million roubles}{379}{section.11.11}%
-\contentsline {section}{\numberline {11.12}Visual Representations}{379}{section.11.12}%
-\contentsline {section}{\numberline {11.13}Our Normal Weight}{384}{section.11.13}%
-\contentsline {section}{\numberline {11.14}Gulliver's Geometry}{386}{section.11.14}%
-\contentsline {section}{\numberline {11.15}Why does dust and clouds float in the air?}{390}{section.11.15}%
-\contentsline {chapter}{\numberline {12}Geometric Economy}{395}{chapter.12}%
-\contentsline {section}{\numberline {12.1}How Did Pahom Buy Land}{395}{section.12.1}%
-\contentsline {section}{\numberline {12.2}The Problem of Leo Tolstoy}{400}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Trapezoid or Rectangle}{403}{section.12.3}%
-\contentsline {section}{\numberline {12.4}The Remarkable Property of a Square}{405}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Plots of Different Shapes}{407}{section.12.5}%
-\contentsline {section}{\numberline {12.6}Figures with the Greatest Area}{409}{section.12.6}%
-\contentsline {section}{\numberline {12.7}Nails}{413}{section.12.7}%
-\contentsline {section}{\numberline {12.8}Body of Greatest Volume}{414}{section.12.8}%
-\contentsline {section}{\numberline {12.9}Product of Equal Factors}{415}{section.12.9}%
-\contentsline {section}{\numberline {12.10}Triangle with the Greatest Area}{417}{section.12.10}%
-\contentsline {section}{\numberline {12.11}The Heaviest Beam}{419}{section.12.11}%
-\contentsline {section}{\numberline {12.12}From a Cardboard Triangle}{420}{section.12.12}%
-\contentsline {section}{\numberline {12.13}The Tinsmith's Dilemma}{421}{section.12.13}%
-\contentsline {section}{\numberline {12.14}The Turner's Dilemma}{424}{section.12.14}%
-\contentsline {section}{\numberline {12.15}How to Lengthen a Board?}{427}{section.12.15}%
-\contentsline {section}{\numberline {12.16}The Shortest Path}{430}{section.12.16}%
+\contentsline {section}{\nonumberline By the length of the shadow}{5}{section*.6}%
+\contentsline {section}{\nonumberline Two More Methods}{13}{section*.11}%
+\contentsline {section}{\nonumberline The Method of Jules Verne}{15}{section*.16}%
+\contentsline {section}{\nonumberline How Sergeant Popov Acted}{19}{section*.19}%
+\contentsline {section}{\nonumberline Using a Notebook}{22}{section*.22}%
+\contentsline {section}{\nonumberline Without Approaching The Tree}{23}{section*.25}%
+\contentsline {section}{\nonumberline Forest Rangers' Altimeter}{25}{section*.28}%
+\contentsline {section}{\nonumberline Using a Mirror}{29}{section*.33}%
+\contentsline {section}{\nonumberline Two Pines}{32}{section*.37}%
+\contentsline {section}{\nonumberline The shape of the tree trunk}{33}{section*.40}%
+\contentsline {section}{\nonumberline Universal Formula}{35}{section*.42}%
+\contentsline {section}{\nonumberline Volume and Weight of a Tree at the Root}{38}{section*.46}%
+\contentsline {section}{\nonumberline Leaf Geometry}{43}{section*.51}%
+\contentsline {section}{\nonumberline Six-legged heroes}{45}{section*.55}%
+\contentsline {chapter}{\numberline {2}Geometry By The River}{49}{chapter.2}%
+\contentsline {section}{\nonumberline Measuring the width of the river}{49}{section*.58}%
+\contentsline {section}{\nonumberline Using a visor}{56}{section*.67}%
+\contentsline {section}{\nonumberline The Length Of An Island}{59}{section*.71}%
+\contentsline {section}{\nonumberline A pedestrian on the opposite bank}{60}{section*.75}%
+\contentsline {section}{\nonumberline Simple Rangefinders}{63}{section*.78}%
+\contentsline {section}{\nonumberline The energy of the river}{67}{section*.84}%
+\contentsline {section}{\nonumberline The Flow Rate}{69}{section*.86}%
+\contentsline {section}{\nonumberline How Much Water Flows In The River?}{72}{section*.89}%
+\contentsline {section}{\nonumberline Water Wheel}{78}{section*.94}%
+\contentsline {section}{\nonumberline Rainbow Film}{79}{section*.97}%
+\contentsline {section}{\nonumberline Circles on the Water}{81}{section*.99}%
+\contentsline {section}{\nonumberline Fantastic Shrapnel}{84}{section*.103}%
+\contentsline {section}{\nonumberline The Keel Wave}{85}{section*.105}%
+\contentsline {section}{\nonumberline Speed of Projectiles}{89}{section*.111}%
+\contentsline {section}{\nonumberline Finding Pond Depth}{91}{section*.114}%
+\contentsline {section}{\nonumberline Starry Sky in the River}{93}{section*.117}%
+\contentsline {section}{\nonumberline Path Across the River}{95}{section*.121}%
+\contentsline {section}{\nonumberline To Construct Two Bridges}{97}{section*.127}%
+\contentsline {chapter}{\numberline {3}Geometry In The Open Field}{99}{chapter.3}%
+\contentsline {section}{\nonumberline Visible sizes of the Moon}{99}{section*.130}%
+\contentsline {section}{\nonumberline Angle of View}{103}{section*.133}%
+\contentsline {section}{\nonumberline Plate and Moon}{105}{section*.136}%
+\contentsline {section}{\nonumberline Moon and Copper Coins}{106}{section*.138}%
+\contentsline {section}{\nonumberline Sensational Photographs}{107}{section*.140}%
+\contentsline {section}{\nonumberline Reservoir Set Decoration}{110}{section*.145}%
+\contentsline {section}{\nonumberline Living Protractor}{112}{section*.149}%
+\contentsline {section}{\nonumberline Jacob's Staff}{116}{section*.152}%
+\contentsline {section}{\nonumberline Rake Angle Gauge}{118}{section*.156}%
+\contentsline {section}{\nonumberline Artilleryman's Angle}{120}{section*.159}%
+\contentsline {section}{\nonumberline Your visual acuity}{123}{section*.162}%
+\contentsline {section}{\nonumberline The Limiting Minute}{125}{section*.165}%
+\contentsline {section}{\nonumberline The Moon and Stars at the Horizon}{128}{section*.167}%
+\contentsline {section}{\nonumberline The length of the Moon's Shadow}{132}{section*.171}%
+\contentsline {section}{\nonumberline How high is the cloud above the ground?}{134}{section*.173}%
+\contentsline {section}{\nonumberline Tower Height from Photograph}{142}{section*.177}%
+\contentsline {section}{\nonumberline Exercises}{144}{section*.180}%
+\contentsline {chapter}{\numberline {4}Geometry on the Road}{147}{chapter.4}%
+\contentsline {section}{\nonumberline The art of measuring by steps}{147}{section*.182}%
+\contentsline {section}{\nonumberline Eye-meter}{149}{section*.184}%
+\contentsline {section}{\nonumberline Slopes}{155}{section*.188}%
+\contentsline {section}{\nonumberline Heap of Gravel}{159}{section*.191}%
+\contentsline {section}{\nonumberline The Proud Hill}{161}{section*.194}%
+\contentsline {section}{\nonumberline At a Road Curve}{163}{section*.196}%
+\contentsline {section}{\nonumberline Radius of Curvature}{165}{section*.199}%
+\contentsline {section}{\nonumberline The bottom of the ocean}{168}{section*.203}%
+\contentsline {section}{\nonumberline Do water mountains exist?}{171}{section*.206}%
+\contentsline {chapter}{\numberline {5}Field Trigonometry Without Formulas and Tables}{175}{chapter.5}%
+\contentsline {section}{\nonumberline Calculation of the sine}{175}{section*.209}%
+\contentsline {section}{\nonumberline Extraction of the square root}{181}{section*.214}%
+\contentsline {section}{\nonumberline To find an angle from its sine}{183}{section*.216}%
+\contentsline {section}{\nonumberline Height of the Sun Problem}{185}{section*.220}%
+\contentsline {section}{\nonumberline Distance to the Island Problem}{186}{section*.222}%
+\contentsline {section}{\nonumberline Lake Width Problem}{188}{section*.225}%
+\contentsline {section}{\nonumberline Triangle Area Problem}{190}{section*.229}%
+\contentsline {section}{\nonumberline Determining the Magnitude of an Angle without any Instruments}{192}{section*.232}%
+\contentsline {chapter}{\numberline {6}Where Heaven and Earth Converge}{195}{chapter.6}%
+\contentsline {section}{\nonumberline Horizon}{195}{section*.235}%
+\contentsline {section}{\nonumberline Ship on the Horizon}{199}{section*.239}%
+\contentsline {section}{\nonumberline The Distance to the Horizon}{200}{section*.244}%
+\contentsline {section}{\nonumberline Gogol's Tower Problem}{208}{section*.248}%
+\contentsline {section}{\nonumberline Pushkin's Hill}{209}{section*.250}%
+\contentsline {section}{\nonumberline Where the Rails Meet}{210}{section*.252}%
+\contentsline {section}{\nonumberline Lighthouse Problems}{211}{section*.254}%
+\contentsline {section}{\nonumberline Lightning Problem}{213}{section*.257}%
+\contentsline {section}{\nonumberline Sailboat Problem}{214}{section*.260}%
+\contentsline {section}{\nonumberline Horizon on the Moon}{215}{section*.262}%
+\contentsline {section}{\nonumberline In the Lunar crater}{216}{section*.264}%
+\contentsline {section}{\nonumberline On Jupiter}{217}{section*.266}%
+\contentsline {chapter}{\numberline {7}The Geometry Of The Robinsons}{219}{chapter.7}%
+\contentsline {section}{\nonumberline The Geometry of the Starry Sky}{219}{section*.269}%
+\contentsline {section}{\nonumberline The latitude of the `Mysterious island'}{225}{section*.272}%
+\contentsline {section}{\nonumberline Determining Geographic Longitude}{229}{section*.274}%
+\contentsline {part}{\numberline {II}Between Seriousness And Joke In Geometry}{233}{part.2}%
+\contentsline {chapter}{\numberline {8}Geometry In The Dark}{237}{chapter.8}%
+\contentsline {section}{\nonumberline Into the Depths of the Hold}{237}{section*.276}%
+\contentsline {section}{\nonumberline Measuring the Barrel}{238}{section*.278}%
+\contentsline {section}{\nonumberline Measuring ruler (The Mayne-Reid Problem)}{240}{section*.281}%
+\contentsline {section}{\nonumberline What needed to be done}{243}{section*.283}%
+\contentsline {section}{\nonumberline Verification of the Calculation}{246}{section*.285}%
+\contentsline {section}{\nonumberline The Night Journey of Mark Twain}{252}{section*.289}%
+\contentsline {section}{\nonumberline Mysterious Circumnavigation}{255}{section*.291}%
+\contentsline {section}{\nonumberline Measuring with Bare Hands}{267}{section*.299}%
+\contentsline {section}{\nonumberline Straight Angle in the Dark}{270}{section*.306}%
+\contentsline {chapter}{\numberline {9}Old And New About The Circle}{273}{chapter.9}%
+\contentsline {section}{\nonumberline Practical geometry of the Egyptians and Romans}{273}{section*.309}%
+\contentsline {section}{\nonumberline ``I know this and I remember it perfectly.''}{275}{section*.311}%
+\contentsline {section}{\nonumberline Jack London's Error}{282}{section*.314}%
+\contentsline {section}{\nonumberline Dropping a Needle}{283}{section*.316}%
+\contentsline {section}{\nonumberline Straightening a Circle Problem}{286}{section*.319}%
+\contentsline {section}{\nonumberline Squaring the Circle}{288}{section*.322}%
+\contentsline {section}{\nonumberline Triangle of Bing}{294}{section*.324}%
+\contentsline {section}{\nonumberline Head or Feet}{295}{section*.327}%
+\contentsline {section}{\nonumberline Wire Along the Equator Problem}{297}{section*.329}%
+\contentsline {section}{\nonumberline Facts and Calculations}{298}{section*.331}%
+\contentsline {section}{\nonumberline The Girl on the Tightrope}{303}{section*.336}%
+\contentsline {section}{\nonumberline The Path through the Pole}{307}{section*.343}%
+\contentsline {section}{\nonumberline For the drive belt}{315}{section*.349}%
+\contentsline {section}{\nonumberline The Raven's Cleverness}{319}{section*.353}%
+\contentsline {chapter}{\numberline {10}Geometry Without Measurements And Calculations}{323}{chapter.10}%
+\contentsline {section}{\nonumberline Building without a compass}{323}{section*.355}%
+\contentsline {section}{\nonumberline Centre of Gravity of a Plate}{325}{section*.359}%
+\contentsline {section}{\nonumberline Napoleon's Task}{326}{section*.363}%
+\contentsline {section}{\nonumberline Simple Trisector}{328}{section*.367}%
+\contentsline {section}{\nonumberline Clock Trisector}{330}{section*.370}%
+\contentsline {section}{\nonumberline Dividing a Circle}{331}{section*.373}%
+\contentsline {section}{\nonumberline Billiard Ball Problem}{334}{section*.377}%
+\contentsline {section}{\nonumberline The ``Smart'' Ball}{337}{section*.381}%
+\contentsline {section}{\nonumberline In One Stroke}{346}{section*.387}%
+\contentsline {section}{\nonumberline The Seven Bridges of K\"onigsberg}{351}{section*.391}%
+\contentsline {section}{\nonumberline Geometrical Joke}{352}{section*.394}%
+\contentsline {section}{\nonumberline Form Verification Problem}{354}{section*.397}%
+\contentsline {section}{\nonumberline Game}{355}{section*.399}%
+\contentsline {chapter}{\numberline {11}Big And Small In Geometry}{359}{chapter.11}%
+\contentsline {section}{\nonumberline In a Thimble}{359}{section*.402}%
+\contentsline {section}{\nonumberline Volume and Pressure}{362}{section*.406}%
+\contentsline {section}{\nonumberline Thinner than a spider web but stronger than steel}{366}{section*.409}%
+\contentsline {section}{\nonumberline Two Jars}{369}{section*.413}%
+\contentsline {section}{\nonumberline Gigantic Cigarette}{370}{section*.417}%
+\contentsline {section}{\nonumberline Ostrich Egg Task}{371}{section*.419}%
+\contentsline {section}{\nonumberline Elephant Bird Egg}{372}{section*.422}%
+\contentsline {section}{\nonumberline Eggs of Russian Birds}{373}{section*.424}%
+\contentsline {section}{\nonumberline Weight of the eggshell}{375}{section*.427}%
+\contentsline {section}{\nonumberline The sizes of our coins}{376}{section*.429}%
+\contentsline {section}{\nonumberline Coin worth a million roubles}{377}{section*.431}%
+\contentsline {section}{\nonumberline Visual Representations}{377}{section*.434}%
+\contentsline {section}{\nonumberline Our Normal Weight}{382}{section*.439}%
+\contentsline {section}{\nonumberline Gulliver's Geometry}{384}{section*.441}%
+\contentsline {section}{\nonumberline Why does dust and clouds float in the air?}{388}{section*.444}%
+\contentsline {chapter}{\numberline {12}Geometric Economy}{393}{chapter.12}%
+\contentsline {section}{\nonumberline How Did Pahom Buy Land}{393}{section*.446}%
+\contentsline {section}{\nonumberline The Problem of Leo Tolstoy}{398}{section*.449}%
+\contentsline {section}{\nonumberline Trapezoid or Rectangle}{401}{section*.453}%
+\contentsline {section}{\nonumberline The Remarkable Property of a Square}{403}{section*.455}%
+\contentsline {section}{\nonumberline Plots of Different Shapes}{405}{section*.457}%
+\contentsline {section}{\nonumberline Figures with the Greatest Area}{407}{section*.459}%
+\contentsline {section}{\nonumberline Nails}{411}{section*.465}%
+\contentsline {section}{\nonumberline Body of Greatest Volume}{411}{section*.467}%
+\contentsline {section}{\nonumberline Product of Equal Factors}{412}{section*.469}%
+\contentsline {section}{\nonumberline Triangle with the Greatest Area}{415}{section*.471}%
+\contentsline {section}{\nonumberline The Heaviest Beam}{416}{section*.473}%
+\contentsline {section}{\nonumberline From a Cardboard Triangle}{417}{section*.476}%
+\contentsline {section}{\nonumberline The Tinsmith's Dilemma}{419}{section*.479}%
+\contentsline {section}{\nonumberline The Turner's Dilemma}{422}{section*.483}%
+\contentsline {section}{\nonumberline How to Lengthen a Board?}{425}{section*.489}%
+\contentsline {section}{\nonumberline The Shortest Path}{428}{section*.493}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
